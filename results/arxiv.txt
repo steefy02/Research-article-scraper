@@ -1,0 +1,2065 @@
+====================================================================================================
+ARXIV - RESEARCH ARTICLES
+====================================================================================================
+
+Total unique articles: 63
+Search keywords: 7
+
+
+====================================================================================================
+KEYWORD: DARK PATTERNS
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation
+----------------------------------------------------------------------------------------------------
+
+Authors: Zisu Li, Hengye Lyu, Jiaxin Shi, Yufeng Zeng, Mingming Fan, Hanwang Zhang, Chen Liang
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01960v1
+
+BibTeX Citation:
+@article{li2025-12-01spritehand:,
+  title={SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation},
+  author={Zisu Li, Hengye Lyu, Jiaxin Shi, Yufeng Zeng, Mingming Fan, Hanwang Zhang, Chen Liang},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01960v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations
+----------------------------------------------------------------------------------------------------
+
+Authors: Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00516v1
+
+BibTeX Citation:
+@article{karunathilaka2025-11-29chameleon:,
+  title={Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations},
+  author={Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00516v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Truck drivers and automation: A methodology for identifying and supporting workforce transition in the Australian road freight sector
+----------------------------------------------------------------------------------------------------
+
+Authors: Alexandra Bratanova, Claire Mason, David Evans, Emma Schleiger, Einat Grimberg, Gavin Walker, Hien Pham, Keeley Bulled
+Publication Date: 2025-11-29
+Journal/Venue: Transport Policy, Volume 176, 2026, 103907
+DOI: 10.1016/j.tranpol.2025.103907
+URL: http://arxiv.org/abs/2512.00465v1
+
+BibTeX Citation:
+@article{bratanova2025-11-29truck,
+  title={Truck drivers and automation: A methodology for identifying and supporting workforce transition in the Australian road freight sector},
+  author={Alexandra Bratanova, Claire Mason, David Evans, Emma Schleiger, Einat Grimberg, Gavin Walker, Hien Pham, Keeley Bulled},
+  year={2025-11-29},
+  journal={Transport Policy, Volume 176, 2026, 103907},
+  doi={10.1016/j.tranpol.2025.103907},
+  url={http://arxiv.org/abs/2512.00465v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: 10.1007/978-3-032-00880-0_4
+URL: http://arxiv.org/abs/2512.00420v1
+
+BibTeX Citation:
+@article{rockbach2025-11-29an,
+  title={An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence},
+  author={Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz},
+  year={2025-11-29},
+  doi={10.1007/978-3-032-00880-0_4},
+  url={http://arxiv.org/abs/2512.00420v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Sung Park
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00418v1
+
+BibTeX Citation:
+@article{park2025-11-29significant,
+  title={Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence},
+  author={Sung Park},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00418v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Safe Autonomous Lane Changing: Planning with Dynamic Risk Fields and Time-Varying Convex Space Generation
+----------------------------------------------------------------------------------------------------
+
+Authors: Zhen Tian, Zhihao Lin
+Publication Date: 2025-11-28
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22829v1
+
+BibTeX Citation:
+@article{tian2025-11-28safe,
+  title={Safe Autonomous Lane Changing: Planning with Dynamic Risk Fields and Time-Varying Convex Space Generation},
+  author={Zhen Tian, Zhihao Lin},
+  year={2025-11-28},
+  url={http://arxiv.org/abs/2511.22829v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] A race to belief: How Evidence Accumulation shapes trust in AI and Human informants
+----------------------------------------------------------------------------------------------------
+
+Authors: Johan Sebastián Galindez-Acosta, Juan José Giraldo-Huertas
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22617v1
+
+BibTeX Citation:
+@article{galindez-acosta2025-11-27a,
+  title={A race to belief: How Evidence Accumulation shapes trust in AI and Human informants},
+  author={Johan Sebastián Galindez-Acosta, Juan José Giraldo-Huertas},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22617v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Seeing Twice: How Side-by-Side T2I Comparison Changes Auditing Strategies
+----------------------------------------------------------------------------------------------------
+
+Authors: Matheus Kunzler Maldaner, Wesley Hanwen Deng, Jason I. Hong, Kenneth Holstein, Motahhare Eslami
+Publication Date: 2025-11-26
+Journal/Venue: N/A
+DOI: 10.1145/3715928.3758069
+URL: http://arxiv.org/abs/2511.21547v1
+
+BibTeX Citation:
+@article{maldaner2025-11-26seeing,
+  title={Seeing Twice: How Side-by-Side T2I Comparison Changes Auditing Strategies},
+  author={Matheus Kunzler Maldaner, Wesley Hanwen Deng, Jason I. Hong, Kenneth Holstein, Motahhare Eslami},
+  year={2025-11-26},
+  doi={10.1145/3715928.3758069},
+  url={http://arxiv.org/abs/2511.21547v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Adaptive LLM Agents: Toward Personalized Empathetic Care
+----------------------------------------------------------------------------------------------------
+
+Authors: Priyanka Singh, Sebastian Von Mammen
+Publication Date: 2025-11-25
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.20080v1
+
+BibTeX Citation:
+@article{singh2025-11-25adaptive,
+  title={Adaptive LLM Agents: Toward Personalized Empathetic Care},
+  author={Priyanka Singh, Sebastian Von Mammen},
+  year={2025-11-25},
+  url={http://arxiv.org/abs/2511.20080v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] LLM Chatbots in High School Programming: Exploring Behaviors and Interventions
+----------------------------------------------------------------------------------------------------
+
+Authors: Manuel Valle Torre, Marcus Specht, Catharine Oertel
+Publication Date: 2025-11-24
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.18985v1
+
+BibTeX Citation:
+@article{torre2025-11-24llm,
+  title={LLM Chatbots in High School Programming: Exploring Behaviors and Interventions},
+  author={Manuel Valle Torre, Marcus Specht, Catharine Oertel},
+  year={2025-11-24},
+  url={http://arxiv.org/abs/2511.18985v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] The Evaluation for Usability Methods of Unmanned Surface Vehicles: Are Current Usability Methods Viable for Unmanned Surface Vehicles? Insights from a Multiple Case Study Approach to Human-Robot Interaction
+----------------------------------------------------------------------------------------------------
+
+Authors: Zitian Peng, Shiyao Zhang, Shanliang Yao, Xiaohui Zhu, Mengjie Huang, Prudence Wong, Yong Yue
+Publication Date: 2025-11-23
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.18561v1
+
+BibTeX Citation:
+@article{peng2025-11-23the,
+  title={The Evaluation for Usability Methods of Unmanned Surface Vehicles: Are Current Usability Methods Viable for Unmanned Surface Vehicles? Insights from a Multiple Case Study Approach to Human-Robot Interaction},
+  author={Zitian Peng, Shiyao Zhang, Shanliang Yao, Xiaohui Zhu, Mengjie Huang, Prudence Wong, Yong Yue},
+  year={2025-11-23},
+  url={http://arxiv.org/abs/2511.18561v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Stable diffusion models reveal a persisting human and AI gap in visual creativity
+----------------------------------------------------------------------------------------------------
+
+Authors: Silvia Rondini, Claudia Alvarez-Martin, Paula Angermair-Barkai, Olivier Penacchio, M. Paz, Matthew Pelowski, Dan Dediu, Antoni Rodriguez-Fornells, Xim Cerda-Company
+Publication Date: 2025-11-20
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.16814v1
+
+BibTeX Citation:
+@article{rondini2025-11-20stable,
+  title={Stable diffusion models reveal a persisting human and AI gap in visual creativity},
+  author={Silvia Rondini, Claudia Alvarez-Martin, Paula Angermair-Barkai, Olivier Penacchio, M. Paz, Matthew Pelowski, Dan Dediu, Antoni Rodriguez-Fornells, Xim Cerda-Company},
+  year={2025-11-20},
+  url={http://arxiv.org/abs/2511.16814v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] Trust in AI emerges from distrust in humans: A machine learning study on decision-making guidance
+----------------------------------------------------------------------------------------------------
+
+Authors: Johan Sebastián Galindez-Acosta, Juan José Giraldo-Huertas
+Publication Date: 2025-11-20
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.16769v1
+
+BibTeX Citation:
+@article{galindez-acosta2025-11-20trust,
+  title={Trust in AI emerges from distrust in humans: A machine learning study on decision-making guidance},
+  author={Johan Sebastián Galindez-Acosta, Juan José Giraldo-Huertas},
+  year={2025-11-20},
+  url={http://arxiv.org/abs/2511.16769v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Heterogeneous Stroke: Using Unique Vibration Cues to Improve the Wrist-Worn Spatiotemporal Tactile Display
+----------------------------------------------------------------------------------------------------
+
+Authors: Taejun Kim, Youngbo Aram Shim, Geehyuk Lee
+Publication Date: 2025-11-20
+Journal/Venue: N/A
+DOI: 10.1145/3411764.3445448
+URL: http://arxiv.org/abs/2511.16133v1
+
+BibTeX Citation:
+@article{kim2025-11-20heterogeneous,
+  title={Heterogeneous Stroke: Using Unique Vibration Cues to Improve the Wrist-Worn Spatiotemporal Tactile Display},
+  author={Taejun Kim, Youngbo Aram Shim, Geehyuk Lee},
+  year={2025-11-20},
+  doi={10.1145/3411764.3445448},
+  url={http://arxiv.org/abs/2511.16133v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Reflexive Evidence-Based Multimodal Learning for Clean Energy Transitions: Causal Insights on Cooking Fuel Access, Urbanization, and Carbon Emissions
+----------------------------------------------------------------------------------------------------
+
+Authors: Shan Shan
+Publication Date: 2025-11-19
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.15342v1
+
+BibTeX Citation:
+@article{shan2025-11-19reflexive,
+  title={Reflexive Evidence-Based Multimodal Learning for Clean Energy Transitions: Causal Insights on Cooking Fuel Access, Urbanization, and Carbon Emissions},
+  author={Shan Shan},
+  year={2025-11-19},
+  url={http://arxiv.org/abs/2511.15342v1},
+  note={Source: arXiv}
+}
+
+====================================================================================================
+KEYWORD: DECEPTIVE DESIGN
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Exploring Human Perceptions of AI Responses: Insights from a Mixed-Methods Study on Risk Mitigation in Generative Models
+----------------------------------------------------------------------------------------------------
+
+Authors: Heloisa Candello, Muneeza Azmat, Uma Sushmitha Gunturi, Raya Horesh, Rogerio Abreu de Paula, Heloisa Pimentel, Marcelo Carpinette Grave, Aminat Adebiyi, Tiago Machado, Maysa Malfiza Garcia de Macedo
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01892v1
+
+BibTeX Citation:
+@article{candello2025-12-01exploring,
+  title={Exploring Human Perceptions of AI Responses: Insights from a Mixed-Methods Study on Risk Mitigation in Generative Models},
+  author={Heloisa Candello, Muneeza Azmat, Uma Sushmitha Gunturi, Raya Horesh, Rogerio Abreu de Paula, Heloisa Pimentel, Marcelo Carpinette Grave, Aminat Adebiyi, Tiago Machado, Maysa Malfiza Garcia de Macedo},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01892v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] A Meta-Analysis of the Persuasive Power of Large Language Models
+----------------------------------------------------------------------------------------------------
+
+Authors: Lukas Hölbling, Sebastian Maier, Stefan Feuerriegel
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01431v1
+
+BibTeX Citation:
+@article{hölbling2025-12-01a,
+  title={A Meta-Analysis of the Persuasive Power of Large Language Models},
+  author={Lukas Hölbling, Sebastian Maier, Stefan Feuerriegel},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01431v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Ethically-Aware Participatory Design of a Productivity Social Robot for College Students
+----------------------------------------------------------------------------------------------------
+
+Authors: Himanshi Lalwani, Hanan Salam
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01111v1
+
+BibTeX Citation:
+@article{lalwani2025-11-30ethically-aware,
+  title={Ethically-Aware Participatory Design of a Productivity Social Robot for College Students},
+  author={Himanshi Lalwani, Hanan Salam},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.01111v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages
+----------------------------------------------------------------------------------------------------
+
+Authors: Neha Joshi, Pamir Gogoi, Aasim Mirza, Aayush Jansari, Aditya Yadavalli, Ayushi Pandey, Arunima Shukla, Deepthi Sudharsan, Kalika Bali, Vivek Seshadri
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01077v1
+
+BibTeX Citation:
+@article{joshi2025-11-30elr-1000:,
+  title={ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages},
+  author={Neha Joshi, Pamir Gogoi, Aasim Mirza, Aayush Jansari, Aditya Yadavalli, Ayushi Pandey, Arunima Shukla, Deepthi Sudharsan, Kalika Bali, Vivek Seshadri},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.01077v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] The AI Attribution Paradox: Transparency as Social Strategy in Open-Source Software Development
+----------------------------------------------------------------------------------------------------
+
+Authors: Obada Kraishan
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00867v1
+
+BibTeX Citation:
+@article{kraishan2025-11-30the,
+  title={The AI Attribution Paradox: Transparency as Social Strategy in Open-Source Software Development},
+  author={Obada Kraishan},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.00867v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Speculating on the Role of Media Architecture in Post-disaster Rebuilding and Recovery: Insights from Architects and Interaction Designers
+----------------------------------------------------------------------------------------------------
+
+Authors: Berk Goksenin Tan, Oguzhan Ozcan
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00537v1
+
+BibTeX Citation:
+@article{tan2025-11-29speculating,
+  title={Speculating on the Role of Media Architecture in Post-disaster Rebuilding and Recovery: Insights from Architects and Interaction Designers},
+  author={Berk Goksenin Tan, Oguzhan Ozcan},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00537v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations
+----------------------------------------------------------------------------------------------------
+
+Authors: Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00516v1
+
+BibTeX Citation:
+@article{karunathilaka2025-11-29chameleon:,
+  title={Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations},
+  author={Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00516v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: 10.1007/978-3-032-00880-0_4
+URL: http://arxiv.org/abs/2512.00420v1
+
+BibTeX Citation:
+@article{rockbach2025-11-29an,
+  title={An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence},
+  author={Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz},
+  year={2025-11-29},
+  doi={10.1007/978-3-032-00880-0_4},
+  url={http://arxiv.org/abs/2512.00420v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00324v1
+
+BibTeX Citation:
+@article{du2025-11-29mile:,
+  title={MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation},
+  author={Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00324v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] The Professional Challenges of Industrial Designer in Industry 4.0
+----------------------------------------------------------------------------------------------------
+
+Authors: Meng Li, Yu Zhang, Leshan Li
+Publication Date: 2025-11-29
+Journal/Venue: Advanced Design Concepts and Practice (ADCP 2015)
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00279v1
+
+BibTeX Citation:
+@article{li2025-11-29the,
+  title={The Professional Challenges of Industrial Designer in Industry 4.0},
+  author={Meng Li, Yu Zhang, Leshan Li},
+  year={2025-11-29},
+  journal={Advanced Design Concepts and Practice (ADCP 2015)},
+  url={http://arxiv.org/abs/2512.00279v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon
+----------------------------------------------------------------------------------------------------
+
+Authors: Isabel Whiteley Tscherniak, Niels Christopher Thiemann, Ana McWhinnie-Fernández, Iustin Curcean, Leon Jokinen, Sadat Hodzic, Thomas E. Huber, Daniel Pavlov, Manuel Methasani, Pietro Marcolongo, Glenn Viktor Krafczyk, Oscar Osvaldo Soto Rivera, Thien Le, Flaminia Pallotti, Enrico A. Fazzi, neuroTUM e.
+Publication Date: 2025-11-28
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.23384v2
+
+BibTeX Citation:
+@article{tscherniak2025-11-28improving,
+  title={Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon},
+  author={Isabel Whiteley Tscherniak, Niels Christopher Thiemann, Ana McWhinnie-Fernández, Iustin Curcean, Leon Jokinen, Sadat Hodzic, Thomas E. Huber, Daniel Pavlov, Manuel Methasani, Pietro Marcolongo, Glenn Viktor Krafczyk, Oscar Osvaldo Soto Rivera, Thien Le, Flaminia Pallotti, Enrico A. Fazzi, neuroTUM e.},
+  year={2025-11-28},
+  url={http://arxiv.org/abs/2511.23384v2},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Body Management Information Practices on a Female-dominant Platform
+----------------------------------------------------------------------------------------------------
+
+Authors: Na Li, Chuhao Wu, Hongyang Zhou, Huiran Yi, Xuefei Wang, Jie Cai, Xinyi Fu, John Carroll
+Publication Date: 2025-11-28
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22942v1
+
+BibTeX Citation:
+@article{li2025-11-28body,
+  title={Body Management Information Practices on a Female-dominant Platform},
+  author={Na Li, Chuhao Wu, Hongyang Zhou, Huiran Yi, Xuefei Wang, Jie Cai, Xinyi Fu, John Carroll},
+  year={2025-11-28},
+  url={http://arxiv.org/abs/2511.22942v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] AI summaries in online search influence users' attitudes
+----------------------------------------------------------------------------------------------------
+
+Authors: Yiwei Xu, Saloni Dash, Sungha Kang, Wang Liao, Emma S. Spiro
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22809v1
+
+BibTeX Citation:
+@article{xu2025-11-27ai,
+  title={AI summaries in online search influence users' attitudes},
+  author={Yiwei Xu, Saloni Dash, Sungha Kang, Wang Liao, Emma S. Spiro},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22809v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Learning Programming in Informal Spaces: Using Emotion as a Lens to Understand Novice Struggles on r/learnprogramming
+----------------------------------------------------------------------------------------------------
+
+Authors: Alif Al Hasan, Subarna Saha, Mia Mohammad Imran
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22789v1
+
+BibTeX Citation:
+@article{hasan2025-11-27learning,
+  title={Learning Programming in Informal Spaces: Using Emotion as a Lens to Understand Novice Struggles on r/learnprogramming},
+  author={Alif Al Hasan, Subarna Saha, Mia Mohammad Imran},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22789v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Agentic AI Framework for Individuals with Disabilities and Neurodivergence: A Multi-Agent System for Healthy Eating, Daily Routines, and Inclusive Well-Being
+----------------------------------------------------------------------------------------------------
+
+Authors: Salman Jan, Toqeer Ali Syed, Gohar Ali, Ali Akarma, Mohammad Riyaz Belgaum, Ahmad Ali
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22737v1
+
+BibTeX Citation:
+@article{jan2025-11-27agentic,
+  title={Agentic AI Framework for Individuals with Disabilities and Neurodivergence: A Multi-Agent System for Healthy Eating, Daily Routines, and Inclusive Well-Being},
+  author={Salman Jan, Toqeer Ali Syed, Gohar Ali, Ali Akarma, Mohammad Riyaz Belgaum, Ahmad Ali},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22737v1},
+  note={Source: arXiv}
+}
+
+====================================================================================================
+KEYWORD: USER INTERFACE MANIPULATION
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships
+----------------------------------------------------------------------------------------------------
+
+Authors: Hannah Rose Kirk, Henry Davidson, Ed Saunders, Lennart Luettgau, Bertie Vidgen, Scott A. Hale, Christopher Summerfield
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01991v1
+
+BibTeX Citation:
+@article{kirk2025-12-01neural,
+  title={Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships},
+  author={Hannah Rose Kirk, Henry Davidson, Ed Saunders, Lennart Luettgau, Bertie Vidgen, Scott A. Hale, Christopher Summerfield},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01991v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud
+----------------------------------------------------------------------------------------------------
+
+Authors: Yunzhe Li, Jiajun Yan, Yuzhou Wei, Kechen Liu, Yize Zhao, Chong Zhang, Hongzi Zhu, Li Lu, Shan Chang, Minyi Guo
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01366v1
+
+BibTeX Citation:
+@article{li2025-12-01blinkbud:,
+  title={BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud},
+  author={Yunzhe Li, Jiajun Yan, Yuzhou Wei, Kechen Liu, Yize Zhao, Chong Zhang, Hongzi Zhu, Li Lu, Shan Chang, Minyi Guo},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01366v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] MetaCQ: An etextbook platform with an Open Learner Model to support Metacognition
+----------------------------------------------------------------------------------------------------
+
+Authors: Beier Wang, Xueting Huang
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01313v1
+
+BibTeX Citation:
+@article{wang2025-12-01metacq:,
+  title={MetaCQ: An etextbook platform with an Open Learner Model to support Metacognition},
+  author={Beier Wang, Xueting Huang},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01313v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Benchmarking and Understanding Safety Risks in AI Character Platforms
+----------------------------------------------------------------------------------------------------
+
+Authors: Yiluo Wei, Peixian Zhang, Gareth Tyson
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01247v1
+
+BibTeX Citation:
+@article{wei2025-12-01benchmarking,
+  title={Benchmarking and Understanding Safety Risks in AI Character Platforms},
+  author={Yiluo Wei, Peixian Zhang, Gareth Tyson},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01247v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Ethically-Aware Participatory Design of a Productivity Social Robot for College Students
+----------------------------------------------------------------------------------------------------
+
+Authors: Himanshi Lalwani, Hanan Salam
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01111v1
+
+BibTeX Citation:
+@article{lalwani2025-11-30ethically-aware,
+  title={Ethically-Aware Participatory Design of a Productivity Social Robot for College Students},
+  author={Himanshi Lalwani, Hanan Salam},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.01111v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Supporting Productivity Skill Development in College Students through Social Robot Coaching: A Proof-of-Concept
+----------------------------------------------------------------------------------------------------
+
+Authors: Himanshi Lalwani, Hanan Salam
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: 10.1109/RO-MAN63969.2025.11217634
+URL: http://arxiv.org/abs/2512.01105v1
+
+BibTeX Citation:
+@article{lalwani2025-11-30supporting,
+  title={Supporting Productivity Skill Development in College Students through Social Robot Coaching: A Proof-of-Concept},
+  author={Himanshi Lalwani, Hanan Salam},
+  year={2025-11-30},
+  doi={10.1109/RO-MAN63969.2025.11217634},
+  url={http://arxiv.org/abs/2512.01105v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages
+----------------------------------------------------------------------------------------------------
+
+Authors: Neha Joshi, Pamir Gogoi, Aasim Mirza, Aayush Jansari, Aditya Yadavalli, Ayushi Pandey, Arunima Shukla, Deepthi Sudharsan, Kalika Bali, Vivek Seshadri
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01077v1
+
+BibTeX Citation:
+@article{joshi2025-11-30elr-1000:,
+  title={ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages},
+  author={Neha Joshi, Pamir Gogoi, Aasim Mirza, Aayush Jansari, Aditya Yadavalli, Ayushi Pandey, Arunima Shukla, Deepthi Sudharsan, Kalika Bali, Vivek Seshadri},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.01077v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Graph Queries from Natural Language using Constrained Language Models and Visual Editing
+----------------------------------------------------------------------------------------------------
+
+Authors: Benedikt Kantz, Kevin Innerebner, Peter Waldert, Stefan Lengauer, Elisabeth Lex, Tobias Schreck
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: 10.1109/ICKG66886.2025.00030
+URL: http://arxiv.org/abs/2512.00948v1
+
+BibTeX Citation:
+@article{kantz2025-11-30graph,
+  title={Graph Queries from Natural Language using Constrained Language Models and Visual Editing},
+  author={Benedikt Kantz, Kevin Innerebner, Peter Waldert, Stefan Lengauer, Elisabeth Lex, Tobias Schreck},
+  year={2025-11-30},
+  doi={10.1109/ICKG66886.2025.00030},
+  url={http://arxiv.org/abs/2512.00948v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations
+----------------------------------------------------------------------------------------------------
+
+Authors: Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00516v1
+
+BibTeX Citation:
+@article{karunathilaka2025-11-29chameleon:,
+  title={Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations},
+  author={Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00516v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: 10.1007/978-3-032-00880-0_4
+URL: http://arxiv.org/abs/2512.00420v1
+
+BibTeX Citation:
+@article{rockbach2025-11-29an,
+  title={An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence},
+  author={Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz},
+  year={2025-11-29},
+  doi={10.1007/978-3-032-00880-0_4},
+  url={http://arxiv.org/abs/2512.00420v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Sung Park
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00418v1
+
+BibTeX Citation:
+@article{park2025-11-29significant,
+  title={Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence},
+  author={Sung Park},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00418v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00324v1
+
+BibTeX Citation:
+@article{du2025-11-29mile:,
+  title={MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation},
+  author={Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00324v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System
+----------------------------------------------------------------------------------------------------
+
+Authors: Zhitong Guan, Yi Wang
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00313v1
+
+BibTeX Citation:
+@article{guan2025-11-29evolving,
+  title={Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System},
+  author={Zhitong Guan, Yi Wang},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00313v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] The Professional Challenges of Industrial Designer in Industry 4.0
+----------------------------------------------------------------------------------------------------
+
+Authors: Meng Li, Yu Zhang, Leshan Li
+Publication Date: 2025-11-29
+Journal/Venue: Advanced Design Concepts and Practice (ADCP 2015)
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00279v1
+
+BibTeX Citation:
+@article{li2025-11-29the,
+  title={The Professional Challenges of Industrial Designer in Industry 4.0},
+  author={Meng Li, Yu Zhang, Leshan Li},
+  year={2025-11-29},
+  journal={Advanced Design Concepts and Practice (ADCP 2015)},
+  url={http://arxiv.org/abs/2512.00279v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon
+----------------------------------------------------------------------------------------------------
+
+Authors: Isabel Whiteley Tscherniak, Niels Christopher Thiemann, Ana McWhinnie-Fernández, Iustin Curcean, Leon Jokinen, Sadat Hodzic, Thomas E. Huber, Daniel Pavlov, Manuel Methasani, Pietro Marcolongo, Glenn Viktor Krafczyk, Oscar Osvaldo Soto Rivera, Thien Le, Flaminia Pallotti, Enrico A. Fazzi, neuroTUM e.
+Publication Date: 2025-11-28
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.23384v2
+
+BibTeX Citation:
+@article{tscherniak2025-11-28improving,
+  title={Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon},
+  author={Isabel Whiteley Tscherniak, Niels Christopher Thiemann, Ana McWhinnie-Fernández, Iustin Curcean, Leon Jokinen, Sadat Hodzic, Thomas E. Huber, Daniel Pavlov, Manuel Methasani, Pietro Marcolongo, Glenn Viktor Krafczyk, Oscar Osvaldo Soto Rivera, Thien Le, Flaminia Pallotti, Enrico A. Fazzi, neuroTUM e.},
+  year={2025-11-28},
+  url={http://arxiv.org/abs/2511.23384v2},
+  note={Source: arXiv}
+}
+
+====================================================================================================
+KEYWORD: PERSUASIVE DESIGN ETHICS
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Exploring Human Perceptions of AI Responses: Insights from a Mixed-Methods Study on Risk Mitigation in Generative Models
+----------------------------------------------------------------------------------------------------
+
+Authors: Heloisa Candello, Muneeza Azmat, Uma Sushmitha Gunturi, Raya Horesh, Rogerio Abreu de Paula, Heloisa Pimentel, Marcelo Carpinette Grave, Aminat Adebiyi, Tiago Machado, Maysa Malfiza Garcia de Macedo
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01892v1
+
+BibTeX Citation:
+@article{candello2025-12-01exploring,
+  title={Exploring Human Perceptions of AI Responses: Insights from a Mixed-Methods Study on Risk Mitigation in Generative Models},
+  author={Heloisa Candello, Muneeza Azmat, Uma Sushmitha Gunturi, Raya Horesh, Rogerio Abreu de Paula, Heloisa Pimentel, Marcelo Carpinette Grave, Aminat Adebiyi, Tiago Machado, Maysa Malfiza Garcia de Macedo},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01892v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] A Meta-Analysis of the Persuasive Power of Large Language Models
+----------------------------------------------------------------------------------------------------
+
+Authors: Lukas Hölbling, Sebastian Maier, Stefan Feuerriegel
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01431v1
+
+BibTeX Citation:
+@article{hölbling2025-12-01a,
+  title={A Meta-Analysis of the Persuasive Power of Large Language Models},
+  author={Lukas Hölbling, Sebastian Maier, Stefan Feuerriegel},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01431v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Ethically-Aware Participatory Design of a Productivity Social Robot for College Students
+----------------------------------------------------------------------------------------------------
+
+Authors: Himanshi Lalwani, Hanan Salam
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01111v1
+
+BibTeX Citation:
+@article{lalwani2025-11-30ethically-aware,
+  title={Ethically-Aware Participatory Design of a Productivity Social Robot for College Students},
+  author={Himanshi Lalwani, Hanan Salam},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.01111v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages
+----------------------------------------------------------------------------------------------------
+
+Authors: Neha Joshi, Pamir Gogoi, Aasim Mirza, Aayush Jansari, Aditya Yadavalli, Ayushi Pandey, Arunima Shukla, Deepthi Sudharsan, Kalika Bali, Vivek Seshadri
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01077v1
+
+BibTeX Citation:
+@article{joshi2025-11-30elr-1000:,
+  title={ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages},
+  author={Neha Joshi, Pamir Gogoi, Aasim Mirza, Aayush Jansari, Aditya Yadavalli, Ayushi Pandey, Arunima Shukla, Deepthi Sudharsan, Kalika Bali, Vivek Seshadri},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.01077v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] The AI Attribution Paradox: Transparency as Social Strategy in Open-Source Software Development
+----------------------------------------------------------------------------------------------------
+
+Authors: Obada Kraishan
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00867v1
+
+BibTeX Citation:
+@article{kraishan2025-11-30the,
+  title={The AI Attribution Paradox: Transparency as Social Strategy in Open-Source Software Development},
+  author={Obada Kraishan},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.00867v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Speculating on the Role of Media Architecture in Post-disaster Rebuilding and Recovery: Insights from Architects and Interaction Designers
+----------------------------------------------------------------------------------------------------
+
+Authors: Berk Goksenin Tan, Oguzhan Ozcan
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00537v1
+
+BibTeX Citation:
+@article{tan2025-11-29speculating,
+  title={Speculating on the Role of Media Architecture in Post-disaster Rebuilding and Recovery: Insights from Architects and Interaction Designers},
+  author={Berk Goksenin Tan, Oguzhan Ozcan},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00537v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations
+----------------------------------------------------------------------------------------------------
+
+Authors: Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00516v1
+
+BibTeX Citation:
+@article{karunathilaka2025-11-29chameleon:,
+  title={Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations},
+  author={Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00516v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: 10.1007/978-3-032-00880-0_4
+URL: http://arxiv.org/abs/2512.00420v1
+
+BibTeX Citation:
+@article{rockbach2025-11-29an,
+  title={An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence},
+  author={Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz},
+  year={2025-11-29},
+  doi={10.1007/978-3-032-00880-0_4},
+  url={http://arxiv.org/abs/2512.00420v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Sung Park
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00418v1
+
+BibTeX Citation:
+@article{park2025-11-29significant,
+  title={Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence},
+  author={Sung Park},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00418v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00324v1
+
+BibTeX Citation:
+@article{du2025-11-29mile:,
+  title={MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation},
+  author={Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00324v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] The Professional Challenges of Industrial Designer in Industry 4.0
+----------------------------------------------------------------------------------------------------
+
+Authors: Meng Li, Yu Zhang, Leshan Li
+Publication Date: 2025-11-29
+Journal/Venue: Advanced Design Concepts and Practice (ADCP 2015)
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00279v1
+
+BibTeX Citation:
+@article{li2025-11-29the,
+  title={The Professional Challenges of Industrial Designer in Industry 4.0},
+  author={Meng Li, Yu Zhang, Leshan Li},
+  year={2025-11-29},
+  journal={Advanced Design Concepts and Practice (ADCP 2015)},
+  url={http://arxiv.org/abs/2512.00279v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon
+----------------------------------------------------------------------------------------------------
+
+Authors: Isabel Whiteley Tscherniak, Niels Christopher Thiemann, Ana McWhinnie-Fernández, Iustin Curcean, Leon Jokinen, Sadat Hodzic, Thomas E. Huber, Daniel Pavlov, Manuel Methasani, Pietro Marcolongo, Glenn Viktor Krafczyk, Oscar Osvaldo Soto Rivera, Thien Le, Flaminia Pallotti, Enrico A. Fazzi, neuroTUM e.
+Publication Date: 2025-11-28
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.23384v2
+
+BibTeX Citation:
+@article{tscherniak2025-11-28improving,
+  title={Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon},
+  author={Isabel Whiteley Tscherniak, Niels Christopher Thiemann, Ana McWhinnie-Fernández, Iustin Curcean, Leon Jokinen, Sadat Hodzic, Thomas E. Huber, Daniel Pavlov, Manuel Methasani, Pietro Marcolongo, Glenn Viktor Krafczyk, Oscar Osvaldo Soto Rivera, Thien Le, Flaminia Pallotti, Enrico A. Fazzi, neuroTUM e.},
+  year={2025-11-28},
+  url={http://arxiv.org/abs/2511.23384v2},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] Body Management Information Practices on a Female-dominant Platform
+----------------------------------------------------------------------------------------------------
+
+Authors: Na Li, Chuhao Wu, Hongyang Zhou, Huiran Yi, Xuefei Wang, Jie Cai, Xinyi Fu, John Carroll
+Publication Date: 2025-11-28
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22942v1
+
+BibTeX Citation:
+@article{li2025-11-28body,
+  title={Body Management Information Practices on a Female-dominant Platform},
+  author={Na Li, Chuhao Wu, Hongyang Zhou, Huiran Yi, Xuefei Wang, Jie Cai, Xinyi Fu, John Carroll},
+  year={2025-11-28},
+  url={http://arxiv.org/abs/2511.22942v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] AI summaries in online search influence users' attitudes
+----------------------------------------------------------------------------------------------------
+
+Authors: Yiwei Xu, Saloni Dash, Sungha Kang, Wang Liao, Emma S. Spiro
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22809v1
+
+BibTeX Citation:
+@article{xu2025-11-27ai,
+  title={AI summaries in online search influence users' attitudes},
+  author={Yiwei Xu, Saloni Dash, Sungha Kang, Wang Liao, Emma S. Spiro},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22809v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Learning Programming in Informal Spaces: Using Emotion as a Lens to Understand Novice Struggles on r/learnprogramming
+----------------------------------------------------------------------------------------------------
+
+Authors: Alif Al Hasan, Subarna Saha, Mia Mohammad Imran
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22789v1
+
+BibTeX Citation:
+@article{hasan2025-11-27learning,
+  title={Learning Programming in Informal Spaces: Using Emotion as a Lens to Understand Novice Struggles on r/learnprogramming},
+  author={Alif Al Hasan, Subarna Saha, Mia Mohammad Imran},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22789v1},
+  note={Source: arXiv}
+}
+
+====================================================================================================
+KEYWORD: MALICIOUS INTERFACE DESIGN
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Exploring Human Perceptions of AI Responses: Insights from a Mixed-Methods Study on Risk Mitigation in Generative Models
+----------------------------------------------------------------------------------------------------
+
+Authors: Heloisa Candello, Muneeza Azmat, Uma Sushmitha Gunturi, Raya Horesh, Rogerio Abreu de Paula, Heloisa Pimentel, Marcelo Carpinette Grave, Aminat Adebiyi, Tiago Machado, Maysa Malfiza Garcia de Macedo
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01892v1
+
+BibTeX Citation:
+@article{candello2025-12-01exploring,
+  title={Exploring Human Perceptions of AI Responses: Insights from a Mixed-Methods Study on Risk Mitigation in Generative Models},
+  author={Heloisa Candello, Muneeza Azmat, Uma Sushmitha Gunturi, Raya Horesh, Rogerio Abreu de Paula, Heloisa Pimentel, Marcelo Carpinette Grave, Aminat Adebiyi, Tiago Machado, Maysa Malfiza Garcia de Macedo},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01892v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] A Meta-Analysis of the Persuasive Power of Large Language Models
+----------------------------------------------------------------------------------------------------
+
+Authors: Lukas Hölbling, Sebastian Maier, Stefan Feuerriegel
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01431v1
+
+BibTeX Citation:
+@article{hölbling2025-12-01a,
+  title={A Meta-Analysis of the Persuasive Power of Large Language Models},
+  author={Lukas Hölbling, Sebastian Maier, Stefan Feuerriegel},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01431v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Ethically-Aware Participatory Design of a Productivity Social Robot for College Students
+----------------------------------------------------------------------------------------------------
+
+Authors: Himanshi Lalwani, Hanan Salam
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01111v1
+
+BibTeX Citation:
+@article{lalwani2025-11-30ethically-aware,
+  title={Ethically-Aware Participatory Design of a Productivity Social Robot for College Students},
+  author={Himanshi Lalwani, Hanan Salam},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.01111v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Supporting Productivity Skill Development in College Students through Social Robot Coaching: A Proof-of-Concept
+----------------------------------------------------------------------------------------------------
+
+Authors: Himanshi Lalwani, Hanan Salam
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: 10.1109/RO-MAN63969.2025.11217634
+URL: http://arxiv.org/abs/2512.01105v1
+
+BibTeX Citation:
+@article{lalwani2025-11-30supporting,
+  title={Supporting Productivity Skill Development in College Students through Social Robot Coaching: A Proof-of-Concept},
+  author={Himanshi Lalwani, Hanan Salam},
+  year={2025-11-30},
+  doi={10.1109/RO-MAN63969.2025.11217634},
+  url={http://arxiv.org/abs/2512.01105v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages
+----------------------------------------------------------------------------------------------------
+
+Authors: Neha Joshi, Pamir Gogoi, Aasim Mirza, Aayush Jansari, Aditya Yadavalli, Ayushi Pandey, Arunima Shukla, Deepthi Sudharsan, Kalika Bali, Vivek Seshadri
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01077v1
+
+BibTeX Citation:
+@article{joshi2025-11-30elr-1000:,
+  title={ELR-1000: A Community-Generated Dataset for Endangered Indic Indigenous Languages},
+  author={Neha Joshi, Pamir Gogoi, Aasim Mirza, Aayush Jansari, Aditya Yadavalli, Ayushi Pandey, Arunima Shukla, Deepthi Sudharsan, Kalika Bali, Vivek Seshadri},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.01077v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] The AI Attribution Paradox: Transparency as Social Strategy in Open-Source Software Development
+----------------------------------------------------------------------------------------------------
+
+Authors: Obada Kraishan
+Publication Date: 2025-11-30
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00867v1
+
+BibTeX Citation:
+@article{kraishan2025-11-30the,
+  title={The AI Attribution Paradox: Transparency as Social Strategy in Open-Source Software Development},
+  author={Obada Kraishan},
+  year={2025-11-30},
+  url={http://arxiv.org/abs/2512.00867v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Speculating on the Role of Media Architecture in Post-disaster Rebuilding and Recovery: Insights from Architects and Interaction Designers
+----------------------------------------------------------------------------------------------------
+
+Authors: Berk Goksenin Tan, Oguzhan Ozcan
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00537v1
+
+BibTeX Citation:
+@article{tan2025-11-29speculating,
+  title={Speculating on the Role of Media Architecture in Post-disaster Rebuilding and Recovery: Insights from Architects and Interaction Designers},
+  author={Berk Goksenin Tan, Oguzhan Ozcan},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00537v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations
+----------------------------------------------------------------------------------------------------
+
+Authors: Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00516v1
+
+BibTeX Citation:
+@article{karunathilaka2025-11-29chameleon:,
+  title={Chameleon: Automated Color Palette Adaptation for Dark Mode Data Visualizations},
+  author={Manusha Karunathilaka, Songheng Zhang, Anthony Tang, Kotaro Hara, Jiannan Li, Yong Wang},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00516v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: 10.1007/978-3-032-00880-0_4
+URL: http://arxiv.org/abs/2512.00420v1
+
+BibTeX Citation:
+@article{rockbach2025-11-29an,
+  title={An Approach to Joint Hybrid Decision Making between Humans and Artificial Intelligence},
+  author={Jonas D. Rockbach, Sven Fuchs, Maren Bennewitz},
+  year={2025-11-29},
+  doi={10.1007/978-3-032-00880-0_4},
+  url={http://arxiv.org/abs/2512.00420v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence
+----------------------------------------------------------------------------------------------------
+
+Authors: Sung Park
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00418v1
+
+BibTeX Citation:
+@article{park2025-11-29significant,
+  title={Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence},
+  author={Sung Park},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00418v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00324v1
+
+BibTeX Citation:
+@article{du2025-11-29mile:,
+  title={MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation},
+  author={Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00324v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System
+----------------------------------------------------------------------------------------------------
+
+Authors: Zhitong Guan, Yi Wang
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00313v1
+
+BibTeX Citation:
+@article{guan2025-11-29evolving,
+  title={Evolving Paradigms in Task-Based Search and Learning: A Comparative Analysis of Traditional Search Engine with LLM-Enhanced Conversational Search System},
+  author={Zhitong Guan, Yi Wang},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00313v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] The Professional Challenges of Industrial Designer in Industry 4.0
+----------------------------------------------------------------------------------------------------
+
+Authors: Meng Li, Yu Zhang, Leshan Li
+Publication Date: 2025-11-29
+Journal/Venue: Advanced Design Concepts and Practice (ADCP 2015)
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00279v1
+
+BibTeX Citation:
+@article{li2025-11-29the,
+  title={The Professional Challenges of Industrial Designer in Industry 4.0},
+  author={Meng Li, Yu Zhang, Leshan Li},
+  year={2025-11-29},
+  journal={Advanced Design Concepts and Practice (ADCP 2015)},
+  url={http://arxiv.org/abs/2512.00279v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon
+----------------------------------------------------------------------------------------------------
+
+Authors: Isabel Whiteley Tscherniak, Niels Christopher Thiemann, Ana McWhinnie-Fernández, Iustin Curcean, Leon Jokinen, Sadat Hodzic, Thomas E. Huber, Daniel Pavlov, Manuel Methasani, Pietro Marcolongo, Glenn Viktor Krafczyk, Oscar Osvaldo Soto Rivera, Thien Le, Flaminia Pallotti, Enrico A. Fazzi, neuroTUM e.
+Publication Date: 2025-11-28
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.23384v2
+
+BibTeX Citation:
+@article{tscherniak2025-11-28improving,
+  title={Improving motor imagery decoding methods for an EEG-based mobile brain-computer interface in the context of the 2024 Cybathlon},
+  author={Isabel Whiteley Tscherniak, Niels Christopher Thiemann, Ana McWhinnie-Fernández, Iustin Curcean, Leon Jokinen, Sadat Hodzic, Thomas E. Huber, Daniel Pavlov, Manuel Methasani, Pietro Marcolongo, Glenn Viktor Krafczyk, Oscar Osvaldo Soto Rivera, Thien Le, Flaminia Pallotti, Enrico A. Fazzi, neuroTUM e.},
+  year={2025-11-28},
+  url={http://arxiv.org/abs/2511.23384v2},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] AugGen: Augmenting Task-Based Learning in Professional Creative Software with LLM-Generated Scaffolded UIs
+----------------------------------------------------------------------------------------------------
+
+Authors: Yimeng Liu, Misha Sra
+Publication Date: 2025-11-28
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.23379v1
+
+BibTeX Citation:
+@article{liu2025-11-28auggen:,
+  title={AugGen: Augmenting Task-Based Learning in Professional Creative Software with LLM-Generated Scaffolded UIs},
+  author={Yimeng Liu, Misha Sra},
+  year={2025-11-28},
+  url={http://arxiv.org/abs/2511.23379v1},
+  note={Source: arXiv}
+}
+
+====================================================================================================
+KEYWORD: COOKIE CONSENT MANIPULATION
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships
+----------------------------------------------------------------------------------------------------
+
+Authors: Hannah Rose Kirk, Henry Davidson, Ed Saunders, Lennart Luettgau, Bertie Vidgen, Scott A. Hale, Christopher Summerfield
+Publication Date: 2025-12-01
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.01991v1
+
+BibTeX Citation:
+@article{kirk2025-12-01neural,
+  title={Neural steering vectors reveal dose and exposure-dependent impacts of human-AI relationships},
+  author={Hannah Rose Kirk, Henry Davidson, Ed Saunders, Lennart Luettgau, Bertie Vidgen, Scott A. Hale, Christopher Summerfield},
+  year={2025-12-01},
+  url={http://arxiv.org/abs/2512.01991v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu
+Publication Date: 2025-11-29
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2512.00324v1
+
+BibTeX Citation:
+@article{du2025-11-29mile:,
+  title={MILE: A Mechanically Isomorphic Exoskeleton Data Collection System with Fingertip Visuotactile Sensing for Dexterous Manipulation},
+  author={Jinda Du, Jieji Ren, Qiaojun Yu, Ningbin Zhang, Yu Deng, Xingyu Wei, Yufei Liu, Guoying Gu, Xiangyang Zhu},
+  year={2025-11-29},
+  url={http://arxiv.org/abs/2512.00324v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Epistemic Fragility in Large Language Models: Prompt Framing Systematically Modulates Misinformation Correction
+----------------------------------------------------------------------------------------------------
+
+Authors: Sekoul Krastev, Hilary Sweatman, Anni Sternisko, Steve Rathje
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22746v1
+
+BibTeX Citation:
+@article{krastev2025-11-27epistemic,
+  title={Epistemic Fragility in Large Language Models: Prompt Framing Systematically Modulates Misinformation Correction},
+  author={Sekoul Krastev, Hilary Sweatman, Anni Sternisko, Steve Rathje},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22746v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Agentic AI Framework for Individuals with Disabilities and Neurodivergence: A Multi-Agent System for Healthy Eating, Daily Routines, and Inclusive Well-Being
+----------------------------------------------------------------------------------------------------
+
+Authors: Salman Jan, Toqeer Ali Syed, Gohar Ali, Ali Akarma, Mohammad Riyaz Belgaum, Ahmad Ali
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22737v1
+
+BibTeX Citation:
+@article{jan2025-11-27agentic,
+  title={Agentic AI Framework for Individuals with Disabilities and Neurodivergence: A Multi-Agent System for Healthy Eating, Daily Routines, and Inclusive Well-Being},
+  author={Salman Jan, Toqeer Ali Syed, Gohar Ali, Ali Akarma, Mohammad Riyaz Belgaum, Ahmad Ali},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22737v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] How Robot Kinematics Influence Human Performance in Virtual Robot-to-Human Handover Tasks
+----------------------------------------------------------------------------------------------------
+
+Authors: Róisín Keenan, Joost C. Dessing
+Publication Date: 2025-11-25
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.20299v1
+
+BibTeX Citation:
+@article{keenan2025-11-25how,
+  title={How Robot Kinematics Influence Human Performance in Virtual Robot-to-Human Handover Tasks},
+  author={Róisín Keenan, Joost C. Dessing},
+  year={2025-11-25},
+  url={http://arxiv.org/abs/2511.20299v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] The Making of Digital Ghosts: Designing Ethical AI Afterlives
+----------------------------------------------------------------------------------------------------
+
+Authors: Giovanni Spitale, Federico Germani
+Publication Date: 2025-11-25
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.20094v1
+
+BibTeX Citation:
+@article{spitale2025-11-25the,
+  title={The Making of Digital Ghosts: Designing Ethical AI Afterlives},
+  author={Giovanni Spitale, Federico Germani},
+  year={2025-11-25},
+  url={http://arxiv.org/abs/2511.20094v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] A Crowdsourced Study of ChatBot Influence in Value-Driven Decision Making Scenarios
+----------------------------------------------------------------------------------------------------
+
+Authors: Anthony Wise, Xinyi Zhou, Martin Reimann, Anind Dey, Leilani Battle
+Publication Date: 2025-11-19
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.15857v1
+
+BibTeX Citation:
+@article{wise2025-11-19a,
+  title={A Crowdsourced Study of ChatBot Influence in Value-Driven Decision Making Scenarios},
+  author={Anthony Wise, Xinyi Zhou, Martin Reimann, Anind Dey, Leilani Battle},
+  year={2025-11-19},
+  url={http://arxiv.org/abs/2511.15857v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] DuoZone: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System
+----------------------------------------------------------------------------------------------------
+
+Authors: Jing Qian, George X. Wang, Xiangyu Li, Yunge Wen, Guande Wu, Sonia Castelo Quispe, Fumeng Yang, Claudio Silva
+Publication Date: 2025-11-19
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.15676v1
+
+BibTeX Citation:
+@article{qian2025-11-19duozone:,
+  title={DuoZone: A User-Centric, LLM-Guided Mixed-Initiative XR Window Management System},
+  author={Jing Qian, George X. Wang, Xiangyu Li, Yunge Wen, Guande Wu, Sonia Castelo Quispe, Fumeng Yang, Claudio Silva},
+  year={2025-11-19},
+  url={http://arxiv.org/abs/2511.15676v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Efficient Transformer-Integrated Deep Neural Architectures for Robust EEG Decoding of Complex Visual Imagery
+----------------------------------------------------------------------------------------------------
+
+Authors: Byoung-Hee Kwon
+Publication Date: 2025-11-19
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.15218v1
+
+BibTeX Citation:
+@article{kwon2025-11-19efficient,
+  title={Efficient Transformer-Integrated Deep Neural Architectures for Robust EEG Decoding of Complex Visual Imagery},
+  author={Byoung-Hee Kwon},
+  year={2025-11-19},
+  url={http://arxiv.org/abs/2511.15218v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Critical or Compliant? The Double-Edged Sword of Reasoning in Chain-of-Thought Explanations
+----------------------------------------------------------------------------------------------------
+
+Authors: Eunkyu Park, Wesley Hanwen Deng, Vasudha Varadarajan, Mingxi Yan, Gunhee Kim, Maarten Sap, Motahhare Eslami
+Publication Date: 2025-11-15
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.12001v2
+
+BibTeX Citation:
+@article{park2025-11-15critical,
+  title={Critical or Compliant? The Double-Edged Sword of Reasoning in Chain-of-Thought Explanations},
+  author={Eunkyu Park, Wesley Hanwen Deng, Vasudha Varadarajan, Mingxi Yan, Gunhee Kim, Maarten Sap, Motahhare Eslami},
+  year={2025-11-15},
+  url={http://arxiv.org/abs/2511.12001v2},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] A Study of Performance and Interaction Patterns in Hand and Tangible Interaction in Tabletop Mixed Reality
+----------------------------------------------------------------------------------------------------
+
+Authors: Carlos Mosquera, Neven Elsayed, Ernst Kruijff, Joseph Newman, Eduardo Veas
+Publication Date: 2025-11-15
+Journal/Venue: N/A
+DOI: 10.1145/3756884.3766001
+URL: http://arxiv.org/abs/2511.11962v1
+
+BibTeX Citation:
+@article{mosquera2025-11-15a,
+  title={A Study of Performance and Interaction Patterns in Hand and Tangible Interaction in Tabletop Mixed Reality},
+  author={Carlos Mosquera, Neven Elsayed, Ernst Kruijff, Joseph Newman, Eduardo Veas},
+  year={2025-11-15},
+  doi={10.1145/3756884.3766001},
+  url={http://arxiv.org/abs/2511.11962v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] "Power of Words": Stealthy and Adaptive Private Information Elicitation via LLM Communication Strategies
+----------------------------------------------------------------------------------------------------
+
+Authors: Shuning Zhang, Jiaqi Bai, Linzhi Wang, Shixuan Li, Xin Yi, Hewu Li
+Publication Date: 2025-11-15
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.11961v1
+
+BibTeX Citation:
+@article{zhang2025-11-15"power,
+  title={"Power of Words": Stealthy and Adaptive Private Information Elicitation via LLM Communication Strategies},
+  author={Shuning Zhang, Jiaqi Bai, Linzhi Wang, Shixuan Li, Xin Yi, Hewu Li},
+  year={2025-11-15},
+  url={http://arxiv.org/abs/2511.11961v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] Surveillance and Disability in Online Proctored Exams: Student Perspectives and Design Implications
+----------------------------------------------------------------------------------------------------
+
+Authors: Monika Blue Kwapisz, Yoav Ackerman, Jennifer Nguyen, Prashanth Rajivan
+Publication Date: 2025-11-13
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.10826v1
+
+BibTeX Citation:
+@article{kwapisz2025-11-13surveillance,
+  title={Surveillance and Disability in Online Proctored Exams: Student Perspectives and Design Implications},
+  author={Monika Blue Kwapisz, Yoav Ackerman, Jennifer Nguyen, Prashanth Rajivan},
+  year={2025-11-13},
+  url={http://arxiv.org/abs/2511.10826v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Navigating the Ethics of Internet Measurement: Researchers' Perspectives from a Case Study in the EU
+----------------------------------------------------------------------------------------------------
+
+Authors: Sahibzada Farhan Amin, Sana Athar, Anja Feldmann, Ha Dao, Mannat Kaur
+Publication Date: 2025-11-13
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.10408v1
+
+BibTeX Citation:
+@article{amin2025-11-13navigating,
+  title={Navigating the Ethics of Internet Measurement: Researchers' Perspectives from a Case Study in the EU},
+  author={Sahibzada Farhan Amin, Sana Athar, Anja Feldmann, Ha Dao, Mannat Kaur},
+  year={2025-11-13},
+  url={http://arxiv.org/abs/2511.10408v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] MirrorLimb: Implementing hand pose acquisition and robot teleoperation based on RealMirror
+----------------------------------------------------------------------------------------------------
+
+Authors: Cong Tai, Hansheng Wu, Haixu Long, Zhengbin Long, Zhaoyu Zheng, Haodong Xiang, Tao Shen
+Publication Date: 2025-11-12
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.08865v1
+
+BibTeX Citation:
+@article{tai2025-11-12mirrorlimb:,
+  title={MirrorLimb: Implementing hand pose acquisition and robot teleoperation based on RealMirror},
+  author={Cong Tai, Hansheng Wu, Haixu Long, Zhengbin Long, Zhaoyu Zheng, Haodong Xiang, Tao Shen},
+  year={2025-11-12},
+  url={http://arxiv.org/abs/2511.08865v1},
+  note={Source: arXiv}
+}
+
+====================================================================================================
+KEYWORD: SUBSCRIPTION CANCELLATION UX
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Engineering Trustworthy Automation: Design Principles and Evaluation for AutoML Tools for Novices
+----------------------------------------------------------------------------------------------------
+
+Authors: Jarne Thys, Davy Vanacken, Gustavo Rovelo Ruiz
+Publication Date: 2025-11-27
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.22352v1
+
+BibTeX Citation:
+@article{thys2025-11-27engineering,
+  title={Engineering Trustworthy Automation: Design Principles and Evaluation for AutoML Tools for Novices},
+  author={Jarne Thys, Davy Vanacken, Gustavo Rovelo Ruiz},
+  year={2025-11-27},
+  url={http://arxiv.org/abs/2511.22352v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Emotion-Aware Conversational Recommender Systems: a Case Study
+----------------------------------------------------------------------------------------------------
+
+Authors: Maria Stella Albarelli
+Publication Date: 2025-11-23
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.18548v1
+
+BibTeX Citation:
+@article{albarelli2025-11-23emotion-aware,
+  title={Emotion-Aware Conversational Recommender Systems: a Case Study},
+  author={Maria Stella Albarelli},
+  year={2025-11-23},
+  url={http://arxiv.org/abs/2511.18548v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] SecureSign: Bridging Security and UX in Mobile Web3 through Emulated EIP-6963 Sandboxing
+----------------------------------------------------------------------------------------------------
+
+Authors: Charles Cheng Ji, Brandon Kong
+Publication Date: 2025-11-18
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.14611v1
+
+BibTeX Citation:
+@article{ji2025-11-18securesign:,
+  title={SecureSign: Bridging Security and UX in Mobile Web3 through Emulated EIP-6963 Sandboxing},
+  author={Charles Cheng Ji, Brandon Kong},
+  year={2025-11-18},
+  url={http://arxiv.org/abs/2511.14611v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Portal UX Agent -- A Plug-and-Play Engine for Rendering UIs from Natural Language Specifications
+----------------------------------------------------------------------------------------------------
+
+Authors: Xinsong Li, Ning Jiang, Jay Selvaraj
+Publication Date: 2025-11-02
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2511.00843v1
+
+BibTeX Citation:
+@article{li2025-11-02portal,
+  title={Portal UX Agent -- A Plug-and-Play Engine for Rendering UIs from Natural Language Specifications},
+  author={Xinsong Li, Ning Jiang, Jay Selvaraj},
+  year={2025-11-02},
+  url={http://arxiv.org/abs/2511.00843v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Rethinking UX for Sustainable Science Gateways: Orientations from Practice
+----------------------------------------------------------------------------------------------------
+
+Authors: Paul C. Parsons
+Publication Date: 2025-10-24
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2510.22053v1
+
+BibTeX Citation:
+@article{parsons2025-10-24rethinking,
+  title={Rethinking UX for Sustainable Science Gateways: Orientations from Practice},
+  author={Paul C. Parsons},
+  year={2025-10-24},
+  url={http://arxiv.org/abs/2510.22053v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] A Structured Evaluation Framework for Low-Code Platform Selection: A Multi-Criteria Decision Model for Enterprise Digital Transformation
+----------------------------------------------------------------------------------------------------
+
+Authors: Antonio Lamanna
+Publication Date: 2025-10-21
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2510.18590v1
+
+BibTeX Citation:
+@article{lamanna2025-10-21a,
+  title={A Structured Evaluation Framework for Low-Code Platform Selection: A Multi-Criteria Decision Model for Enterprise Digital Transformation},
+  author={Antonio Lamanna},
+  year={2025-10-21},
+  url={http://arxiv.org/abs/2510.18590v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Augmented Web Usage Mining and User Experience Optimization with CAWAL's Enriched Analytics Data
+----------------------------------------------------------------------------------------------------
+
+Authors: Özkan Canay, {Ü}mit Kocabıcak
+Publication Date: 2025-10-20
+Journal/Venue: International Journal of Human-Computer Interaction 41 (2025) 7152-7171. doi:10.1080/10447318.2025.2495839
+DOI: 10.1080/10447318.2025.2495839
+URL: http://arxiv.org/abs/2510.17253v1
+
+BibTeX Citation:
+@article{canay2025-10-20augmented,
+  title={Augmented Web Usage Mining and User Experience Optimization with CAWAL's Enriched Analytics Data},
+  author={Özkan Canay, {Ü}mit Kocabıcak},
+  year={2025-10-20},
+  journal={International Journal of Human-Computer Interaction 41 (2025) 7152-7171. doi:10.1080/10447318.2025.2495839},
+  doi={10.1080/10447318.2025.2495839},
+  url={http://arxiv.org/abs/2510.17253v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Exploring the Effects of Different Asymmetric Game Designs on User Experience in Collaborative Virtual Reality
+----------------------------------------------------------------------------------------------------
+
+Authors: Francesco Vona, Evelyn Romanjuk, Sina Hinzmann, Julia Schorlemmer, Navid Ashrafi, Jan-Niklas Voigt-Antons
+Publication Date: 2025-10-16
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2510.14607v1
+
+BibTeX Citation:
+@article{vona2025-10-16exploring,
+  title={Exploring the Effects of Different Asymmetric Game Designs on User Experience in Collaborative Virtual Reality},
+  author={Francesco Vona, Evelyn Romanjuk, Sina Hinzmann, Julia Schorlemmer, Navid Ashrafi, Jan-Niklas Voigt-Antons},
+  year={2025-10-16},
+  url={http://arxiv.org/abs/2510.14607v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Smart UX-design for Rescue Operations Wearable - A Knowledge Graph Informed Visualization Approach for Information Retrieval in Emergency Situations
+----------------------------------------------------------------------------------------------------
+
+Authors: Mubaris Nadeem, Johannes Zenkert, Christian Weber, Madjid Fathi, Muhammad Hamza
+Publication Date: 2025-10-15
+Journal/Venue: N/A
+DOI: 10.1109/eIT57321.2023.10187320
+URL: http://arxiv.org/abs/2510.13539v1
+
+BibTeX Citation:
+@article{nadeem2025-10-15smart,
+  title={Smart UX-design for Rescue Operations Wearable - A Knowledge Graph Informed Visualization Approach for Information Retrieval in Emergency Situations},
+  author={Mubaris Nadeem, Johannes Zenkert, Christian Weber, Madjid Fathi, Muhammad Hamza},
+  year={2025-10-15},
+  doi={10.1109/eIT57321.2023.10187320},
+  url={http://arxiv.org/abs/2510.13539v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] UXer-AI Collaboration Process for Enhancing Trust
+----------------------------------------------------------------------------------------------------
+
+Authors: Harin Yoon, Dongwhan Kim, Changhoon Oh, Soojin Jun
+Publication Date: 2025-10-13
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2510.11087v1
+
+BibTeX Citation:
+@article{yoon2025-10-13uxer-ai,
+  title={UXer-AI Collaboration Process for Enhancing Trust},
+  author={Harin Yoon, Dongwhan Kim, Changhoon Oh, Soojin Jun},
+  year={2025-10-13},
+  url={http://arxiv.org/abs/2510.11087v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] MLLM as a UI Judge: Benchmarking Multimodal LLMs for Predicting Human Perception of User Interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: Reuben A. Luera, Ryan Rossi, Franck Dernoncourt, Samyadeep Basu, Sungchul Kim, Subhojyoti Mukherjee, Puneet Mathur, Ruiyi Zhang, Jihyung Kil, Nedim Lipka, Seunghyun Yoon, Jiuxiang Gu, Zichao Wang, Cindy Xiong Bearfield, Branislav Kveton
+Publication Date: 2025-10-09
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2510.08783v1
+
+BibTeX Citation:
+@article{luera2025-10-09mllm,
+  title={MLLM as a UI Judge: Benchmarking Multimodal LLMs for Predicting Human Perception of User Interfaces},
+  author={Reuben A. Luera, Ryan Rossi, Franck Dernoncourt, Samyadeep Basu, Sungchul Kim, Subhojyoti Mukherjee, Puneet Mathur, Ruiyi Zhang, Jihyung Kil, Nedim Lipka, Seunghyun Yoon, Jiuxiang Gu, Zichao Wang, Cindy Xiong Bearfield, Branislav Kveton},
+  year={2025-10-09},
+  url={http://arxiv.org/abs/2510.08783v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Prototyping Multimodal GenAI Real-Time Agents with Counterfactual Replays and Hybrid Wizard-of-Oz
+----------------------------------------------------------------------------------------------------
+
+Authors: Frederic Gmeiner, Kenneth Holstein, Nikolas Martelaro
+Publication Date: 2025-10-08
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2510.06872v1
+
+BibTeX Citation:
+@article{gmeiner2025-10-08prototyping,
+  title={Prototyping Multimodal GenAI Real-Time Agents with Counterfactual Replays and Hybrid Wizard-of-Oz},
+  author={Frederic Gmeiner, Kenneth Holstein, Nikolas Martelaro},
+  year={2025-10-08},
+  url={http://arxiv.org/abs/2510.06872v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] PrivacyMotiv: Speculative Persona Journeys for Empathic and Motivating Privacy Reviews in UX Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Zeya Chen, Jianing Wen, Ruth Schmidt, Yaxing Yao, Toby Jia-Jun Li, Tianshi Li
+Publication Date: 2025-10-03
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2510.03559v1
+
+BibTeX Citation:
+@article{chen2025-10-03privacymotiv:,
+  title={PrivacyMotiv: Speculative Persona Journeys for Empathic and Motivating Privacy Reviews in UX Design},
+  author={Zeya Chen, Jianing Wen, Ruth Schmidt, Yaxing Yao, Toby Jia-Jun Li, Tianshi Li},
+  year={2025-10-03},
+  url={http://arxiv.org/abs/2510.03559v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Rescue Operators' Perspectives on KIRETT Wearable Technology: A Qualitative Study
+----------------------------------------------------------------------------------------------------
+
+Authors: Mubaris Nadeem, Johannes Zenkert, Lisa Bender, Christian Weber, Madjid Fathi
+Publication Date: 2025-09-29
+Journal/Venue: N/A
+DOI: 10.1109/smc54092.2024.10831087
+URL: http://arxiv.org/abs/2509.24831v1
+
+BibTeX Citation:
+@article{nadeem2025-09-29rescue,
+  title={Rescue Operators' Perspectives on KIRETT Wearable Technology: A Qualitative Study},
+  author={Mubaris Nadeem, Johannes Zenkert, Lisa Bender, Christian Weber, Madjid Fathi},
+  year={2025-09-29},
+  doi={10.1109/smc54092.2024.10831087},
+  url={http://arxiv.org/abs/2509.24831v1},
+  note={Source: arXiv}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants?
+----------------------------------------------------------------------------------------------------
+
+Authors: Lu Sun, Shihan Fu, Bingsheng Yao, Yuxuan Lu, Wenbo Li, Hansu Gu, Jiri Gesi, Jing Huang, Chen Luo, Dakuo Wang
+Publication Date: 2025-09-25
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/2509.21501v1
+
+BibTeX Citation:
+@article{sun2025-09-25llm,
+  title={LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants?},
+  author={Lu Sun, Shihan Fu, Bingsheng Yao, Yuxuan Lu, Wenbo Li, Hansu Gu, Jiri Gesi, Jing Huang, Chen Luo, Dakuo Wang},
+  year={2025-09-25},
+  url={http://arxiv.org/abs/2509.21501v1},
+  note={Source: arXiv}
+}

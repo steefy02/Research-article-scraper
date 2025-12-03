@@ -1,0 +1,565 @@
+====================================================================================================
+CROSSREF - RESEARCH ARTICLES
+====================================================================================================
+
+Total unique articles: 25
+Search keywords: 7
+
+
+====================================================================================================
+KEYWORD: DARK PATTERNS
+====================================================================================================
+Articles found: 2
+
+
+----------------------------------------------------------------------------------------------------
+[1] แนวทางในการกำกับดูแลการออกแบบเว็บไซต์หรือแอปพลิเคชันที่เป็นรูปแบบการค้ามืด (Dark Patterns) ต่อผู้บริโภค
+----------------------------------------------------------------------------------------------------
+
+Authors: กษิณา เด่นสุริยพรม
+Publication Date: 2024
+Journal/Venue: N/A
+DOI: 10.58837/chula.is.2023.139
+URL: https://doi.org/10.58837/chula.is.2023.139
+
+BibTeX Citation:
+@article{เด่นสุริยพรม2024แนวทางในการกำกับดูแลการออกแบบเว็บไซต์หรือแอปพลิเคชันที่เป็นรูปแบบการค้ามืด,
+  title={แนวทางในการกำกับดูแลการออกแบบเว็บไซต์หรือแอปพลิเคชันที่เป็นรูปแบบการค้ามืด (Dark Patterns) ต่อผู้บริโภค},
+  author={กษิณา เด่นสุริยพรม},
+  year={2024},
+  doi={10.58837/chula.is.2023.139},
+  url={https://doi.org/10.58837/chula.is.2023.139},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Michael Dieter
+Publication Date: 2015
+Journal/Venue: Postdigital Aesthetics
+DOI: 10.1057/9781137437204.0017
+URL: https://doi.org/10.1057/9781137437204.0017
+
+BibTeX Citation:
+@article{dieter2015dark,
+  title={Dark Patterns},
+  author={Michael Dieter},
+  year={2015},
+  journal={Postdigital Aesthetics},
+  doi={10.1057/9781137437204.0017},
+  url={https://doi.org/10.1057/9781137437204.0017},
+  note={Source: CrossRef}
+}
+
+====================================================================================================
+KEYWORD: USER INTERFACE MANIPULATION
+====================================================================================================
+Articles found: 2
+
+
+----------------------------------------------------------------------------------------------------
+[1] Building user interfaces by direct manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Luca Cardelli
+Publication Date: 2003
+Journal/Venue: Proceedings of the 1st annual ACM SIGGRAPH symposium on User Interface Software
+DOI: 10.1145/62402.62428
+URL: https://doi.org/10.1145/62402.62428
+
+BibTeX Citation:
+@article{cardelli2003building,
+  title={Building user interfaces by direct manipulation},
+  author={Luca Cardelli},
+  year={2003},
+  journal={Proceedings of the 1st annual ACM SIGGRAPH symposium on User Interface Software},
+  doi={10.1145/62402.62428},
+  url={https://doi.org/10.1145/62402.62428},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] A Hybrid User Interface for Manipulation of Volumetric Medical Data
+----------------------------------------------------------------------------------------------------
+
+Authors: A. Bornik, R. Beichel, E. Kruijff, B. Reitinger, D. Schmalstieg
+Publication Date: 2006
+Journal/Venue: 3D User Interfaces (3DUI'06)
+DOI: 10.1109/vr.2006.8
+URL: https://doi.org/10.1109/vr.2006.8
+
+BibTeX Citation:
+@article{bornik2006a,
+  title={A Hybrid User Interface for Manipulation of Volumetric Medical Data},
+  author={A. Bornik, R. Beichel, E. Kruijff, B. Reitinger, D. Schmalstieg},
+  year={2006},
+  journal={3D User Interfaces (3DUI'06)},
+  doi={10.1109/vr.2006.8},
+  url={https://doi.org/10.1109/vr.2006.8},
+  note={Source: CrossRef}
+}
+
+====================================================================================================
+KEYWORD: PERSUASIVE DESIGN ETHICS
+====================================================================================================
+Articles found: 1
+
+
+----------------------------------------------------------------------------------------------------
+[1] The ethics of persuasive technology
+----------------------------------------------------------------------------------------------------
+
+Authors: B.J. Fogg
+Publication Date: 2007
+Journal/Venue: Persuasive Technology
+DOI: 10.1016/b978-155860643-2/50011-1
+URL: https://doi.org/10.1016/b978-155860643-2/50011-1
+
+BibTeX Citation:
+@article{fogg2007the,
+  title={The ethics of persuasive technology},
+  author={B.J. Fogg},
+  year={2007},
+  journal={Persuasive Technology},
+  doi={10.1016/b978-155860643-2/50011-1},
+  url={https://doi.org/10.1016/b978-155860643-2/50011-1},
+  note={Source: CrossRef}
+}
+
+====================================================================================================
+KEYWORD: MALICIOUS INTERFACE DESIGN
+====================================================================================================
+Articles found: 2
+
+
+----------------------------------------------------------------------------------------------------
+[1] Malicious interface design
+----------------------------------------------------------------------------------------------------
+
+Authors: Gregory Conti, Edward Sobiesk
+Publication Date: 2010
+Journal/Venue: Proceedings of the 19th international conference on World wide web
+DOI: 10.1145/1772690.1772719
+URL: https://doi.org/10.1145/1772690.1772719
+
+BibTeX Citation:
+@article{conti2010malicious,
+  title={Malicious interface design},
+  author={Gregory Conti, Edward Sobiesk},
+  year={2010},
+  journal={Proceedings of the 19th international conference on World wide web},
+  doi={10.1145/1772690.1772719},
+  url={https://doi.org/10.1145/1772690.1772719},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Bypassing Multiple Security Layers Using Malicious USB Human Interface Device
+----------------------------------------------------------------------------------------------------
+
+Authors: Mathew Nicho, Ibrahim Sabry
+Publication Date: 2023
+Journal/Venue: Proceedings of the 9th International Conference on Information Systems Security and Privacy
+DOI: 10.5220/0011677100003405
+URL: https://doi.org/10.5220/0011677100003405
+
+BibTeX Citation:
+@article{nicho2023bypassing,
+  title={Bypassing Multiple Security Layers Using Malicious USB Human Interface Device},
+  author={Mathew Nicho, Ibrahim Sabry},
+  year={2023},
+  journal={Proceedings of the 9th International Conference on Information Systems Security and Privacy},
+  doi={10.5220/0011677100003405},
+  url={https://doi.org/10.5220/0011677100003405},
+  note={Source: CrossRef}
+}
+
+====================================================================================================
+KEYWORD: COOKIE CONSENT MANIPULATION
+====================================================================================================
+Articles found: 5
+
+
+----------------------------------------------------------------------------------------------------
+[1] Vom Cookie-Banner zum Consent-Banner
+----------------------------------------------------------------------------------------------------
+
+Authors: Kristin Benedikt
+Publication Date: 2020
+Journal/Venue: PinG Privacy in Germany
+DOI: 10.37307/j.2196-9817.2020.05.12
+URL: https://doi.org/10.37307/j.2196-9817.2020.05.12
+
+BibTeX Citation:
+@article{benedikt2020vom,
+  title={Vom Cookie-Banner zum Consent-Banner},
+  author={Kristin Benedikt},
+  year={2020},
+  journal={PinG Privacy in Germany},
+  doi={10.37307/j.2196-9817.2020.05.12},
+  url={https://doi.org/10.37307/j.2196-9817.2020.05.12},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Data Protection, Cookie Consent, and Prices
+----------------------------------------------------------------------------------------------------
+
+Authors: Thomas Wein
+Publication Date: 2022
+Journal/Venue: Economies
+DOI: 10.3390/economies10120307
+URL: https://doi.org/10.3390/economies10120307
+
+BibTeX Citation:
+@article{wein2022data,
+  title={Data Protection, Cookie Consent, and Prices},
+  author={Thomas Wein},
+  year={2022},
+  journal={Economies},
+  doi={10.3390/economies10120307},
+  url={https://doi.org/10.3390/economies10120307},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Prospective Consent: The Effect of Framing on Cookie Consent Decisions
+----------------------------------------------------------------------------------------------------
+
+Authors: Eryn Ma, Eleanor Birrell
+Publication Date: 2022
+Journal/Venue: CHI Conference on Human Factors in Computing Systems Extended Abstracts
+DOI: 10.1145/3491101.3519687
+URL: https://doi.org/10.1145/3491101.3519687
+
+BibTeX Citation:
+@article{ma2022prospective,
+  title={Prospective Consent: The Effect of Framing on Cookie Consent Decisions},
+  author={Eryn Ma, Eleanor Birrell},
+  year={2022},
+  journal={CHI Conference on Human Factors in Computing Systems Extended Abstracts},
+  doi={10.1145/3491101.3519687},
+  url={https://doi.org/10.1145/3491101.3519687},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Dark and bright patterns in cookie consent requests
+----------------------------------------------------------------------------------------------------
+
+Authors: Paul Grassl, Hanna Schraffenberger, Frederik Zuiderveen Borgesius, Moniek Buijzen
+Publication Date: 2020
+Journal/Venue: N/A
+DOI: 10.31234/osf.io/gqs5h
+URL: https://doi.org/10.31234/osf.io/gqs5h
+
+BibTeX Citation:
+@article{grassl2020dark,
+  title={Dark and bright patterns in cookie consent requests},
+  author={Paul Grassl, Hanna Schraffenberger, Frederik Zuiderveen Borgesius, Moniek Buijzen},
+  year={2020},
+  doi={10.31234/osf.io/gqs5h},
+  url={https://doi.org/10.31234/osf.io/gqs5h},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Planet49 CJEU Judgment brings some 'Cookie Consent' Certainty to Planet Online Tracking
+----------------------------------------------------------------------------------------------------
+
+Authors: Gabriela Zanfir-Fortuna
+Publication Date: 2024
+Journal/Venue: European Law Blog
+DOI: 10.21428/9885764c.745f9a7b
+URL: https://doi.org/10.21428/9885764c.745f9a7b
+
+BibTeX Citation:
+@article{zanfir-fortuna2024planet49,
+  title={Planet49 CJEU Judgment brings some 'Cookie Consent' Certainty to Planet Online Tracking},
+  author={Gabriela Zanfir-Fortuna},
+  year={2024},
+  journal={European Law Blog},
+  doi={10.21428/9885764c.745f9a7b},
+  url={https://doi.org/10.21428/9885764c.745f9a7b},
+  note={Source: CrossRef}
+}
+
+====================================================================================================
+KEYWORD: SUBSCRIPTION CANCELLATION UX
+====================================================================================================
+Articles found: 13
+
+
+----------------------------------------------------------------------------------------------------
+[1] Do Satisfaction and Satiation Both Drive Immediate and Delayed Subscription Cancellation? Implications for Subscription Video-on-Demand Services
+----------------------------------------------------------------------------------------------------
+
+Authors: Ismael Becerril-Castrillejo, Pablo Antonio Muñoz-Gallego, Marta Nieto-García
+Publication Date: 2025
+Journal/Venue: N/A
+DOI: 10.2139/ssrn.5153705
+URL: https://doi.org/10.2139/ssrn.5153705
+
+BibTeX Citation:
+@article{becerril-castrillejo2025do,
+  title={Do Satisfaction and Satiation Both Drive Immediate and Delayed Subscription Cancellation? Implications for Subscription Video-on-Demand Services},
+  author={Ismael Becerril-Castrillejo, Pablo Antonio Muñoz-Gallego, Marta Nieto-García},
+  year={2025},
+  doi={10.2139/ssrn.5153705},
+  url={https://doi.org/10.2139/ssrn.5153705},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] SUBSCRIPTION CANCELLATION
+----------------------------------------------------------------------------------------------------
+
+Authors: Irwin D. Bross
+Publication Date: 2017
+Journal/Venue: American Journal of Epidemiology
+DOI: 10.1093/oxfordjournals.aje.a113868
+URL: https://doi.org/10.1093/oxfordjournals.aje.a113868
+
+BibTeX Citation:
+@article{bross2017subscription,
+  title={SUBSCRIPTION CANCELLATION},
+  author={Irwin D. Bross},
+  year={2017},
+  journal={American Journal of Epidemiology},
+  doi={10.1093/oxfordjournals.aje.a113868},
+  url={https://doi.org/10.1093/oxfordjournals.aje.a113868},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] The Effect of Subscription Type, Subscription Period, and Payment Mode on Subscription Cancellation Intention
+----------------------------------------------------------------------------------------------------
+
+Authors: Shinhae Kang, Se-Bum Park, Nan-Hee Jeong
+Publication Date: 2021
+Journal/Venue: Journal of Consumer Studies
+DOI: 10.35736/jcs.32.3.1
+URL: https://doi.org/10.35736/jcs.32.3.1
+
+BibTeX Citation:
+@article{kang2021the,
+  title={The Effect of Subscription Type, Subscription Period, and Payment Mode on Subscription Cancellation Intention},
+  author={Shinhae Kang, Se-Bum Park, Nan-Hee Jeong},
+  year={2021},
+  journal={Journal of Consumer Studies},
+  doi={10.35736/jcs.32.3.1},
+  url={https://doi.org/10.35736/jcs.32.3.1},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Subscription Cancellation Projects: How to Quiet Some of the Roar
+----------------------------------------------------------------------------------------------------
+
+Authors: Clint Chamberlain, Beatrice Caraway, Susan Andrews
+Publication Date: 2021
+Journal/Venue: ROARING INTO OUR 20's: NASIG 2005
+DOI: 10.4324/9781315864389-33
+URL: https://doi.org/10.4324/9781315864389-33
+
+BibTeX Citation:
+@article{chamberlain2021subscription,
+  title={Subscription Cancellation Projects: How to Quiet Some of the Roar},
+  author={Clint Chamberlain, Beatrice Caraway, Susan Andrews},
+  year={2021},
+  journal={ROARING INTO OUR 20's: NASIG 2005},
+  doi={10.4324/9781315864389-33},
+  url={https://doi.org/10.4324/9781315864389-33},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Dark patterns in subscription service cancellation processes
+----------------------------------------------------------------------------------------------------
+
+Authors: Fadzai Emmah Nembaware, Sonia Sousa
+Publication Date: 2025
+Journal/Venue: Proceedings of the 36th Annual Conference of the European Association of Cognitive Ergonomics
+DOI: 10.1145/3746175.3746211
+URL: https://doi.org/10.1145/3746175.3746211
+
+BibTeX Citation:
+@article{nembaware2025dark,
+  title={Dark patterns in subscription service cancellation processes},
+  author={Fadzai Emmah Nembaware, Sonia Sousa},
+  year={2025},
+  journal={Proceedings of the 36th Annual Conference of the European Association of Cognitive Ergonomics},
+  doi={10.1145/3746175.3746211},
+  url={https://doi.org/10.1145/3746175.3746211},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Indicators that influence decisions on subscription cancellation/renewal of scientific journals on paper medium in Slovene
+----------------------------------------------------------------------------------------------------
+
+Authors: Matjaž Musek
+Publication Date: 2023
+Journal/Venue: Knjižnica: revija za področje bibliotekarstva in informacijske znanosti
+DOI: 10.55741/knj.46.4.14033
+URL: https://doi.org/10.55741/knj.46.4.14033
+
+BibTeX Citation:
+@article{musek2023indicators,
+  title={Indicators that influence decisions on subscription cancellation/renewal of scientific journals on paper medium in Slovene},
+  author={Matjaž Musek},
+  year={2023},
+  journal={Knjižnica: revija za področje bibliotekarstva in informacijske znanosti},
+  doi={10.55741/knj.46.4.14033},
+  url={https://doi.org/10.55741/knj.46.4.14033},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Subscription Cancellation Projects
+----------------------------------------------------------------------------------------------------
+
+Authors: Clint Chamberlain, Beatrice Caraway, Susan Andrews
+Publication Date: 2008
+Journal/Venue: The Serials Librarian
+DOI: 10.1300/j123v50n03_11
+URL: https://doi.org/10.1300/j123v50n03_11
+
+BibTeX Citation:
+@article{chamberlain2008subscription,
+  title={Subscription Cancellation Projects},
+  author={Clint Chamberlain, Beatrice Caraway, Susan Andrews},
+  year={2008},
+  journal={The Serials Librarian},
+  doi={10.1300/j123v50n03_11},
+  url={https://doi.org/10.1300/j123v50n03_11},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] What Are UX and UX Design?
+----------------------------------------------------------------------------------------------------
+
+Authors: Rex Hartson, Pardha S. Pyla
+Publication Date: 2025
+Journal/Venue: The UX Book
+DOI: 10.1016/b978-0-443-13443-2.00001-7
+URL: https://doi.org/10.1016/b978-0-443-13443-2.00001-7
+
+BibTeX Citation:
+@article{hartson2025what,
+  title={What Are UX and UX Design?},
+  author={Rex Hartson, Pardha S. Pyla},
+  year={2025},
+  journal={The UX Book},
+  doi={10.1016/b978-0-443-13443-2.00001-7},
+  url={https://doi.org/10.1016/b978-0-443-13443-2.00001-7},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Empirical UX Evaluation: UX Goals, Metrics, and Targets
+----------------------------------------------------------------------------------------------------
+
+Authors: Rex Hartson, Pardha Pyla
+Publication Date: 2018
+Journal/Venue: The UX Book
+DOI: 10.1016/b978-0-12-805342-3.00022-9
+URL: https://doi.org/10.1016/b978-0-12-805342-3.00022-9
+
+BibTeX Citation:
+@article{hartson2018empirical,
+  title={Empirical UX Evaluation: UX Goals, Metrics, and Targets},
+  author={Rex Hartson, Pardha Pyla},
+  year={2018},
+  journal={The UX Book},
+  doi={10.1016/b978-0-12-805342-3.00022-9},
+  url={https://doi.org/10.1016/b978-0-12-805342-3.00022-9},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] The impact of interlibrary access to periodicals on subscription continuation/cancellation decision making
+----------------------------------------------------------------------------------------------------
+
+Authors: Edward S. Warner
+Publication Date: 2007
+Journal/Venue: Journal of the American Society for Information Science
+DOI: 10.1002/asi.4630320203
+URL: https://doi.org/10.1002/asi.4630320203
+
+BibTeX Citation:
+@article{warner2007the,
+  title={The impact of interlibrary access to periodicals on subscription continuation/cancellation decision making},
+  author={Edward S. Warner},
+  year={2007},
+  journal={Journal of the American Society for Information Science},
+  doi={10.1002/asi.4630320203},
+  url={https://doi.org/10.1002/asi.4630320203},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Corporate UX Leadership
+----------------------------------------------------------------------------------------------------
+
+Authors: Cory Lebson
+Publication Date: 2021
+Journal/Venue: The UX Careers Handbook
+DOI: 10.1201/9781003201489-22
+URL: https://doi.org/10.1201/9781003201489-22
+
+BibTeX Citation:
+@article{lebson2021corporate,
+  title={Corporate UX Leadership},
+  author={Cory Lebson},
+  year={2021},
+  journal={The UX Careers Handbook},
+  doi={10.1201/9781003201489-22},
+  url={https://doi.org/10.1201/9781003201489-22},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] UX Optimization Overview
+----------------------------------------------------------------------------------------------------
+
+Authors: W. Craig Tomlin
+Publication Date: 2018
+Journal/Venue: UX Optimization
+DOI: 10.1007/978-1-4842-3867-7_1
+URL: https://doi.org/10.1007/978-1-4842-3867-7_1
+
+BibTeX Citation:
+@article{tomlin2018ux,
+  title={UX Optimization Overview},
+  author={W. Craig Tomlin},
+  year={2018},
+  journal={UX Optimization},
+  doi={10.1007/978-1-4842-3867-7_1},
+  url={https://doi.org/10.1007/978-1-4842-3867-7_1},
+  note={Source: CrossRef}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] UX Career Pathways
+----------------------------------------------------------------------------------------------------
+
+Authors: Cory Lebson
+Publication Date: 2021
+Journal/Venue: The UX Careers Handbook
+DOI: 10.1201/9781003201489-16
+URL: https://doi.org/10.1201/9781003201489-16
+
+BibTeX Citation:
+@article{lebson2021ux,
+  title={UX Career Pathways},
+  author={Cory Lebson},
+  year={2021},
+  journal={The UX Careers Handbook},
+  doi={10.1201/9781003201489-16},
+  url={https://doi.org/10.1201/9781003201489-16},
+  note={Source: CrossRef}
+}

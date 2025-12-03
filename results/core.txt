@@ -1,0 +1,742 @@
+====================================================================================================
+CORE - RESEARCH ARTICLES
+====================================================================================================
+
+Total unique articles: 36
+Search keywords: 7
+
+
+====================================================================================================
+KEYWORD: DARK PATTERNS
+====================================================================================================
+Articles found: 11
+
+
+----------------------------------------------------------------------------------------------------
+[1] Light Dark Matter Showering under Broken Dark $U(1)$ -- Revisited
+----------------------------------------------------------------------------------------------------
+
+Authors: Chen, Junmou, Ko, Pyungwon, Li, Hsiang-nan, Li, Jinmian, Yokoya, Hiroshi
+Publication Date: 2018
+Journal/Venue: 'Springer Science and Business Media LLC'
+DOI: 10.1007/jhep01(2019)141
+URL: http://arxiv.org/abs/1807.00530
+
+BibTeX Citation:
+@article{chen2018light,
+  title={Light Dark Matter Showering under Broken Dark $U(1)$ -- Revisited},
+  author={Chen, Junmou, Ko, Pyungwon, Li, Hsiang-nan, Li, Jinmian, Yokoya, Hiroshi},
+  year={2018},
+  journal={'Springer Science and Business Media LLC'},
+  doi={10.1007/jhep01(2019)141},
+  url={http://arxiv.org/abs/1807.00530},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Lorentz symmetry violation, dark matter and dark energy
+----------------------------------------------------------------------------------------------------
+
+Authors: Gonzalez-Mestres, Luis
+Publication Date: 2009
+Journal/Venue: N/A
+DOI: 10.1063/1.3462620
+URL: http://arxiv.org/abs/0912.0725
+
+BibTeX Citation:
+@article{gonzalez-mestres2009lorentz,
+  title={Lorentz symmetry violation, dark matter and dark energy},
+  author={Gonzalez-Mestres, Luis},
+  year={2009},
+  doi={10.1063/1.3462620},
+  url={http://arxiv.org/abs/0912.0725},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Linear wave dynamics explains observations attributed to dark-solitons
+  in a polariton quantum fluid
+----------------------------------------------------------------------------------------------------
+
+Authors: Askitopoulos, A., Cilibrizzi, P., Lagoudakis, P., Langbein, W., Ohadi, H., Ostatnicky, T.
+Publication Date: 2014
+Journal/Venue: 'American Physical Society (APS)'
+DOI: 10.1103/physrevlett.113.103901
+URL: https://core.ac.uk/download/42529910.pdf
+
+BibTeX Citation:
+@article{askitopoulos2014linear,
+  title={Linear wave dynamics explains observations attributed to dark-solitons
+  in a polariton quantum fluid},
+  author={Askitopoulos, A., Cilibrizzi, P., Lagoudakis, P., Langbein, W., Ohadi, H., Ostatnicky, T.},
+  year={2014},
+  journal={'American Physical Society (APS)'},
+  doi={10.1103/physrevlett.113.103901},
+  url={https://core.ac.uk/download/42529910.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Dark Matter from Minimal Flavor Violation
+----------------------------------------------------------------------------------------------------
+
+Authors: A Adulpravitchai, A Belyaev, A Falkowski, A Katz, A Lenz, AI Vainshtein, AJ Buras, AJ Buras, AL Kagan, AV Manohar, B Batell, B Batell, B Bellazzini, B Grinstein, Brian Batell, C-R Chen, CP Burgess, CW Bauer, D Meloni, DE Soper, DL Rainwater, E Gross, E Komatsu, E Ma, E Nikolidakis, F Chen, F D’Eramo, G Bertone, G D’Ambrosio, G Jungman, GD Kribs, GD Kribs, J Alwall, J Gallicchio, J Goodman, J Goodman, J March-Russell, J McDonald, J-H Kim, JM Arnold, JM Arnold, JM Butterworth, JM Campbell, JM Campbell, Josef Pradler, JR Ellis, K Agashe, LJ Hall, M Bahr, M Beltrán, M Blennow, M Cacciari, M Cacciari, M Carena, M Cirelli, M Hirsch, M Lisanti, M Trott, MA Shifman, Michael Spannowsky, MS Boucenna, N Haba, N Kauer, P Sorensen, RS Chivukula, S Chang, S Chang, S Yellin, T Aaltonen, T Aaltonen, T Hambye, T Plehn, T Sjöstrand, TR Slatyer, V Cirigliano, V Silveira, VM Abazov, VM Abazov, Y Bai, Y Grossman, Y Kajiyama, Z Ligeti, Z Ligeti
+Publication Date: 2011
+Journal/Venue: 'Springer Science and Business Media LLC'
+DOI: 10.1007/jhep08(2011)038
+URL: http://arxiv.org/abs/1105.1781
+
+BibTeX Citation:
+@article{adulpravitchai2011dark,
+  title={Dark Matter from Minimal Flavor Violation},
+  author={A Adulpravitchai, A Belyaev, A Falkowski, A Katz, A Lenz, AI Vainshtein, AJ Buras, AJ Buras, AL Kagan, AV Manohar, B Batell, B Batell, B Bellazzini, B Grinstein, Brian Batell, C-R Chen, CP Burgess, CW Bauer, D Meloni, DE Soper, DL Rainwater, E Gross, E Komatsu, E Ma, E Nikolidakis, F Chen, F D’Eramo, G Bertone, G D’Ambrosio, G Jungman, GD Kribs, GD Kribs, J Alwall, J Gallicchio, J Goodman, J Goodman, J March-Russell, J McDonald, J-H Kim, JM Arnold, JM Arnold, JM Butterworth, JM Campbell, JM Campbell, Josef Pradler, JR Ellis, K Agashe, LJ Hall, M Bahr, M Beltrán, M Blennow, M Cacciari, M Cacciari, M Carena, M Cirelli, M Hirsch, M Lisanti, M Trott, MA Shifman, Michael Spannowsky, MS Boucenna, N Haba, N Kauer, P Sorensen, RS Chivukula, S Chang, S Chang, S Yellin, T Aaltonen, T Aaltonen, T Hambye, T Plehn, T Sjöstrand, TR Slatyer, V Cirigliano, V Silveira, VM Abazov, VM Abazov, Y Bai, Y Grossman, Y Kajiyama, Z Ligeti, Z Ligeti},
+  year={2011},
+  journal={'Springer Science and Business Media LLC'},
+  doi={10.1007/jhep08(2011)038},
+  url={http://arxiv.org/abs/1105.1781},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] On volatile element trends in gas-rich meteorites
+----------------------------------------------------------------------------------------------------
+
+Authors: Bart, G., Lipschutz, M. E.
+Publication Date: None
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/pdf/42871489.pdf
+
+BibTeX Citation:
+@article{bartNoneon,
+  title={On volatile element trends in gas-rich meteorites},
+  author={Bart, G., Lipschutz, M. E.},
+  year={None},
+  url={https://core.ac.uk/download/pdf/42871489.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Magnetized LambdaCDM inhomogeneities and the cosmic dark ages
+----------------------------------------------------------------------------------------------------
+
+Authors: Giovannini, Massimo
+Publication Date: 2011
+Journal/Venue: N/A
+DOI: N/A
+URL: http://arxiv.org/abs/1107.4495
+
+BibTeX Citation:
+@article{giovannini2011magnetized,
+  title={Magnetized LambdaCDM inhomogeneities and the cosmic dark ages},
+  author={Giovannini, Massimo},
+  year={2011},
+  url={http://arxiv.org/abs/1107.4495},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Teleparallel Dark Energy with Purely Non-minimal Coupling to Gravity
+----------------------------------------------------------------------------------------------------
+
+Authors: Allemandi, Amendola, Armendariz-Picon, Bamba, Bond, Caldwell, Caldwell, Capozziello, Capozziello, Chao-Qiang Geng, Chiba, Chung-Chi Lee, Copeland, Daniel, De Felice, Eisenstein, Eisenstein, Gao, Geng, Geng, Granda, Gubitosi, Hu, Je-An Gu, Li, Nojiri, Nojiri, Nojiri, Nojiri, Nojiri, Perivolaropoulos, Perlmutter, Ratra, Riess, Saridakis, Sotiriou, Steinhardt, Sushkov, Wei, Xu, Zlatev, Zlatev
+Publication Date: 2012
+Journal/Venue: 'Elsevier BV'
+DOI: 10.1016/j.physletb.2012.11.053
+URL: http://arxiv.org/abs/1204.4048
+
+BibTeX Citation:
+@article{allemandi2012teleparallel,
+  title={Teleparallel Dark Energy with Purely Non-minimal Coupling to Gravity},
+  author={Allemandi, Amendola, Armendariz-Picon, Bamba, Bond, Caldwell, Caldwell, Capozziello, Capozziello, Chao-Qiang Geng, Chiba, Chung-Chi Lee, Copeland, Daniel, De Felice, Eisenstein, Eisenstein, Gao, Geng, Geng, Granda, Gubitosi, Hu, Je-An Gu, Li, Nojiri, Nojiri, Nojiri, Nojiri, Nojiri, Perivolaropoulos, Perlmutter, Ratra, Riess, Saridakis, Sotiriou, Steinhardt, Sushkov, Wei, Xu, Zlatev, Zlatev},
+  year={2012},
+  journal={'Elsevier BV'},
+  doi={10.1016/j.physletb.2012.11.053},
+  url={http://arxiv.org/abs/1204.4048},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Dark Patterns in the Design of Games
+----------------------------------------------------------------------------------------------------
+
+Authors: Björk, Staffan, Lewis, Chris, Zagal, José P
+Publication Date: 2013
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/16278944.pdf
+
+BibTeX Citation:
+@article{björk2013dark,
+  title={Dark Patterns in the Design of Games},
+  author={Björk, Staffan, Lewis, Chris, Zagal, José P},
+  year={2013},
+  url={https://core.ac.uk/download/16278944.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Dark retweets: investigating non-conventional retweeting patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Azman, Norhidayah, Millard, David E., Weal, Mark J.
+Publication Date: 2012
+Journal/Venue: {'title': None, 'identifiers': ['0302-9743']}
+DOI: 10.1007/978-3-642-35386-4_36
+URL: https://eprints.soton.ac.uk/344491/1/socinfo_cam.pdf
+
+BibTeX Citation:
+@article{azman2012dark,
+  title={Dark retweets: investigating non-conventional retweeting patterns},
+  author={Azman, Norhidayah, Millard, David E., Weal, Mark J.},
+  year={2012},
+  journal={{'title': None, 'identifiers': ['0302-9743']}},
+  doi={10.1007/978-3-642-35386-4_36},
+  url={https://eprints.soton.ac.uk/344491/1/socinfo_cam.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Lambda-Cold Dark Matter, Stellar Feedback, and the Galactic Halo
+  Abundance Pattern
+----------------------------------------------------------------------------------------------------
+
+Authors: Andreea S. Font, Bondi H., Brant Robertson, Devriendt J. E. G., Gratton R. G., Gratton R. G., Gratton R. G., Greggio L., Hill V., Hill V., Hill V., Hill V., James S. Bullock, Jasniewicz G., Kathryn V. Johnston, Lacey C., Lars Hernquist, Matteucci F., Matteucci F., Matteucci F., Moore B., Nissen P. E., Pagel B. E. J., Schaller G., Tinsley B. M., Tinsley B. M., Tsujimoto T., Unavane M.
+Publication Date: 2005
+Journal/Venue: 'University of Chicago Press'
+DOI: 10.1086/452619
+URL: https://core.ac.uk/download/424419113.pdf
+
+BibTeX Citation:
+@article{font2005lambda-cold,
+  title={Lambda-Cold Dark Matter, Stellar Feedback, and the Galactic Halo
+  Abundance Pattern},
+  author={Andreea S. Font, Bondi H., Brant Robertson, Devriendt J. E. G., Gratton R. G., Gratton R. G., Gratton R. G., Greggio L., Hill V., Hill V., Hill V., Hill V., James S. Bullock, Jasniewicz G., Kathryn V. Johnston, Lacey C., Lars Hernquist, Matteucci F., Matteucci F., Matteucci F., Moore B., Nissen P. E., Pagel B. E. J., Schaller G., Tinsley B. M., Tinsley B. M., Tsujimoto T., Unavane M.},
+  year={2005},
+  journal={'University of Chicago Press'},
+  doi={10.1086/452619},
+  url={https://core.ac.uk/download/424419113.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Angular Signatures of Annihilating Dark Matter in the Cosmic Gamma-Ray
+  Background
+----------------------------------------------------------------------------------------------------
+
+Authors: A. Cuoco, G. Miele, J. Brandbyge, J. J. Monaghan, S. Hannestad, T. Haugbølle
+Publication Date: 2008
+Journal/Venue: 'American Physical Society (APS)'
+DOI: 10.1103/physrevd.77.123518
+URL: http://arxiv.org/abs/0710.4136
+
+BibTeX Citation:
+@article{cuoco2008angular,
+  title={Angular Signatures of Annihilating Dark Matter in the Cosmic Gamma-Ray
+  Background},
+  author={A. Cuoco, G. Miele, J. Brandbyge, J. J. Monaghan, S. Hannestad, T. Haugbølle},
+  year={2008},
+  journal={'American Physical Society (APS)'},
+  doi={10.1103/physrevd.77.123518},
+  url={http://arxiv.org/abs/0710.4136},
+  note={Source: CORE}
+}
+
+====================================================================================================
+KEYWORD: USER INTERFACE MANIPULATION
+====================================================================================================
+Articles found: 14
+
+
+----------------------------------------------------------------------------------------------------
+[1] Deuce: A Lightweight User Interface for Structured Editing
+----------------------------------------------------------------------------------------------------
+
+Authors: Charles Brown Neil Christopher, Fowler Martin, Lee Yun Young, Omar Cyrus, Vakilian Mohsen
+Publication Date: 2018
+Journal/Venue: N/A
+DOI: 10.1145/3180155.3180165
+URL: http://arxiv.org/abs/1707.00015
+
+BibTeX Citation:
+@article{christopher2018deuce:,
+  title={Deuce: A Lightweight User Interface for Structured Editing},
+  author={Charles Brown Neil Christopher, Fowler Martin, Lee Yun Young, Omar Cyrus, Vakilian Mohsen},
+  year={2018},
+  doi={10.1145/3180155.3180165},
+  url={http://arxiv.org/abs/1707.00015},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Towards automation of user interface design
+----------------------------------------------------------------------------------------------------
+
+Authors: Gastner, Rainer, Kraetzschmar, Gerhard K., Lutz, Ernst
+Publication Date: None
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/pdf/42809468.pdf
+
+BibTeX Citation:
+@article{gastnerNonetowards,
+  title={Towards automation of user interface design},
+  author={Gastner, Rainer, Kraetzschmar, Gerhard K., Lutz, Ernst},
+  year={None},
+  url={https://core.ac.uk/download/pdf/42809468.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Automata Serialization for Manipulation and Drawing
+----------------------------------------------------------------------------------------------------
+
+Authors: Ferreira, Miguel, Moreira, Nelma
+Publication Date: 2016
+Journal/Venue: N/A
+DOI: 10.4230/oasics.slate.2016.15
+URL: https://core.ac.uk/download/62921555.pdf
+
+BibTeX Citation:
+@article{ferreira2016automata,
+  title={Automata Serialization for Manipulation and Drawing},
+  author={Ferreira, Miguel, Moreira, Nelma},
+  year={2016},
+  doi={10.4230/oasics.slate.2016.15},
+  url={https://core.ac.uk/download/62921555.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Semi-Automated SVG Programming via Direct Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Cypher A., Kurlander D., Lieberman H., Lieberman H., McDirmid, Pierra G., Schuster C., Silva P. B.
+Publication Date: 2016
+Journal/Venue: N/A
+DOI: 10.1145/2984511.2984575
+URL: http://arxiv.org/abs/1608.02829
+
+BibTeX Citation:
+@article{a.2016semi-automated,
+  title={Semi-Automated SVG Programming via Direct Manipulation},
+  author={Cypher A., Kurlander D., Lieberman H., Lieberman H., McDirmid, Pierra G., Schuster C., Silva P. B.},
+  year={2016},
+  doi={10.1145/2984511.2984575},
+  url={http://arxiv.org/abs/1608.02829},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] User-Oriented Authorization in Collaborative Environments
+----------------------------------------------------------------------------------------------------
+
+Authors: Sikkel, Klaas, Stiemerling, Oliver
+Publication Date: 1998
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/pdf/11467894.pdf
+
+BibTeX Citation:
+@article{sikkel1998user-oriented,
+  title={User-Oriented Authorization in Collaborative Environments},
+  author={Sikkel, Klaas, Stiemerling, Oliver},
+  year={1998},
+  url={https://core.ac.uk/download/pdf/11467894.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] A reflective characterisation of occasional user
+----------------------------------------------------------------------------------------------------
+
+Authors: Carrillo, Antonio L., Falgueras, Juan, Martinez, Santiago, Scott-Brown, Kenneth C.
+Publication Date: 2016
+Journal/Venue: {'title': 'Computers in Human Behavior', 'identifiers': ['0747-5632', 'issn:0747-5632']}
+DOI: 10.1016/j.chb.2016.12.027
+URL: https://core.ac.uk/download/228177650.pdf
+
+BibTeX Citation:
+@article{carrillo2016a,
+  title={A reflective characterisation of occasional user},
+  author={Carrillo, Antonio L., Falgueras, Juan, Martinez, Santiago, Scott-Brown, Kenneth C.},
+  year={2016},
+  journal={{'title': 'Computers in Human Behavior', 'identifiers': ['0747-5632', 'issn:0747-5632']}},
+  doi={10.1016/j.chb.2016.12.027},
+  url={https://core.ac.uk/download/228177650.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Supporting shape reinterpretation with eye tracking
+----------------------------------------------------------------------------------------------------
+
+Authors: Garner, Steven, Jowers, Iestyn, McKay, Alison, Pedreira, Nieves, Prats, Miquel
+Publication Date: 2011
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/112215.pdf
+
+BibTeX Citation:
+@article{garner2011supporting,
+  title={Supporting shape reinterpretation with eye tracking},
+  author={Garner, Steven, Jowers, Iestyn, McKay, Alison, Pedreira, Nieves, Prats, Miquel},
+  year={2011},
+  url={https://core.ac.uk/download/112215.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Speech driven user interface for an intelligent house : a thesis presented in partial fulfilment of the requirements for the degree of Master of Engineering in Information Engineering at Massey University, Albany, New Zealand
+----------------------------------------------------------------------------------------------------
+
+Authors: Liu, Zhenqing
+Publication Date: 2005
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/162617011.pdf
+
+BibTeX Citation:
+@article{liu2005speech,
+  title={Speech driven user interface for an intelligent house : a thesis presented in partial fulfilment of the requirements for the degree of Master of Engineering in Information Engineering at Massey University, Albany, New Zealand},
+  author={Liu, Zhenqing},
+  year={2005},
+  url={https://core.ac.uk/download/162617011.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] An Introduction to 3D User Interface Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Bowman, D., Kruijff, E., LaViola, J., Poupyrev, I.
+Publication Date: 2001
+Journal/Venue: {'title': None, 'identifiers': ['1054-7460']}
+DOI: 10.1162/105474601750182342
+URL: https://core.ac.uk/download/10675831.pdf
+
+BibTeX Citation:
+@article{bowman2001an,
+  title={An Introduction to 3D User Interface Design},
+  author={Bowman, D., Kruijff, E., LaViola, J., Poupyrev, I.},
+  year={2001},
+  journal={{'title': None, 'identifiers': ['1054-7460']}},
+  doi={10.1162/105474601750182342},
+  url={https://core.ac.uk/download/10675831.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Spatial issues in user interface design from a graphic design perspective
+----------------------------------------------------------------------------------------------------
+
+Authors: Marcus, Aaron
+Publication Date: None
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/pdf/42823642.pdf
+
+BibTeX Citation:
+@article{marcusNonespatial,
+  title={Spatial issues in user interface design from a graphic design perspective},
+  author={Marcus, Aaron},
+  year={None},
+  url={https://core.ac.uk/download/pdf/42823642.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Goal Driven Interaction (GDI) vs. Direct Manipulation (MD), an empirical comparison
+----------------------------------------------------------------------------------------------------
+
+Authors: Carrillo-Leon, Antonio Luis, Falgueras-Cano, Juan
+Publication Date: 2015
+Journal/Venue: N/A
+DOI: 10.1145/2829875.2829892
+URL: https://core.ac.uk/download/62905930.pdf
+
+BibTeX Citation:
+@article{carrillo-leon2015goal,
+  title={Goal Driven Interaction (GDI) vs. Direct Manipulation (MD), an empirical comparison},
+  author={Carrillo-Leon, Antonio Luis, Falgueras-Cano, Juan},
+  year={2015},
+  doi={10.1145/2829875.2829892},
+  url={https://core.ac.uk/download/62905930.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] PENG: integrated search of distributed news archives
+----------------------------------------------------------------------------------------------------
+
+Authors: Baillie, M., Crestani, F., Landoni, M.
+Publication Date: 2006
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/9015857.pdf
+
+BibTeX Citation:
+@article{baillie2006peng:,
+  title={PENG: integrated search of distributed news archives},
+  author={Baillie, M., Crestani, F., Landoni, M.},
+  year={2006},
+  url={https://core.ac.uk/download/9015857.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] BiplotGUI: Interactive Biplots in R
+----------------------------------------------------------------------------------------------------
+
+Authors: Anthony la Grange, Niël le Roux, Sugnet Gardner-Lubbe
+Publication Date: None
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/pdf/6303184.pdf
+
+BibTeX Citation:
+@article{grangeNonebiplotgui:,
+  title={BiplotGUI: Interactive Biplots in R},
+  author={Anthony la Grange, Niël le Roux, Sugnet Gardner-Lubbe},
+  year={None},
+  url={https://core.ac.uk/download/pdf/6303184.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Implementing interactive computing in an object-oriented environment
+----------------------------------------------------------------------------------------------------
+
+Authors: Frederic Udina
+Publication Date: None
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/pdf/6305035.pdf
+
+BibTeX Citation:
+@article{udinaNoneimplementing,
+  title={Implementing interactive computing in an object-oriented environment},
+  author={Frederic Udina},
+  year={None},
+  url={https://core.ac.uk/download/pdf/6305035.pdf},
+  note={Source: CORE}
+}
+
+====================================================================================================
+KEYWORD: PERSUASIVE DESIGN ETHICS
+====================================================================================================
+Articles found: 11
+
+
+----------------------------------------------------------------------------------------------------
+[1] Applying persuasive design in a diabetes mellitus application
+----------------------------------------------------------------------------------------------------
+
+Authors: Smink, Sjoerd
+Publication Date: 2012
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/pdf/11485764.pdf
+
+BibTeX Citation:
+@article{smink2012applying,
+  title={Applying persuasive design in a diabetes mellitus application},
+  author={Smink, Sjoerd},
+  year={2012},
+  url={https://core.ac.uk/download/pdf/11485764.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Choice architecture and design with intent
+----------------------------------------------------------------------------------------------------
+
+Authors: Harrison, DJ, Lockton, D, Stanton, NA
+Publication Date: 2009
+Journal/Venue: N/A
+DOI: 10.14236/ewic/ndm2009.59
+URL: N/A
+
+BibTeX Citation:
+@article{harrison2009choice,
+  title={Choice architecture and design with intent},
+  author={Harrison, DJ, Lockton, D, Stanton, NA},
+  year={2009},
+  doi={10.14236/ewic/ndm2009.59},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] A Quantitative Content Analysis on Food-based Advergames Aimed at Children
+----------------------------------------------------------------------------------------------------
+
+Authors: Barker, Emiko
+Publication Date: 2017
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/56740740.pdf
+
+BibTeX Citation:
+@article{barker2017a,
+  title={A Quantitative Content Analysis on Food-based Advergames Aimed at Children},
+  author={Barker, Emiko},
+  year={2017},
+  url={https://core.ac.uk/download/56740740.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Proceedings of the International Workshop on EuroPLOT Persuasive Technology for Learning, Education and Teaching (IWEPLET 2013)
+----------------------------------------------------------------------------------------------------
+
+Authors: Behringer, R, Sinclair, G
+Publication Date: 2013
+Journal/Venue: N/A
+DOI: N/A
+URL: N/A
+
+BibTeX Citation:
+@article{behringer2013proceedings,
+  title={Proceedings of the International Workshop on EuroPLOT Persuasive Technology for Learning, Education and Teaching (IWEPLET 2013)},
+  author={Behringer, R, Sinclair, G},
+  year={2013},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] An intervention modelling experiment to change GP's intentions to implement evidence-based practice : using theory-based interventions to promote GP management of upper respiratory tract infection without prescribing antibiotics #2
+----------------------------------------------------------------------------------------------------
+
+Authors: A Bandura, A Bandura, AM Mathews, B Arroll, CC Butler, D Blackman, D Bonetti, D Bonetti, Department of Health, Eileen FS Kaner, EM McColl, GL Paul, House of Lords Select Committee on Science and Technology, I Ajzen, J Francis, Jeremy Grimshaw, Jill Francis, JM Grimshaw, M Ashworth, M Ashworth, Marie Johnston, Martin Eccles, Medical Research Council, MJ Norusis, MP Eccles, Nick Steen, PM Gollwitzer, RM Baron, S Smith, SD Halpern, Standing Medical Advisory Committee.Subgroup on Antimicrobial Resistance, Susan Hrisos, T Sobel
+Publication Date: 2008
+Journal/Venue: 'Springer Science and Business Media LLC'
+DOI: 10.1186/1472-6963-8-10
+URL: https://core.ac.uk/download/pdf/7946431.pdf
+
+BibTeX Citation:
+@article{bandura2008an,
+  title={An intervention modelling experiment to change GP's intentions to implement evidence-based practice : using theory-based interventions to promote GP management of upper respiratory tract infection without prescribing antibiotics #2},
+  author={A Bandura, A Bandura, AM Mathews, B Arroll, CC Butler, D Blackman, D Bonetti, D Bonetti, Department of Health, Eileen FS Kaner, EM McColl, GL Paul, House of Lords Select Committee on Science and Technology, I Ajzen, J Francis, Jeremy Grimshaw, Jill Francis, JM Grimshaw, M Ashworth, M Ashworth, Marie Johnston, Martin Eccles, Medical Research Council, MJ Norusis, MP Eccles, Nick Steen, PM Gollwitzer, RM Baron, S Smith, SD Halpern, Standing Medical Advisory Committee.Subgroup on Antimicrobial Resistance, Susan Hrisos, T Sobel},
+  year={2008},
+  journal={'Springer Science and Business Media LLC'},
+  doi={10.1186/1472-6963-8-10},
+  url={https://core.ac.uk/download/pdf/7946431.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] We are the Change that we Seek: Information Interactions During a Change of Viewpoint
+----------------------------------------------------------------------------------------------------
+
+Authors: Adamic L.A., Agosto D.E., Alzougool B., Bates M.J., Bruckman A., Bruns A., Erdelez S., Flintham M., Gray C.M., Kathwohl D.R., Liao Q.V., Makri S., Makri S., McKay D., McKay D., Purpura S., Robertson R.E., Shibata H., Teevan J., Thaler R.H., Toscos T., Tufecki Z.
+Publication Date: 2020
+Journal/Venue: N/A
+DOI: 10.1145/3343413.3377975
+URL: https://core.ac.uk/download/286715521.pdf
+
+BibTeX Citation:
+@article{l.a.2020we,
+  title={We are the Change that we Seek: Information Interactions During a Change of Viewpoint},
+  author={Adamic L.A., Agosto D.E., Alzougool B., Bates M.J., Bruckman A., Bruns A., Erdelez S., Flintham M., Gray C.M., Kathwohl D.R., Liao Q.V., Makri S., Makri S., McKay D., McKay D., Purpura S., Robertson R.E., Shibata H., Teevan J., Thaler R.H., Toscos T., Tufecki Z.},
+  year={2020},
+  doi={10.1145/3343413.3377975},
+  url={https://core.ac.uk/download/286715521.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Social Sustainability: A design research approach to sustainable development
+----------------------------------------------------------------------------------------------------
+
+Authors: Gregory, Judith, Mazé, Ramia, Redström, Johan
+Publication Date: 2011
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/11435118.pdf
+
+BibTeX Citation:
+@article{gregory2011social,
+  title={Social Sustainability: A design research approach to sustainable development},
+  author={Gregory, Judith, Mazé, Ramia, Redström, Johan},
+  year={2011},
+  url={https://core.ac.uk/download/11435118.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] The cost of virtue : reward as well as feedback are required to reduce user ICT power consumption
+----------------------------------------------------------------------------------------------------
+
+Authors: Bhatti, Saleem N., Yu, Yi
+Publication Date: 2014
+Journal/Venue: N/A
+DOI: 10.1145/2602044.2602063
+URL: N/A
+
+BibTeX Citation:
+@article{bhatti2014the,
+  title={The cost of virtue : reward as well as feedback are required to reduce user ICT power consumption},
+  author={Bhatti, Saleem N., Yu, Yi},
+  year={2014},
+  doi={10.1145/2602044.2602063},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Persuasive technology and digital design for behaviour change
+----------------------------------------------------------------------------------------------------
+
+Authors: Lockton, D
+Publication Date: 2012
+Journal/Venue: Social Science Research Network
+DOI: 10.2139/ssrn.2125957
+URL: https://core.ac.uk/download/9633124.pdf
+
+BibTeX Citation:
+@article{lockton2012persuasive,
+  title={Persuasive technology and digital design for behaviour change},
+  author={Lockton, D},
+  year={2012},
+  journal={Social Science Research Network},
+  doi={10.2139/ssrn.2125957},
+  url={https://core.ac.uk/download/9633124.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Pluralism in Social Economics
+----------------------------------------------------------------------------------------------------
+
+Authors: Davis, John B.
+Publication Date: 1994
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/213082501.pdf
+
+BibTeX Citation:
+@article{davis1994pluralism,
+  title={Pluralism in Social Economics},
+  author={Davis, John B.},
+  year={1994},
+  url={https://core.ac.uk/download/213082501.pdf},
+  note={Source: CORE}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Criticality meets sustainability: Constructing critical practices in design research for sustainability
+----------------------------------------------------------------------------------------------------
+
+Authors: Mazé, Ramia
+Publication Date: 2008
+Journal/Venue: N/A
+DOI: N/A
+URL: https://core.ac.uk/download/11434631.pdf
+
+BibTeX Citation:
+@article{mazé2008criticality,
+  title={Criticality meets sustainability: Constructing critical practices in design research for sustainability},
+  author={Mazé, Ramia},
+  year={2008},
+  url={https://core.ac.uk/download/11434631.pdf},
+  note={Source: CORE}
+}

@@ -1,0 +1,2196 @@
+====================================================================================================
+OPENALEX - RESEARCH ARTICLES
+====================================================================================================
+
+Total unique articles: 102
+Search keywords: 7
+
+
+====================================================================================================
+KEYWORD: DARK PATTERNS
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] The Dark (Patterns) Side of UX Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, Yubo Kou, Bryan Battles, Joseph Hoggatt, Austin L. Toombs
+Publication Date: 2018
+Journal/Venue: N/A
+DOI: 10.1145/3173574.3174108
+URL: https://openalex.org/W2795529671
+
+BibTeX Citation:
+@article{gray2018the,
+  title={The Dark (Patterns) Side of UX Design},
+  author={Colin M. Gray, Yubo Kou, Bryan Battles, Joseph Hoggatt, Austin L. Toombs},
+  year={2018},
+  doi={10.1145/3173574.3174108},
+  url={https://openalex.org/W2795529671},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Dark Patterns at Scale
+----------------------------------------------------------------------------------------------------
+
+Authors: Arunesh Mathur, Güneş Acar, Michael Jan Friedman, Eli Lucherini, Jonathan Mayer, Marshini Chetty, Arvind Narayanan
+Publication Date: 2019
+Journal/Venue: Proceedings of the ACM on Human-Computer Interaction
+DOI: 10.1145/3359183
+URL: https://openalex.org/W4288086176
+
+BibTeX Citation:
+@article{mathur2019dark,
+  title={Dark Patterns at Scale},
+  author={Arunesh Mathur, Güneş Acar, Michael Jan Friedman, Eli Lucherini, Jonathan Mayer, Marshini Chetty, Arvind Narayanan},
+  year={2019},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  doi={10.1145/3359183},
+  url={https://openalex.org/W4288086176},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Shining a Light on Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Jamie B. Luguri, Lior Strahilevitz
+Publication Date: 2020
+Journal/Venue: The Journal of Legal Analysis
+DOI: 10.1093/jla/laaa006
+URL: https://openalex.org/W3137759237
+
+BibTeX Citation:
+@article{luguri2020shining,
+  title={Shining a Light on Dark Patterns},
+  author={Jamie B. Luguri, Lior Strahilevitz},
+  year={2020},
+  journal={The Journal of Legal Analysis},
+  doi={10.1093/jla/laaa006},
+  url={https://openalex.org/W3137759237},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence
+----------------------------------------------------------------------------------------------------
+
+Authors: Midas Nouwens, Ilaria Liccardi, Michael Veale, David R. Karger, Lalana Kagal
+Publication Date: 2020
+Journal/Venue: N/A
+DOI: 10.1145/3313831.3376321
+URL: https://openalex.org/W3000190958
+
+BibTeX Citation:
+@article{nouwens2020dark,
+  title={Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence},
+  author={Midas Nouwens, Ilaria Liccardi, Michael Veale, David R. Karger, Lalana Kagal},
+  year={2020},
+  doi={10.1145/3313831.3376321},
+  url={https://openalex.org/W3000190958},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Christoph Bösch, Benjamin Erb, Frank Kargl, Henning Kopp, Stefan Pfattheicher
+Publication Date: 2016
+Journal/Venue: Proceedings on Privacy Enhancing Technologies
+DOI: 10.1515/popets-2016-0038
+URL: https://openalex.org/W2497080131
+
+BibTeX Citation:
+@article{bösch2016tales,
+  title={Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns},
+  author={Christoph Bösch, Benjamin Erb, Frank Kargl, Henning Kopp, Stefan Pfattheicher},
+  year={2016},
+  journal={Proceedings on Privacy Enhancing Technologies},
+  doi={10.1515/popets-2016-0038},
+  url={https://openalex.org/W2497080131},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] UI Dark Patterns and Where to Find Them
+----------------------------------------------------------------------------------------------------
+
+Authors: Linda Di Geronimo, Larissa Braz, Enrico Fregnan, Fabio Palomba, Alberto Bacchelli
+Publication Date: 2020
+Journal/Venue: N/A
+DOI: 10.1145/3313831.3376600
+URL: https://openalex.org/W3030993165
+
+BibTeX Citation:
+@article{geronimo2020ui,
+  title={UI Dark Patterns and Where to Find Them},
+  author={Linda Di Geronimo, Larissa Braz, Enrico Fregnan, Fabio Palomba, Alberto Bacchelli},
+  year={2020},
+  doi={10.1145/3313831.3376600},
+  url={https://openalex.org/W3030993165},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Dark patterns in proxemic interactions
+----------------------------------------------------------------------------------------------------
+
+Authors: Saul Greenberg, Sebastian Boring, Jo Vermeulen, Jakub Dostál
+Publication Date: 2014
+Journal/Venue: N/A
+DOI: 10.1145/2598510.2598541
+URL: https://openalex.org/W2157582551
+
+BibTeX Citation:
+@article{greenberg2014dark,
+  title={Dark patterns in proxemic interactions},
+  author={Saul Greenberg, Sebastian Boring, Jo Vermeulen, Jakub Dostál},
+  year={2014},
+  doi={10.1145/2598510.2598541},
+  url={https://openalex.org/W2157582551},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Dark Patterns in the Design of Games
+----------------------------------------------------------------------------------------------------
+
+Authors: José P. Zagal, Staffan Björk, Chris Lewis
+Publication Date: 2013
+Journal/Venue: Chalmers Research (Chalmers University of Technology)
+DOI: N/A
+URL: https://openalex.org/W1486683686
+
+BibTeX Citation:
+@article{zagal2013dark,
+  title={Dark Patterns in the Design of Games},
+  author={José P. Zagal, Staffan Björk, Chris Lewis},
+  year={2013},
+  journal={Chalmers Research (Chalmers University of Technology)},
+  url={https://openalex.org/W1486683686},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Dark Patterns: Past, Present, and Future
+----------------------------------------------------------------------------------------------------
+
+Authors: Arvind Narayanan, Arunesh Mathur, Marshini Chetty, Mihir Kshirsagar
+Publication Date: 2020
+Journal/Venue: Queue
+DOI: 10.1145/3400899.3400901
+URL: https://openalex.org/W3129136847
+
+BibTeX Citation:
+@article{narayanan2020dark,
+  title={Dark Patterns: Past, Present, and Future},
+  author={Arvind Narayanan, Arunesh Mathur, Marshini Chetty, Mihir Kshirsagar},
+  year={2020},
+  journal={Queue},
+  doi={10.1145/3400899.3400901},
+  url={https://openalex.org/W3129136847},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Cognitive biases, dark patterns, and the ‘privacy paradox’
+----------------------------------------------------------------------------------------------------
+
+Authors: Ari Ezra Waldman
+Publication Date: 2019
+Journal/Venue: Current Opinion in Psychology
+DOI: 10.1016/j.copsyc.2019.08.025
+URL: https://openalex.org/W2970592824
+
+BibTeX Citation:
+@article{waldman2019cognitive,
+  title={Cognitive biases, dark patterns, and the ‘privacy paradox’},
+  author={Ari Ezra Waldman},
+  year={2019},
+  journal={Current Opinion in Psychology},
+  doi={10.1016/j.copsyc.2019.08.025},
+  url={https://openalex.org/W2970592824},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Cuteness as a ‘Dark Pattern’ in Home Robots
+----------------------------------------------------------------------------------------------------
+
+Authors: Cherie Lacey, Catherine Caudwell
+Publication Date: 2019
+Journal/Venue: N/A
+DOI: 10.1109/hri.2019.8673274
+URL: https://openalex.org/W2927178415
+
+BibTeX Citation:
+@article{lacey2019cuteness,
+  title={Cuteness as a ‘Dark Pattern’ in Home Robots},
+  author={Cherie Lacey, Catherine Caudwell},
+  year={2019},
+  doi={10.1109/hri.2019.8673274},
+  url={https://openalex.org/W2927178415},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, Cristiana Santos, Nataliia Bielova, Michael Toth, Damian Clifford
+Publication Date: 2021
+Journal/Venue: N/A
+DOI: 10.1145/3411764.3445779
+URL: https://openalex.org/W3088787638
+
+BibTeX Citation:
+@article{gray2021dark,
+  title={Dark Patterns and the Legal Requirements of Consent Banners: An Interaction Criticism Perspective},
+  author={Colin M. Gray, Cristiana Santos, Nataliia Bielova, Michael Toth, Damian Clifford},
+  year={2021},
+  doi={10.1145/3411764.3445779},
+  url={https://openalex.org/W3088787638},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] A Comparative Study of Dark Patterns Across Web and Mobile Modalities
+----------------------------------------------------------------------------------------------------
+
+Authors: Johanna Gunawan, Amogh Pradeep, David Choffnes, Woodrow Hartzog, Christo Wilson
+Publication Date: 2021
+Journal/Venue: Proceedings of the ACM on Human-Computer Interaction
+DOI: 10.1145/3479521
+URL: https://openalex.org/W3205400134
+
+BibTeX Citation:
+@article{gunawan2021a,
+  title={A Comparative Study of Dark Patterns Across Web and Mobile Modalities},
+  author={Johanna Gunawan, Amogh Pradeep, David Choffnes, Woodrow Hartzog, Christo Wilson},
+  year={2021},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  doi={10.1145/3479521},
+  url={https://openalex.org/W3205400134},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Circumvention by design - dark patterns in cookie consent for online news outlets
+----------------------------------------------------------------------------------------------------
+
+Authors: Than Htut Soe, Oda Elise Nordberg, Frode Guribye, Marija Slavkovik
+Publication Date: 2020
+Journal/Venue: N/A
+DOI: 10.1145/3419249.3420132
+URL: https://openalex.org/W3094784499
+
+BibTeX Citation:
+@article{soe2020circumvention,
+  title={Circumvention by design - dark patterns in cookie consent for online news outlets},
+  author={Than Htut Soe, Oda Elise Nordberg, Frode Guribye, Marija Slavkovik},
+  year={2020},
+  doi={10.1145/3419249.3420132},
+  url={https://openalex.org/W3094784499},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites
+----------------------------------------------------------------------------------------------------
+
+Authors: Arunesh Mathur, Güneş Acar, Michael Jan Friedman, Elena Lucherini, Jonathan Mayer, Marshini Chetty, Arvind Narayanan
+Publication Date: 2019
+Journal/Venue: Lirias (KU Leuven)
+DOI: 10.48550/arxiv.1907.07032
+URL: https://openalex.org/W2956800042
+
+BibTeX Citation:
+@article{mathur2019dark,
+  title={Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites},
+  author={Arunesh Mathur, Güneş Acar, Michael Jan Friedman, Elena Lucherini, Jonathan Mayer, Marshini Chetty, Arvind Narayanan},
+  year={2019},
+  journal={Lirias (KU Leuven)},
+  doi={10.48550/arxiv.1907.07032},
+  url={https://openalex.org/W2956800042},
+  note={Source: OpenAlex}
+}
+
+====================================================================================================
+KEYWORD: DECEPTIVE DESIGN
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Exploring Deceptive Design Patterns in Voice Interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: Kentrell Owens, Johanna Gunawan, David Choffnes, Pardis Emami-Naeini, Tadayoshi Kohno, Franziska Roesner
+Publication Date: 2022
+Journal/Venue: N/A
+DOI: 10.1145/3549015.3554213
+URL: https://openalex.org/W4297659139
+
+BibTeX Citation:
+@article{owens2022exploring,
+  title={Exploring Deceptive Design Patterns in Voice Interfaces},
+  author={Kentrell Owens, Johanna Gunawan, David Choffnes, Pardis Emami-Naeini, Tadayoshi Kohno, Franziska Roesner},
+  year={2022},
+  doi={10.1145/3549015.3554213},
+  url={https://openalex.org/W4297659139},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Deceptive Design Patterns in Safety Technologies: A Case Study of the Citizen App
+----------------------------------------------------------------------------------------------------
+
+Authors: Ishita Chordia, Lena-Phuong Tran, Tala June Tayebi, Emily Parrish, Sheena Erete, Jason Yip, Alexis Hiniker
+Publication Date: 2023
+Journal/Venue: N/A
+DOI: 10.1145/3544548.3581258
+URL: https://openalex.org/W4366549272
+
+BibTeX Citation:
+@article{chordia2023deceptive,
+  title={Deceptive Design Patterns in Safety Technologies: A Case Study of the Citizen App},
+  author={Ishita Chordia, Lena-Phuong Tran, Tala June Tayebi, Emily Parrish, Sheena Erete, Jason Yip, Alexis Hiniker},
+  year={2023},
+  doi={10.1145/3544548.3581258},
+  url={https://openalex.org/W4366549272},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Investigating Deceptive Design in GDPR’s Legitimate Interest
+----------------------------------------------------------------------------------------------------
+
+Authors: Lin Kyi, Sushil Ammanaghatta Shivakumar, Cristiana Santos, Franziska Roesner, Frederike Zufall, Asia J. Biega
+Publication Date: 2023
+Journal/Venue: N/A
+DOI: 10.1145/3544548.3580637
+URL: https://openalex.org/W4366549958
+
+BibTeX Citation:
+@article{kyi2023investigating,
+  title={Investigating Deceptive Design in GDPR’s Legitimate Interest},
+  author={Lin Kyi, Sushil Ammanaghatta Shivakumar, Cristiana Santos, Franziska Roesner, Frederike Zufall, Asia J. Biega},
+  year={2023},
+  doi={10.1145/3544548.3580637},
+  url={https://openalex.org/W4366549958},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Deceived by Immersion: A Systematic Analysis of Deceptive Design in Extended Reality
+----------------------------------------------------------------------------------------------------
+
+Authors: Hilda Hadan, Lydia Choong, Leah Zhang-Kennedy, Lennart E. Nacke
+Publication Date: 2024
+Journal/Venue: ACM Computing Surveys
+DOI: 10.1145/3659945
+URL: https://openalex.org/W4394880928
+
+BibTeX Citation:
+@article{hadan2024deceived,
+  title={Deceived by Immersion: A Systematic Analysis of Deceptive Design in Extended Reality},
+  author={Hilda Hadan, Lydia Choong, Leah Zhang-Kennedy, Lennart E. Nacke},
+  year={2024},
+  journal={ACM Computing Surveys},
+  doi={10.1145/3659945},
+  url={https://openalex.org/W4394880928},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Deceptive Design: Cookie Consent and Manipulative Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Thomas Mejtoft, Erik Frängsmyr, Ulrik Söderström, Ole Norberg
+Publication Date: 2021
+Journal/Venue: N/A
+DOI: 10.18690/978-961-286-485-9.29
+URL: https://openalex.org/W3196657939
+
+BibTeX Citation:
+@article{mejtoft2021deceptive,
+  title={Deceptive Design: Cookie Consent and Manipulative Patterns},
+  author={Thomas Mejtoft, Erik Frängsmyr, Ulrik Söderström, Ole Norberg},
+  year={2021},
+  doi={10.18690/978-961-286-485-9.29},
+  url={https://openalex.org/W3196657939},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Investigating Players’ Perceptions of Deceptive Design Practices within a 3D Gameplay Context
+----------------------------------------------------------------------------------------------------
+
+Authors: John King, Dan Fitton, Brendan Cassidy
+Publication Date: 2023
+Journal/Venue: Proceedings of the ACM on Human-Computer Interaction
+DOI: 10.1145/3611053
+URL: https://openalex.org/W4387332669
+
+BibTeX Citation:
+@article{king2023investigating,
+  title={Investigating Players’ Perceptions of Deceptive Design Practices within a 3D Gameplay Context},
+  author={John King, Dan Fitton, Brendan Cassidy},
+  year={2023},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  doi={10.1145/3611053},
+  url={https://openalex.org/W4387332669},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Dark Patterns and the Emerging Threats of Deceptive Design Practices
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, Cristiana Santos, Nicole Tong, Thomas Mildner, Arianna Rossi, Johanna Gunawan, Caroline Sinders
+Publication Date: 2023
+Journal/Venue: N/A
+DOI: 10.1145/3544549.3583173
+URL: https://openalex.org/W4366596368
+
+BibTeX Citation:
+@article{gray2023dark,
+  title={Dark Patterns and the Emerging Threats of Deceptive Design Practices},
+  author={Colin M. Gray, Cristiana Santos, Nicole Tong, Thomas Mildner, Arianna Rossi, Johanna Gunawan, Caroline Sinders},
+  year={2023},
+  doi={10.1145/3544549.3583173},
+  url={https://openalex.org/W4366596368},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Mobilizing Research and Regulatory Action on Dark Patterns and Deceptive Design Practices
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, Johanna Gunawan, René Schäfer, Nataliia Bielova, Lorena Sánchez Chamorro, Katie Seaborn, Thomas Mildner, Hauke Sandhaus
+Publication Date: 2024
+Journal/Venue: N/A
+DOI: 10.1145/3613905.3636310
+URL: https://openalex.org/W4396832778
+
+BibTeX Citation:
+@article{gray2024mobilizing,
+  title={Mobilizing Research and Regulatory Action on Dark Patterns and Deceptive Design Practices},
+  author={Colin M. Gray, Johanna Gunawan, René Schäfer, Nataliia Bielova, Lorena Sánchez Chamorro, Katie Seaborn, Thomas Mildner, Hauke Sandhaus},
+  year={2024},
+  doi={10.1145/3613905.3636310},
+  url={https://openalex.org/W4396832778},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Deceptive imprinting and immune refocusing in vaccine design
+----------------------------------------------------------------------------------------------------
+
+Authors: Gregory J. Tobin, Jessie D. Trujillo, Ruth V. Bushnell, George Lin, Abhijit Chaudhuri, Jinxue Long, José Barrera, Lindomar Pena, Marvin J. Grubman, Peter L. Nara
+Publication Date: 2008
+Journal/Venue: Vaccine
+DOI: 10.1016/j.vaccine.2008.09.080
+URL: https://openalex.org/W2032015628
+
+BibTeX Citation:
+@article{tobin2008deceptive,
+  title={Deceptive imprinting and immune refocusing in vaccine design},
+  author={Gregory J. Tobin, Jessie D. Trujillo, Ruth V. Bushnell, George Lin, Abhijit Chaudhuri, Jinxue Long, José Barrera, Lindomar Pena, Marvin J. Grubman, Peter L. Nara},
+  year={2008},
+  journal={Vaccine},
+  doi={10.1016/j.vaccine.2008.09.080},
+  url={https://openalex.org/W2032015628},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] The present looks nothing like the Jetsons: Deceptive design in virtual assistants and the protection of the rights of users
+----------------------------------------------------------------------------------------------------
+
+Authors: Silvia De Conca
+Publication Date: 2023
+Journal/Venue: Computer law & security review
+DOI: 10.1016/j.clsr.2023.105866
+URL: https://openalex.org/W4386787571
+
+BibTeX Citation:
+@article{conca2023the,
+  title={The present looks nothing like the Jetsons: Deceptive design in virtual assistants and the protection of the rights of users},
+  author={Silvia De Conca},
+  year={2023},
+  journal={Computer law & security review},
+  doi={10.1016/j.clsr.2023.105866},
+  url={https://openalex.org/W4386787571},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] From Motivating to Manipulative: The Use of Deceptive Design in a Game's Free-to-Play Transition
+----------------------------------------------------------------------------------------------------
+
+Authors: Hilda Hadan, Sabrina Alicia Sgandurra, Leah Zhang-Kennedy, Lennart E. Nacke
+Publication Date: 2024
+Journal/Venue: Proceedings of the ACM on Human-Computer Interaction
+DOI: 10.1145/3677074
+URL: https://openalex.org/W4403423065
+
+BibTeX Citation:
+@article{hadan2024from,
+  title={From Motivating to Manipulative: The Use of Deceptive Design in a Game's Free-to-Play Transition},
+  author={Hilda Hadan, Sabrina Alicia Sgandurra, Leah Zhang-Kennedy, Lennart E. Nacke},
+  year={2024},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  doi={10.1145/3677074},
+  url={https://openalex.org/W4403423065},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Theorizing Deception: A Scoping Review of Theory in Research on Dark Patterns and Deceptive Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Weichen Joe Chang, Katie Seaborn, Andrew A. Adams
+Publication Date: 2024
+Journal/Venue: N/A
+DOI: 10.1145/3613905.3650997
+URL: https://openalex.org/W4396832828
+
+BibTeX Citation:
+@article{chang2024theorizing,
+  title={Theorizing Deception: A Scoping Review of Theory in Research on Dark Patterns and Deceptive Design},
+  author={Weichen Joe Chang, Katie Seaborn, Andrew A. Adams},
+  year={2024},
+  doi={10.1145/3613905.3650997},
+  url={https://openalex.org/W4396832828},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] Dark Finance: Exploring Deceptive Design in Investment Apps
+----------------------------------------------------------------------------------------------------
+
+Authors: Ivana Rakovic, Yavuz İnal
+Publication Date: 2023
+Journal/Venue: Lecture notes in computer science
+DOI: 10.1007/978-3-031-42280-5_20
+URL: https://openalex.org/W4386128508
+
+BibTeX Citation:
+@article{rakovic2023dark,
+  title={Dark Finance: Exploring Deceptive Design in Investment Apps},
+  author={Ivana Rakovic, Yavuz İnal},
+  year={2023},
+  journal={Lecture notes in computer science},
+  doi={10.1007/978-3-031-42280-5_20},
+  url={https://openalex.org/W4386128508},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Sludge, dark patterns and dark nudges: A taxonomy of online gambling platforms' deceptive design features
+----------------------------------------------------------------------------------------------------
+
+Authors: Philip Newall
+Publication Date: 2025
+Journal/Venue: Addiction
+DOI: 10.1111/add.70085
+URL: https://openalex.org/W4409980251
+
+BibTeX Citation:
+@article{newall2025sludge,,
+  title={Sludge, dark patterns and dark nudges: A taxonomy of online gambling platforms' deceptive design features},
+  author={Philip Newall},
+  year={2025},
+  journal={Addiction},
+  doi={10.1111/add.70085},
+  url={https://openalex.org/W4409980251},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] THE DECEPTIVE DESIGN OF HONG SANGSOO'S<i>VIRGIN STRIPPED BARE BY HER BACHELORS</i>
+----------------------------------------------------------------------------------------------------
+
+Authors: Marshall Deutelbaum
+Publication Date: 2005
+Journal/Venue: New Review of Film and Television Studies
+DOI: 10.1080/17400300500213503
+URL: https://openalex.org/W2080311297
+
+BibTeX Citation:
+@article{deutelbaum2005the,
+  title={THE DECEPTIVE DESIGN OF HONG SANGSOO'S<i>VIRGIN STRIPPED BARE BY HER BACHELORS</i>},
+  author={Marshall Deutelbaum},
+  year={2005},
+  journal={New Review of Film and Television Studies},
+  doi={10.1080/17400300500213503},
+  url={https://openalex.org/W2080311297},
+  note={Source: OpenAlex}
+}
+
+====================================================================================================
+KEYWORD: USER INTERFACE MANIPULATION
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Features and development of <i>Coot</i>
+----------------------------------------------------------------------------------------------------
+
+Authors: Paul Emsley, Bernhard Lohkamp, W. G. Scott, Kevin Cowtan
+Publication Date: 2010
+Journal/Venue: Acta Crystallographica Section D Biological Crystallography
+DOI: 10.1107/s0907444910007493
+URL: https://openalex.org/W2124026197
+
+BibTeX Citation:
+@article{emsley2010features,
+  title={Features and development of <i>Coot</i>},
+  author={Paul Emsley, Bernhard Lohkamp, W. G. Scott, Kevin Cowtan},
+  year={2010},
+  journal={Acta Crystallographica Section D Biological Crystallography},
+  doi={10.1107/s0907444910007493},
+  url={https://openalex.org/W2124026197},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Direct manipulation for comprehensible, predictable and controllable user interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: Ben Shneiderman
+Publication Date: 1997
+Journal/Venue: N/A
+DOI: 10.1145/238218.238281
+URL: https://openalex.org/W2107150807
+
+BibTeX Citation:
+@article{shneiderman1997direct,
+  title={Direct manipulation for comprehensible, predictable and controllable user interfaces},
+  author={Ben Shneiderman},
+  year={1997},
+  doi={10.1145/238218.238281},
+  url={https://openalex.org/W2107150807},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] A specification language for direct-manipulation user interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: Robert J. K. Jacob
+Publication Date: 1986
+Journal/Venue: ACM Transactions on Graphics
+DOI: 10.1145/27623.27624
+URL: https://openalex.org/W2046345502
+
+BibTeX Citation:
+@article{jacob1986a,
+  title={A specification language for direct-manipulation user interfaces},
+  author={Robert J. K. Jacob},
+  year={1986},
+  journal={ACM Transactions on Graphics},
+  doi={10.1145/27623.27624},
+  url={https://openalex.org/W2046345502},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Building user interfaces by direct manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Luca Cardelli
+Publication Date: 1988
+Journal/Venue: N/A
+DOI: 10.1145/62402.62428
+URL: https://openalex.org/W2149142096
+
+BibTeX Citation:
+@article{cardelli1988building,
+  title={Building user interfaces by direct manipulation},
+  author={Luca Cardelli},
+  year={1988},
+  doi={10.1145/62402.62428},
+  url={https://openalex.org/W2149142096},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] The UAN: a user-oriented representation for direct manipulation interface designs
+----------------------------------------------------------------------------------------------------
+
+Authors: H. Rex Hartson, Antonio C. Siochi, Deborah Hix
+Publication Date: 1990
+Journal/Venue: ACM Transactions on Information Systems
+DOI: 10.1145/98188.98191
+URL: https://openalex.org/W1975517312
+
+BibTeX Citation:
+@article{hartson1990the,
+  title={The UAN: a user-oriented representation for direct manipulation interface designs},
+  author={H. Rex Hartson, Antonio C. Siochi, Deborah Hix},
+  year={1990},
+  journal={ACM Transactions on Information Systems},
+  doi={10.1145/98188.98191},
+  url={https://openalex.org/W1975517312},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Interactive Tree Of Life (iTOL) v4: recent updates and new developments
+----------------------------------------------------------------------------------------------------
+
+Authors: Ivica Letunić, Peer Bork
+Publication Date: 2019
+Journal/Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkz239
+URL: https://openalex.org/W2927961455
+
+BibTeX Citation:
+@article{letunić2019interactive,
+  title={Interactive Tree Of Life (iTOL) v4: recent updates and new developments},
+  author={Ivica Letunić, Peer Bork},
+  year={2019},
+  journal={Nucleic Acids Research},
+  doi={10.1093/nar/gkz239},
+  url={https://openalex.org/W2927961455},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] CHARMM‐GUI: A web‐based graphical user interface for CHARMM
+----------------------------------------------------------------------------------------------------
+
+Authors: Sunhwan Jo, Taehoon Kim, Vidyashankara Iyer, Wonpil Im
+Publication Date: 2008
+Journal/Venue: Journal of Computational Chemistry
+DOI: 10.1002/jcc.20945
+URL: https://openalex.org/W2021520922
+
+BibTeX Citation:
+@article{jo2008charmm‐gui:,
+  title={CHARMM‐GUI: A web‐based graphical user interface for CHARMM},
+  author={Sunhwan Jo, Taehoon Kim, Vidyashankara Iyer, Wonpil Im},
+  year={2008},
+  journal={Journal of Computational Chemistry},
+  doi={10.1002/jcc.20945},
+  url={https://openalex.org/W2021520922},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Embodied user interfaces for <i>really</i> direct manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Kenneth P. Fishkin, Anuj Gujar, Beverly L. Harrison, Thomas P. Moran, Roy Want
+Publication Date: 2000
+Journal/Venue: Communications of the ACM
+DOI: 10.1145/348941.348998
+URL: https://openalex.org/W2076012011
+
+BibTeX Citation:
+@article{fishkin2000embodied,
+  title={Embodied user interfaces for <i>really</i> direct manipulation},
+  author={Kenneth P. Fishkin, Anuj Gujar, Beverly L. Harrison, Thomas P. Moran, Roy Want},
+  year={2000},
+  journal={Communications of the ACM},
+  doi={10.1145/348941.348998},
+  url={https://openalex.org/W2076012011},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] MOLMOL: A program for display and analysis of macromolecular structures
+----------------------------------------------------------------------------------------------------
+
+Authors: Reto Koradi, Martin Billeter, Kurt Wüthrich
+Publication Date: 1996
+Journal/Venue: Journal of Molecular Graphics
+DOI: 10.1016/0263-7855(96)00009-4
+URL: https://openalex.org/W2002195659
+
+BibTeX Citation:
+@article{koradi1996molmol:,
+  title={MOLMOL: A program for display and analysis of macromolecular structures},
+  author={Reto Koradi, Martin Billeter, Kurt Wüthrich},
+  year={1996},
+  journal={Journal of Molecular Graphics},
+  doi={10.1016/0263-7855(96)00009-4},
+  url={https://openalex.org/W2002195659},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Molcontroller: A VMD Graphical User Interface Featuring Molecule Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Chenchen Wu, Shengtang Liu, Shitong Zhang, Zaixing Yang
+Publication Date: 2020
+Journal/Venue: Journal of Chemical Information and Modeling
+DOI: 10.1021/acs.jcim.0c00754
+URL: https://openalex.org/W3087236414
+
+BibTeX Citation:
+@article{wu2020molcontroller:,
+  title={Molcontroller: A VMD Graphical User Interface Featuring Molecule Manipulation},
+  author={Chenchen Wu, Shengtang Liu, Shitong Zhang, Zaixing Yang},
+  year={2020},
+  journal={Journal of Chemical Information and Modeling},
+  doi={10.1021/acs.jcim.0c00754},
+  url={https://openalex.org/W3087236414},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] <i>IFEFFIT</i> : interactive XAFS analysis and <i>FEFF</i> fitting
+----------------------------------------------------------------------------------------------------
+
+Authors: M. Newville
+Publication Date: 2001
+Journal/Venue: Journal of Synchrotron Radiation
+DOI: 10.1107/s0909049500016964
+URL: https://openalex.org/W1978450379
+
+BibTeX Citation:
+@article{newville2001<i>ifeffit</i>,
+  title={<i>IFEFFIT</i> : interactive XAFS analysis and <i>FEFF</i> fitting},
+  author={M. Newville},
+  year={2001},
+  journal={Journal of Synchrotron Radiation},
+  doi={10.1107/s0909049500016964},
+  url={https://openalex.org/W1978450379},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] A Hybrid User Interface for Manipulation of Volumetric Medical Data
+----------------------------------------------------------------------------------------------------
+
+Authors: Alexander Bornik, Reinhard Beichel, Ernst Kruijff, Bernhard Reitinger, Dieter Schmalstieg
+Publication Date: 2006
+Journal/Venue: N/A
+DOI: 10.1109/vr.2006.8
+URL: https://openalex.org/W2114938203
+
+BibTeX Citation:
+@article{bornik2006a,
+  title={A Hybrid User Interface for Manipulation of Volumetric Medical Data},
+  author={Alexander Bornik, Reinhard Beichel, Ernst Kruijff, Bernhard Reitinger, Dieter Schmalstieg},
+  year={2006},
+  doi={10.1109/vr.2006.8},
+  url={https://openalex.org/W2114938203},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] User interface evaluation of a direct manipulation temporal visual query language
+----------------------------------------------------------------------------------------------------
+
+Authors: Stacie Hibino, Elke A. Rundensteiner
+Publication Date: 1997
+Journal/Venue: N/A
+DOI: 10.1145/266180.266342
+URL: https://openalex.org/W1970575122
+
+BibTeX Citation:
+@article{hibino1997user,
+  title={User interface evaluation of a direct manipulation temporal visual query language},
+  author={Stacie Hibino, Elke A. Rundensteiner},
+  year={1997},
+  doi={10.1145/266180.266342},
+  url={https://openalex.org/W1970575122},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Design and Evaluation of a Handheld-based 3D User Interface for Collaborative Object Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Jerônimo G Grandi, Henrique Galvan Debarba, Luciana Nedel, Anderson Maciel
+Publication Date: 2017
+Journal/Venue: N/A
+DOI: 10.1145/3025453.3025935
+URL: https://openalex.org/W2611028580
+
+BibTeX Citation:
+@article{grandi2017design,
+  title={Design and Evaluation of a Handheld-based 3D User Interface for Collaborative Object Manipulation},
+  author={Jerônimo G Grandi, Henrique Galvan Debarba, Luciana Nedel, Anderson Maciel},
+  year={2017},
+  doi={10.1145/3025453.3025935},
+  url={https://openalex.org/W2611028580},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Direct Manipulation Interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: Edwin Hutchins, James D. Hollan, Donald A. Norman
+Publication Date: 1985
+Journal/Venue: Human-Computer Interaction
+DOI: 10.1207/s15327051hci0104_2
+URL: https://openalex.org/W2115647291
+
+BibTeX Citation:
+@article{hutchins1985direct,
+  title={Direct Manipulation Interfaces},
+  author={Edwin Hutchins, James D. Hollan, Donald A. Norman},
+  year={1985},
+  journal={Human-Computer Interaction},
+  doi={10.1207/s15327051hci0104_2},
+  url={https://openalex.org/W2115647291},
+  note={Source: OpenAlex}
+}
+
+====================================================================================================
+KEYWORD: PERSUASIVE DESIGN ETHICS
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] On the role of ethics in Persuasive Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Sandra Burri Gram-Hansen, Lasse Burri Gram-Hansen, Terrell Ward Bynum, William Fleishman, Anne Gerdes, Gitte Møldrup Nielsen, Simon Rogerson
+Publication Date: 2013
+Journal/Venue: Research Portal (King's College London)
+DOI: N/A
+URL: https://openalex.org/W2474865320
+
+BibTeX Citation:
+@article{gram-hansen2013on,
+  title={On the role of ethics in Persuasive Design},
+  author={Sandra Burri Gram-Hansen, Lasse Burri Gram-Hansen, Terrell Ward Bynum, William Fleishman, Anne Gerdes, Gitte Møldrup Nielsen, Simon Rogerson},
+  year={2013},
+  journal={Research Portal (King's College London)},
+  url={https://openalex.org/W2474865320},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] How Ethical Are Persuasive Design Practices? A Proposal for Assessment of Ethics in HCI Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Sanju Ahuja, Jyoti Kumar
+Publication Date: 2021
+Journal/Venue: Smart innovation, systems and technologies
+DOI: 10.1007/978-981-16-0041-8_40
+URL: https://openalex.org/W3158377010
+
+BibTeX Citation:
+@article{ahuja2021how,
+  title={How Ethical Are Persuasive Design Practices? A Proposal for Assessment of Ethics in HCI Design},
+  author={Sanju Ahuja, Jyoti Kumar},
+  year={2021},
+  journal={Smart innovation, systems and technologies},
+  doi={10.1007/978-981-16-0041-8_40},
+  url={https://openalex.org/W3158377010},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Persuasion, Ethics and Context Awareness:Towards a Platform for Persuasive Design founded in the Notion of Kairos
+----------------------------------------------------------------------------------------------------
+
+Authors: Sandra Burri Gram-Hansen
+Publication Date: 2010
+Journal/Venue: Research Portal (King's College London)
+DOI: N/A
+URL: https://openalex.org/W2735455162
+
+BibTeX Citation:
+@article{gram-hansen2010persuasion,,
+  title={Persuasion, Ethics and Context Awareness:Towards a Platform for Persuasive Design founded in the Notion of Kairos},
+  author={Sandra Burri Gram-Hansen},
+  year={2010},
+  journal={Research Portal (King's College London)},
+  url={https://openalex.org/W2735455162},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Does ethics code design matter? Effects of ethics code rationales and sanctions on recipients' justice perceptions and content recall
+----------------------------------------------------------------------------------------------------
+
+Authors: Gary R. Weaver
+Publication Date: 1995
+Journal/Venue: Journal of Business Ethics
+DOI: 10.1007/bf00872099
+URL: https://openalex.org/W2073307579
+
+BibTeX Citation:
+@article{weaver1995does,
+  title={Does ethics code design matter? Effects of ethics code rationales and sanctions on recipients' justice perceptions and content recall},
+  author={Gary R. Weaver},
+  year={1995},
+  journal={Journal of Business Ethics},
+  doi={10.1007/bf00872099},
+  url={https://openalex.org/W2073307579},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Public relations, the public interest and persuasion: an ethical approach
+----------------------------------------------------------------------------------------------------
+
+Authors: A. T. Messina
+Publication Date: 2007
+Journal/Venue: Journal of Communication Management
+DOI: 10.1108/13632540710725978
+URL: https://openalex.org/W2148035469
+
+BibTeX Citation:
+@article{messina2007public,
+  title={Public relations, the public interest and persuasion: an ethical approach},
+  author={A. T. Messina},
+  year={2007},
+  journal={Journal of Communication Management},
+  doi={10.1108/13632540710725978},
+  url={https://openalex.org/W2148035469},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] How to Achieve Ethical Persuasive Design: A Review and Theoretical Propositions for Information Systems
+----------------------------------------------------------------------------------------------------
+
+Authors: Dennis Benner, Sofia Schöbel, Andreas Janson, Jan Marco Leimeister
+Publication Date: 2022
+Journal/Venue: AIS Transactions on Human-Computer Interaction
+DOI: 10.17705/1thci.00179
+URL: https://openalex.org/W4313238360
+
+BibTeX Citation:
+@article{benner2022how,
+  title={How to Achieve Ethical Persuasive Design: A Review and Theoretical Propositions for Information Systems},
+  author={Dennis Benner, Sofia Schöbel, Andreas Janson, Jan Marco Leimeister},
+  year={2022},
+  journal={AIS Transactions on Human-Computer Interaction},
+  doi={10.17705/1thci.00179},
+  url={https://openalex.org/W4313238360},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Agreeing to Differ: Modelling Persuasive Dialogue Between Parties With Different Values
+----------------------------------------------------------------------------------------------------
+
+Authors: Chris Reed
+Publication Date: 2001
+Journal/Venue: Informal Logic
+DOI: 10.22329/il.v22i3.2590
+URL: https://openalex.org/W826680751
+
+BibTeX Citation:
+@article{reed2001agreeing,
+  title={Agreeing to Differ: Modelling Persuasive Dialogue Between Parties With Different Values},
+  author={Chris Reed},
+  year={2001},
+  journal={Informal Logic},
+  doi={10.22329/il.v22i3.2590},
+  url={https://openalex.org/W826680751},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Pop-ups, pop-unders, banners and buttons: The ethics of online advertising to primary school children
+----------------------------------------------------------------------------------------------------
+
+Authors: Agnès Nairn, Alexander Dew
+Publication Date: 2007
+Journal/Venue: Journal of Direct Data and Digital Marketing Practice
+DOI: 10.1057/palgrave.dddmp.4350076
+URL: https://openalex.org/W2001797630
+
+BibTeX Citation:
+@article{nairn2007pop-ups,,
+  title={Pop-ups, pop-unders, banners and buttons: The ethics of online advertising to primary school children},
+  author={Agnès Nairn, Alexander Dew},
+  year={2007},
+  journal={Journal of Direct Data and Digital Marketing Practice},
+  doi={10.1057/palgrave.dddmp.4350076},
+  url={https://openalex.org/W2001797630},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Delaying and withholding interventions: ethics and the stepped wedge trial
+----------------------------------------------------------------------------------------------------
+
+Authors: Ariella Binik
+Publication Date: 2019
+Journal/Venue: Journal of Medical Ethics
+DOI: 10.1136/medethics-2018-105138
+URL: https://openalex.org/W2963890664
+
+BibTeX Citation:
+@article{binik2019delaying,
+  title={Delaying and withholding interventions: ethics and the stepped wedge trial},
+  author={Ariella Binik},
+  year={2019},
+  journal={Journal of Medical Ethics},
+  doi={10.1136/medethics-2018-105138},
+  url={https://openalex.org/W2963890664},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Doing Things with Games: Social Impact Through Play
+----------------------------------------------------------------------------------------------------
+
+Authors: Lindsay Grace
+Publication Date: 2019
+Journal/Venue: N/A
+DOI: 10.1201/9780429429880
+URL: https://openalex.org/W2955754537
+
+BibTeX Citation:
+@article{grace2019doing,
+  title={Doing Things with Games: Social Impact Through Play},
+  author={Lindsay Grace},
+  year={2019},
+  doi={10.1201/9780429429880},
+  url={https://openalex.org/W2955754537},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Landscaping personification technologies
+----------------------------------------------------------------------------------------------------
+
+Authors: David Benyon, Oli Mival
+Publication Date: 2008
+Journal/Venue: N/A
+DOI: 10.1145/1358628.1358908
+URL: https://openalex.org/W1968876894
+
+BibTeX Citation:
+@article{benyon2008landscaping,
+  title={Landscaping personification technologies},
+  author={David Benyon, Oli Mival},
+  year={2008},
+  doi={10.1145/1358628.1358908},
+  url={https://openalex.org/W1968876894},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Family wearables – what makes them persuasive?
+----------------------------------------------------------------------------------------------------
+
+Authors: Sandra Burri Gram-Hansen
+Publication Date: 2019
+Journal/Venue: Behaviour and Information Technology
+DOI: 10.1080/0144929x.2019.1694993
+URL: https://openalex.org/W2989908686
+
+BibTeX Citation:
+@article{gram-hansen2019family,
+  title={Family wearables – what makes them persuasive?},
+  author={Sandra Burri Gram-Hansen},
+  year={2019},
+  journal={Behaviour and Information Technology},
+  doi={10.1080/0144929x.2019.1694993},
+  url={https://openalex.org/W2989908686},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] Design Imperatives to Enhance Evidence-Based Interventions with Persuasive Technology: A Case Scenario in Preventing Child Maltreatment
+----------------------------------------------------------------------------------------------------
+
+Authors: Walter LaMendola, Judy Krysik
+Publication Date: 2008
+Journal/Venue: Journal of Technology in Human Services
+DOI: 10.1080/15228830802097364
+URL: https://openalex.org/W2064720605
+
+BibTeX Citation:
+@article{lamendola2008design,
+  title={Design Imperatives to Enhance Evidence-Based Interventions with Persuasive Technology: A Case Scenario in Preventing Child Maltreatment},
+  author={Walter LaMendola, Judy Krysik},
+  year={2008},
+  journal={Journal of Technology in Human Services},
+  doi={10.1080/15228830802097364},
+  url={https://openalex.org/W2064720605},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Persuasion, Learning and Context Adaptation
+----------------------------------------------------------------------------------------------------
+
+Authors: Sandra Burri Gram-Hansen, Thomas Ryberg
+Publication Date: 2013
+Journal/Venue: International Journal of Conceptual Structures and Smart Applications
+DOI: 10.4018/ijcssa.2013070104
+URL: https://openalex.org/W2041067166
+
+BibTeX Citation:
+@article{gram-hansen2013persuasion,,
+  title={Persuasion, Learning and Context Adaptation},
+  author={Sandra Burri Gram-Hansen, Thomas Ryberg},
+  year={2013},
+  journal={International Journal of Conceptual Structures and Smart Applications},
+  doi={10.4018/ijcssa.2013070104},
+  url={https://openalex.org/W2041067166},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Towards effective ethical behavior design
+----------------------------------------------------------------------------------------------------
+
+Authors: Rodrigo Cardoso de Oliveira, Juan Pablo Carrascal
+Publication Date: 2014
+Journal/Venue: N/A
+DOI: 10.1145/2559206.2581182
+URL: https://openalex.org/W2112155644
+
+BibTeX Citation:
+@article{oliveira2014towards,
+  title={Towards effective ethical behavior design},
+  author={Rodrigo Cardoso de Oliveira, Juan Pablo Carrascal},
+  year={2014},
+  doi={10.1145/2559206.2581182},
+  url={https://openalex.org/W2112155644},
+  note={Source: OpenAlex}
+}
+
+====================================================================================================
+KEYWORD: MALICIOUS INTERFACE DESIGN
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Malicious interface design
+----------------------------------------------------------------------------------------------------
+
+Authors: Gregory Conti, Edward Sobiesk
+Publication Date: 2010
+Journal/Venue: N/A
+DOI: 10.1145/1772690.1772719
+URL: https://openalex.org/W2103854406
+
+BibTeX Citation:
+@article{conti2010malicious,
+  title={Malicious interface design},
+  author={Gregory Conti, Edward Sobiesk},
+  year={2010},
+  doi={10.1145/1772690.1772719},
+  url={https://openalex.org/W2103854406},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Formalizing and Securing Relationships on Public Networks
+----------------------------------------------------------------------------------------------------
+
+Authors: Nick Szabo
+Publication Date: 1997
+Journal/Venue: First Monday
+DOI: 10.5210/fm.v2i9.548
+URL: https://openalex.org/W1969344535
+
+BibTeX Citation:
+@article{szabo1997formalizing,
+  title={Formalizing and Securing Relationships on Public Networks},
+  author={Nick Szabo},
+  year={1997},
+  journal={First Monday},
+  doi={10.5210/fm.v2i9.548},
+  url={https://openalex.org/W1969344535},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] OpenDHT
+----------------------------------------------------------------------------------------------------
+
+Authors: Sean Rhea, Brighten Godfrey, Brad Karp, John Kubiatowicz, Sylvia Ratnasamy, Scott Shenker, Ion Stoica, Harlan Yu
+Publication Date: 2005
+Journal/Venue: N/A
+DOI: 10.1145/1080091.1080102
+URL: https://openalex.org/W2143339817
+
+BibTeX Citation:
+@article{rhea2005opendht,
+  title={OpenDHT},
+  author={Sean Rhea, Brighten Godfrey, Brad Karp, John Kubiatowicz, Sylvia Ratnasamy, Scott Shenker, Ion Stoica, Harlan Yu},
+  year={2005},
+  doi={10.1145/1080091.1080102},
+  url={https://openalex.org/W2143339817},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Machine Learning for Android Malware Detection Using Permission and API Calls
+----------------------------------------------------------------------------------------------------
+
+Authors: Naser Peiravian, Xingquan Zhu
+Publication Date: 2013
+Journal/Venue: N/A
+DOI: 10.1109/ictai.2013.53
+URL: https://openalex.org/W2002478203
+
+BibTeX Citation:
+@article{peiravian2013machine,
+  title={Machine Learning for Android Malware Detection Using Permission and API Calls},
+  author={Naser Peiravian, Xingquan Zhu},
+  year={2013},
+  doi={10.1109/ictai.2013.53},
+  url={https://openalex.org/W2002478203},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Anomaly Detection in Automobile Control Network Data with Long Short-Term Memory Networks
+----------------------------------------------------------------------------------------------------
+
+Authors: Adrian Taylor, Sylvain Leblanc, Nathalie Japkowicz
+Publication Date: 2016
+Journal/Venue: N/A
+DOI: 10.1109/dsaa.2016.20
+URL: https://openalex.org/W2561208905
+
+BibTeX Citation:
+@article{taylor2016anomaly,
+  title={Anomaly Detection in Automobile Control Network Data with Long Short-Term Memory Networks},
+  author={Adrian Taylor, Sylvain Leblanc, Nathalie Japkowicz},
+  year={2016},
+  doi={10.1109/dsaa.2016.20},
+  url={https://openalex.org/W2561208905},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] The design and implementation of a secure auction service
+----------------------------------------------------------------------------------------------------
+
+Authors: Matthew Franklin, M.K. Reiter
+Publication Date: 1996
+Journal/Venue: IEEE Transactions on Software Engineering
+DOI: 10.1109/32.502223
+URL: https://openalex.org/W2103761955
+
+BibTeX Citation:
+@article{franklin1996the,
+  title={The design and implementation of a secure auction service},
+  author={Matthew Franklin, M.K. Reiter},
+  year={1996},
+  journal={IEEE Transactions on Software Engineering},
+  doi={10.1109/32.502223},
+  url={https://openalex.org/W2103761955},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Hacking the brain: brain–computer interfacing technology and the ethics of neurosecurity
+----------------------------------------------------------------------------------------------------
+
+Authors: Marcello Ienca, Pim Haselager
+Publication Date: 2016
+Journal/Venue: Ethics and Information Technology
+DOI: 10.1007/s10676-016-9398-9
+URL: https://openalex.org/W2337614165
+
+BibTeX Citation:
+@article{ienca2016hacking,
+  title={Hacking the brain: brain–computer interfacing technology and the ethics of neurosecurity},
+  author={Marcello Ienca, Pim Haselager},
+  year={2016},
+  journal={Ethics and Information Technology},
+  doi={10.1007/s10676-016-9398-9},
+  url={https://openalex.org/W2337614165},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Explainable Artificial Intelligence for 6G: Improving Trust between Human and Machine
+----------------------------------------------------------------------------------------------------
+
+Authors: Weisi Guo
+Publication Date: 2020
+Journal/Venue: IEEE Communications Magazine
+DOI: 10.1109/mcom.001.2000050
+URL: https://openalex.org/W3043040891
+
+BibTeX Citation:
+@article{guo2020explainable,
+  title={Explainable Artificial Intelligence for 6G: Improving Trust between Human and Machine},
+  author={Weisi Guo},
+  year={2020},
+  journal={IEEE Communications Magazine},
+  doi={10.1109/mcom.001.2000050},
+  url={https://openalex.org/W3043040891},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] HoMonit
+----------------------------------------------------------------------------------------------------
+
+Authors: Wei Zhang, Yan Meng, Yugeng Liu, Xiaokuan Zhang, Yinqian Zhang, Haojin Zhu
+Publication Date: 2018
+Journal/Venue: N/A
+DOI: 10.1145/3243734.3243820
+URL: https://openalex.org/W2890559797
+
+BibTeX Citation:
+@article{zhang2018homonit,
+  title={HoMonit},
+  author={Wei Zhang, Yan Meng, Yugeng Liu, Xiaokuan Zhang, Yinqian Zhang, Haojin Zhu},
+  year={2018},
+  doi={10.1145/3243734.3243820},
+  url={https://openalex.org/W2890559797},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] A detection method for a novel DDoS attack against SDN controllers by vast new low-traffic flows
+----------------------------------------------------------------------------------------------------
+
+Authors: Ping Dong, Xiaojiang Du, Hongke Zhang, Tong Xu
+Publication Date: 2016
+Journal/Venue: N/A
+DOI: 10.1109/icc.2016.7510992
+URL: https://openalex.org/W2485966427
+
+BibTeX Citation:
+@article{dong2016a,
+  title={A detection method for a novel DDoS attack against SDN controllers by vast new low-traffic flows},
+  author={Ping Dong, Xiaojiang Du, Hongke Zhang, Tong Xu},
+  year={2016},
+  doi={10.1109/icc.2016.7510992},
+  url={https://openalex.org/W2485966427},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] The Performance Evolution of Antivirus Security Systems in Ultradense Cloud Server Using Intelligent Deep Learning
+----------------------------------------------------------------------------------------------------
+
+Authors: G. Ramesh, J. Logeshwaran, V Aravindarajan
+Publication Date: 2022
+Journal/Venue: N/A
+DOI: 10.54646/bijcicn.004
+URL: https://openalex.org/W4312835327
+
+BibTeX Citation:
+@article{ramesh2022the,
+  title={The Performance Evolution of Antivirus Security Systems in Ultradense Cloud Server Using Intelligent Deep Learning},
+  author={G. Ramesh, J. Logeshwaran, V Aravindarajan},
+  year={2022},
+  doi={10.54646/bijcicn.004},
+  url={https://openalex.org/W4312835327},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] ViewDroid
+----------------------------------------------------------------------------------------------------
+
+Authors: Fangfang Zhang, Heqing Huang, Sencun Zhu, Dinghao Wu, Peng Liu
+Publication Date: 2014
+Journal/Venue: N/A
+DOI: 10.1145/2627393.2627395
+URL: https://openalex.org/W2111525908
+
+BibTeX Citation:
+@article{zhang2014viewdroid,
+  title={ViewDroid},
+  author={Fangfang Zhang, Heqing Huang, Sencun Zhu, Dinghao Wu, Peng Liu},
+  year={2014},
+  doi={10.1145/2627393.2627395},
+  url={https://openalex.org/W2111525908},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] Detecting Android Malware Leveraging Text Semantics of Network Flows
+----------------------------------------------------------------------------------------------------
+
+Authors: Shanshan Wang, Qiben Yan, Zhenxiang Chen, Bo Yang, Chuan Zhao, Mauro Conti
+Publication Date: 2017
+Journal/Venue: IEEE Transactions on Information Forensics and Security
+DOI: 10.1109/tifs.2017.2771228
+URL: https://openalex.org/W2768073432
+
+BibTeX Citation:
+@article{wang2017detecting,
+  title={Detecting Android Malware Leveraging Text Semantics of Network Flows},
+  author={Shanshan Wang, Qiben Yan, Zhenxiang Chen, Bo Yang, Chuan Zhao, Mauro Conti},
+  year={2017},
+  journal={IEEE Transactions on Information Forensics and Security},
+  doi={10.1109/tifs.2017.2771228},
+  url={https://openalex.org/W2768073432},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Engineering Security Requirements.
+----------------------------------------------------------------------------------------------------
+
+Authors: Donald Firesmith
+Publication Date: 2003
+Journal/Venue: The Journal of Object Technology
+DOI: 10.5381/jot.2003.2.1.c6
+URL: https://openalex.org/W2081944711
+
+BibTeX Citation:
+@article{firesmith2003engineering,
+  title={Engineering Security Requirements.},
+  author={Donald Firesmith},
+  year={2003},
+  journal={The Journal of Object Technology},
+  doi={10.5381/jot.2003.2.1.c6},
+  url={https://openalex.org/W2081944711},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Investigating Visual Countermeasures Against Dark Patterns in User Interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: René Schäfer, Paul Miles Preuschoff, Jan Borchers
+Publication Date: 2023
+Journal/Venue: N/A
+DOI: 10.1145/3603555.3603563
+URL: https://openalex.org/W4386041203
+
+BibTeX Citation:
+@article{schäfer2023investigating,
+  title={Investigating Visual Countermeasures Against Dark Patterns in User Interfaces},
+  author={René Schäfer, Paul Miles Preuschoff, Jan Borchers},
+  year={2023},
+  doi={10.1145/3603555.3603563},
+  url={https://openalex.org/W4386041203},
+  note={Source: OpenAlex}
+}
+
+====================================================================================================
+KEYWORD: COOKIE CONSENT MANIPULATION
+====================================================================================================
+Articles found: 14
+
+
+----------------------------------------------------------------------------------------------------
+[1] Dark and Bright Patterns in Cookie Consent Requests
+----------------------------------------------------------------------------------------------------
+
+Authors: Paul Graßl, Hanna Schraffenberger, Frederik Zuiderveen Borgesius, Moniek Buijzen
+Publication Date: 2021
+Journal/Venue: Journal of Digital Social Research
+DOI: 10.33621/jdsr.v3i1.54
+URL: https://openalex.org/W3126156492
+
+BibTeX Citation:
+@article{graßl2021dark,
+  title={Dark and Bright Patterns in Cookie Consent Requests},
+  author={Paul Graßl, Hanna Schraffenberger, Frederik Zuiderveen Borgesius, Moniek Buijzen},
+  year={2021},
+  journal={Journal of Digital Social Research},
+  doi={10.33621/jdsr.v3i1.54},
+  url={https://openalex.org/W3126156492},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Are you sure, you want a cookie? – The effects of choice architecture on users' decisions about sharing private online data
+----------------------------------------------------------------------------------------------------
+
+Authors: Jan Michael Bauer, Regitze Bergstrøm, Rune Foss-Madsen
+Publication Date: 2021
+Journal/Venue: Computers in Human Behavior
+DOI: 10.1016/j.chb.2021.106729
+URL: https://openalex.org/W3127285507
+
+BibTeX Citation:
+@article{bauer2021are,
+  title={Are you sure, you want a cookie? – The effects of choice architecture on users' decisions about sharing private online data},
+  author={Jan Michael Bauer, Regitze Bergstrøm, Rune Foss-Madsen},
+  year={2021},
+  journal={Computers in Human Behavior},
+  doi={10.1016/j.chb.2021.106729},
+  url={https://openalex.org/W3127285507},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Grasping the Intentions of Others with One's Own Mirror Neuron System
+----------------------------------------------------------------------------------------------------
+
+Authors: Marco Iacoboni, Istvan Molnar-Szakacs, Vittorio Gallese, Giovanni Buccino, John C. Mazziotta, Giacomo Rizzolatti
+Publication Date: 2005
+Journal/Venue: PLoS Biology
+DOI: 10.1371/journal.pbio.0030079
+URL: https://openalex.org/W2042526117
+
+BibTeX Citation:
+@article{iacoboni2005grasping,
+  title={Grasping the Intentions of Others with One's Own Mirror Neuron System},
+  author={Marco Iacoboni, Istvan Molnar-Szakacs, Vittorio Gallese, Giovanni Buccino, John C. Mazziotta, Giacomo Rizzolatti},
+  year={2005},
+  journal={PLoS Biology},
+  doi={10.1371/journal.pbio.0030079},
+  url={https://openalex.org/W2042526117},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Unraveling the Personalization Paradox: The Effect of Information Collection and Trust-Building Strategies on Online Advertisement Effectiveness
+----------------------------------------------------------------------------------------------------
+
+Authors: Elizabeth Aguirre, Dominik Mahr, Dhruv Grewal, Ko de Ruyter, Martin Wetzels
+Publication Date: 2014
+Journal/Venue: Journal of Retailing
+DOI: 10.1016/j.jretai.2014.09.005
+URL: https://openalex.org/W2097118035
+
+BibTeX Citation:
+@article{aguirre2014unraveling,
+  title={Unraveling the Personalization Paradox: The Effect of Information Collection and Trust-Building Strategies on Online Advertisement Effectiveness},
+  author={Elizabeth Aguirre, Dominik Mahr, Dhruv Grewal, Ko de Ruyter, Martin Wetzels},
+  year={2014},
+  journal={Journal of Retailing},
+  doi={10.1016/j.jretai.2014.09.005},
+  url={https://openalex.org/W2097118035},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Cookies and the Illusion of Informed Consent: The Framing of the Decision Environment as Digital Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Omar Vásquez Duque
+Publication Date: 2021
+Journal/Venue: SSRN Electronic Journal
+DOI: 10.2139/ssrn.3957528
+URL: https://openalex.org/W4242517460
+
+BibTeX Citation:
+@article{duque2021cookies,
+  title={Cookies and the Illusion of Informed Consent: The Framing of the Decision Environment as Digital Manipulation},
+  author={Omar Vásquez Duque},
+  year={2021},
+  journal={SSRN Electronic Journal},
+  doi={10.2139/ssrn.3957528},
+  url={https://openalex.org/W4242517460},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Digital technologies: tensions in privacy and data
+----------------------------------------------------------------------------------------------------
+
+Authors: Sara Quach, Park Thaichon, Kelly D. Martin, Scott Weaven, Robert W. Palmatier
+Publication Date: 2022
+Journal/Venue: Journal of the Academy of Marketing Science
+DOI: 10.1007/s11747-022-00845-y
+URL: https://openalex.org/W4221040597
+
+BibTeX Citation:
+@article{quach2022digital,
+  title={Digital technologies: tensions in privacy and data},
+  author={Sara Quach, Park Thaichon, Kelly D. Martin, Scott Weaven, Robert W. Palmatier},
+  year={2022},
+  journal={Journal of the Academy of Marketing Science},
+  doi={10.1007/s11747-022-00845-y},
+  url={https://openalex.org/W4221040597},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Standards for Internet-Based Experimenting
+----------------------------------------------------------------------------------------------------
+
+Authors: Ulf‐Dietrich Reips
+Publication Date: 2002
+Journal/Venue: Experimental Psychology (formerly Zeitschrift für Experimentelle Psychologie)
+DOI: 10.1026/1618-3169.49.4.243
+URL: https://openalex.org/W2140054227
+
+BibTeX Citation:
+@article{reips2002standards,
+  title={Standards for Internet-Based Experimenting},
+  author={Ulf‐Dietrich Reips},
+  year={2002},
+  journal={Experimental Psychology (formerly Zeitschrift für Experimentelle Psychologie)},
+  doi={10.1026/1618-3169.49.4.243},
+  url={https://openalex.org/W2140054227},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Selective impairment of verb processing associated with pathological changes in Brodmann areas 44 and 45 in the motor neurone disease–dementia–aphasia syndrome
+----------------------------------------------------------------------------------------------------
+
+Authors: John S. Bak, Dominic G. O’Donovan, John H. Xuereb, Simon Boniface, J. R. Hodges
+Publication Date: 2001
+Journal/Venue: Brain
+DOI: 10.1093/brain/124.1.103
+URL: https://openalex.org/W2116166477
+
+BibTeX Citation:
+@article{bak2001selective,
+  title={Selective impairment of verb processing associated with pathological changes in Brodmann areas 44 and 45 in the motor neurone disease–dementia–aphasia syndrome},
+  author={John S. Bak, Dominic G. O’Donovan, John H. Xuereb, Simon Boniface, J. R. Hodges},
+  year={2001},
+  journal={Brain},
+  doi={10.1093/brain/124.1.103},
+  url={https://openalex.org/W2116166477},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Victor Le Pochat, Tom Van Goethem, Samaneh Tajalizadehkhoob, Maciej Korczyński, Wouter Joosen
+Publication Date: 2019
+Journal/Venue: N/A
+DOI: 10.14722/ndss.2019.23386
+URL: https://openalex.org/W2904027722
+
+BibTeX Citation:
+@article{pochat2019tranco:,
+  title={Tranco: A Research-Oriented Top Sites Ranking Hardened Against Manipulation},
+  author={Victor Le Pochat, Tom Van Goethem, Samaneh Tajalizadehkhoob, Maciej Korczyński, Wouter Joosen},
+  year={2019},
+  doi={10.14722/ndss.2019.23386},
+  url={https://openalex.org/W2904027722},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Towards new human rights in the age of neuroscience and neurotechnology
+----------------------------------------------------------------------------------------------------
+
+Authors: Marcello Ienca, Roberto Andorno
+Publication Date: 2017
+Journal/Venue: Life Sciences Society and Policy
+DOI: 10.1186/s40504-017-0050-1
+URL: https://openalex.org/W2604941166
+
+BibTeX Citation:
+@article{ienca2017towards,
+  title={Towards new human rights in the age of neuroscience and neurotechnology},
+  author={Marcello Ienca, Roberto Andorno},
+  year={2017},
+  journal={Life Sciences Society and Policy},
+  doi={10.1186/s40504-017-0050-1},
+  url={https://openalex.org/W2604941166},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Lupin allergy in a child
+----------------------------------------------------------------------------------------------------
+
+Authors: Elio Novembre, Maria Moriondo, Roberto Bernardini, Chiara Azzari, Maria Elisabetta Rossi, A Vierucci
+Publication Date: 1999
+Journal/Venue: Journal of Allergy and Clinical Immunology
+DOI: 10.1016/s0091-6749(99)70203-4
+URL: https://openalex.org/W2088912798
+
+BibTeX Citation:
+@article{novembre1999lupin,
+  title={Lupin allergy in a child},
+  author={Elio Novembre, Maria Moriondo, Roberto Bernardini, Chiara Azzari, Maria Elisabetta Rossi, A Vierucci},
+  year={1999},
+  journal={Journal of Allergy and Clinical Immunology},
+  doi={10.1016/s0091-6749(99)70203-4},
+  url={https://openalex.org/W2088912798},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Manipulation through Design: A Law and Economics Analysis of EU Dark Patterns Regulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Alexander Egberts
+Publication Date: 2021
+Journal/Venue: SSRN Electronic Journal
+DOI: 10.2139/ssrn.4262859
+URL: https://openalex.org/W4312787346
+
+BibTeX Citation:
+@article{egberts2021manipulation,
+  title={Manipulation through Design: A Law and Economics Analysis of EU Dark Patterns Regulation},
+  author={Alexander Egberts},
+  year={2021},
+  journal={SSRN Electronic Journal},
+  doi={10.2139/ssrn.4262859},
+  url={https://openalex.org/W4312787346},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] ”I am Definitely Manipulated, Even When I am Aware of it. It’s Ridiculous!” - Dark Patterns from the End-User Perspective
+----------------------------------------------------------------------------------------------------
+
+Authors: Kerstin Bongard-Blanchy, Arianna Rossi, Salvador Rivas, Sophie Doublet, Vincent Koenig, Gabriele Lenzini
+Publication Date: 2021
+Journal/Venue: N/A
+DOI: 10.1145/3461778.3462086
+URL: https://openalex.org/W3159098168
+
+BibTeX Citation:
+@article{bongard-blanchy2021”i,
+  title={”I am Definitely Manipulated, Even When I am Aware of it. It’s Ridiculous!” - Dark Patterns from the End-User Perspective},
+  author={Kerstin Bongard-Blanchy, Arianna Rossi, Salvador Rivas, Sophie Doublet, Vincent Koenig, Gabriele Lenzini},
+  year={2021},
+  doi={10.1145/3461778.3462086},
+  url={https://openalex.org/W3159098168},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Christoph Bösch, Benjamin Erb, Frank Kargl, Henning Kopp, Stefan Pfattheicher
+Publication Date: 2016
+Journal/Venue: Proceedings on Privacy Enhancing Technologies
+DOI: 10.1515/popets-2016-0038
+URL: https://openalex.org/W2497080131
+
+BibTeX Citation:
+@article{bösch2016tales,
+  title={Tales from the Dark Side: Privacy Dark Strategies and Privacy Dark Patterns},
+  author={Christoph Bösch, Benjamin Erb, Frank Kargl, Henning Kopp, Stefan Pfattheicher},
+  year={2016},
+  journal={Proceedings on Privacy Enhancing Technologies},
+  doi={10.1515/popets-2016-0038},
+  url={https://openalex.org/W2497080131},
+  note={Source: OpenAlex}
+}
+
+====================================================================================================
+KEYWORD: SUBSCRIPTION CANCELLATION UX
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Shining a Light on Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Jamie B. Luguri, Lior Strahilevitz
+Publication Date: 2020
+Journal/Venue: The Journal of Legal Analysis
+DOI: 10.1093/jla/laaa006
+URL: https://openalex.org/W3137759237
+
+BibTeX Citation:
+@article{luguri2020shining,
+  title={Shining a Light on Dark Patterns},
+  author={Jamie B. Luguri, Lior Strahilevitz},
+  year={2020},
+  journal={The Journal of Legal Analysis},
+  doi={10.1093/jla/laaa006},
+  url={https://openalex.org/W3137759237},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Mixed modules over valuations rings
+----------------------------------------------------------------------------------------------------
+
+Authors: Joseph Rotman
+Publication Date: 1960
+Journal/Venue: Pacific Journal of Mathematics
+DOI: 10.2140/pjm.1960.10.607
+URL: https://openalex.org/W1988382777
+
+BibTeX Citation:
+@article{rotman1960mixed,
+  title={Mixed modules over valuations rings},
+  author={Joseph Rotman},
+  year={1960},
+  journal={Pacific Journal of Mathematics},
+  doi={10.2140/pjm.1960.10.607},
+  url={https://openalex.org/W1988382777},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] World Development Indicators 2014
+----------------------------------------------------------------------------------------------------
+
+Authors: World Bank, World Bank
+Publication Date: 2014
+Journal/Venue: The World Bank eBooks
+DOI: 10.1596/978-1-4648-0163-1
+URL: https://openalex.org/W4255615693
+
+BibTeX Citation:
+@article{bank2014world,
+  title={World Development Indicators 2014},
+  author={World Bank, World Bank},
+  year={2014},
+  journal={The World Bank eBooks},
+  doi={10.1596/978-1-4648-0163-1},
+  url={https://openalex.org/W4255615693},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Nilpotent approximations and quasinilpotent operators
+----------------------------------------------------------------------------------------------------
+
+Authors: Constantin Apostol, Norberto Salinas
+Publication Date: 1975
+Journal/Venue: Pacific Journal of Mathematics
+DOI: 10.2140/pjm.1975.61.327
+URL: https://openalex.org/W2022445780
+
+BibTeX Citation:
+@article{apostol1975nilpotent,
+  title={Nilpotent approximations and quasinilpotent operators},
+  author={Constantin Apostol, Norberto Salinas},
+  year={1975},
+  journal={Pacific Journal of Mathematics},
+  doi={10.2140/pjm.1975.61.327},
+  url={https://openalex.org/W2022445780},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Low Complexity Linear Detectors for Massive MIMO: A Comparative Study
+----------------------------------------------------------------------------------------------------
+
+Authors: Mahmoud A. Albreem, Wael A. Salah, Арун Кумар, Mohammed H. Alsharif, Ali Hanafiah Rambe, Muzammil Jusoh, Anthony Ngozichukwuka Uwaechia
+Publication Date: 2021
+Journal/Venue: IEEE Access
+DOI: 10.1109/access.2021.3065923
+URL: https://openalex.org/W3139073650
+
+BibTeX Citation:
+@article{albreem2021low,
+  title={Low Complexity Linear Detectors for Massive MIMO: A Comparative Study},
+  author={Mahmoud A. Albreem, Wael A. Salah, Арун Кумар, Mohammed H. Alsharif, Ali Hanafiah Rambe, Muzammil Jusoh, Anthony Ngozichukwuka Uwaechia},
+  year={2021},
+  journal={IEEE Access},
+  doi={10.1109/access.2021.3065923},
+  url={https://openalex.org/W3139073650},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Universal derivations and universal ring constructions
+----------------------------------------------------------------------------------------------------
+
+Authors: George M. Bergman, Warren Dicks
+Publication Date: 1978
+Journal/Venue: Pacific Journal of Mathematics
+DOI: 10.2140/pjm.1978.79.293
+URL: https://openalex.org/W2030490592
+
+BibTeX Citation:
+@article{bergman1978universal,
+  title={Universal derivations and universal ring constructions},
+  author={George M. Bergman, Warren Dicks},
+  year={1978},
+  journal={Pacific Journal of Mathematics},
+  doi={10.2140/pjm.1978.79.293},
+  url={https://openalex.org/W2030490592},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Characterizing Jacobians via trisecants of the Kummer variety
+----------------------------------------------------------------------------------------------------
+
+Authors: I. M. Krichever
+Publication Date: 2010
+Journal/Venue: Annals of Mathematics
+DOI: 10.4007/annals.2010.172.485
+URL: https://openalex.org/W1968460966
+
+BibTeX Citation:
+@article{krichever2010characterizing,
+  title={Characterizing Jacobians via trisecants of the Kummer variety},
+  author={I. M. Krichever},
+  year={2010},
+  journal={Annals of Mathematics},
+  doi={10.4007/annals.2010.172.485},
+  url={https://openalex.org/W1968460966},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Dark commercial patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: OECD
+Publication Date: 2022
+Journal/Venue: OECD digital economy papers
+DOI: 10.1787/44f5e846-en
+URL: https://openalex.org/W4307559061
+
+BibTeX Citation:
+@article{oecd2022dark,
+  title={Dark commercial patterns},
+  author={OECD},
+  year={2022},
+  journal={OECD digital economy papers},
+  doi={10.1787/44f5e846-en},
+  url={https://openalex.org/W4307559061},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Tim Kollmer, Andreas Eckhardt
+Publication Date: 2022
+Journal/Venue: Business & Information Systems Engineering
+DOI: 10.1007/s12599-022-00783-7
+URL: https://openalex.org/W4312126058
+
+BibTeX Citation:
+@article{kollmer2022dark,
+  title={Dark Patterns},
+  author={Tim Kollmer, Andreas Eckhardt},
+  year={2022},
+  journal={Business & Information Systems Engineering},
+  doi={10.1007/s12599-022-00783-7},
+  url={https://openalex.org/W4312126058},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Cohomology of diagrams and equivariant singular theory
+----------------------------------------------------------------------------------------------------
+
+Authors: Robert Piacenza
+Publication Date: 1980
+Journal/Venue: Pacific Journal of Mathematics
+DOI: 10.2140/pjm.1980.91.435
+URL: https://openalex.org/W2017989489
+
+BibTeX Citation:
+@article{piacenza1980cohomology,
+  title={Cohomology of diagrams and equivariant singular theory},
+  author={Robert Piacenza},
+  year={1980},
+  journal={Pacific Journal of Mathematics},
+  doi={10.2140/pjm.1980.91.435},
+  url={https://openalex.org/W2017989489},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Right simple congruences on a semigroup
+----------------------------------------------------------------------------------------------------
+
+Authors: Francis E. Masat
+Publication Date: 1974
+Journal/Venue: Pacific Journal of Mathematics
+DOI: 10.2140/pjm.1974.54.127
+URL: https://openalex.org/W2079972089
+
+BibTeX Citation:
+@article{masat1974right,
+  title={Right simple congruences on a semigroup},
+  author={Francis E. Masat},
+  year={1974},
+  journal={Pacific Journal of Mathematics},
+  doi={10.2140/pjm.1974.54.127},
+  url={https://openalex.org/W2079972089},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Augmented Reality: Current and New Trends in Education
+----------------------------------------------------------------------------------------------------
+
+Authors: Dorota Kamińska, Grzegorz Zwoliński, Anna Laska-Leśniewicz, Rui Raposo, Mário Vairinhos, Elisabeth T. Pereira, Frane Urem, Martina Ljubić Hinić, Rain Eric Haamer, Gholamreza Anbarjafari
+Publication Date: 2023
+Journal/Venue: Electronics
+DOI: 10.3390/electronics12163531
+URL: https://openalex.org/W4386032737
+
+BibTeX Citation:
+@article{kamińska2023augmented,
+  title={Augmented Reality: Current and New Trends in Education},
+  author={Dorota Kamińska, Grzegorz Zwoliński, Anna Laska-Leśniewicz, Rui Raposo, Mário Vairinhos, Elisabeth T. Pereira, Frane Urem, Martina Ljubić Hinić, Rain Eric Haamer, Gholamreza Anbarjafari},
+  year={2023},
+  journal={Electronics},
+  doi={10.3390/electronics12163531},
+  url={https://openalex.org/W4386032737},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] On the role of an abelian phase group in relativized problems in topological dynamics
+----------------------------------------------------------------------------------------------------
+
+Authors: Douglas McMahon
+Publication Date: 1976
+Journal/Venue: Pacific Journal of Mathematics
+DOI: 10.2140/pjm.1976.64.493
+URL: https://openalex.org/W2089105645
+
+BibTeX Citation:
+@article{mcmahon1976on,
+  title={On the role of an abelian phase group in relativized problems in topological dynamics},
+  author={Douglas McMahon},
+  year={1976},
+  journal={Pacific Journal of Mathematics},
+  doi={10.2140/pjm.1976.64.493},
+  url={https://openalex.org/W2089105645},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Maps and<i>h</i>-normal spaces
+----------------------------------------------------------------------------------------------------
+
+Authors: Marlon C. Rayburn
+Publication Date: 1978
+Journal/Venue: Pacific Journal of Mathematics
+DOI: 10.2140/pjm.1978.79.549
+URL: https://openalex.org/W2039984401
+
+BibTeX Citation:
+@article{rayburn1978maps,
+  title={Maps and<i>h</i>-normal spaces},
+  author={Marlon C. Rayburn},
+  year={1978},
+  journal={Pacific Journal of Mathematics},
+  doi={10.2140/pjm.1978.79.549},
+  url={https://openalex.org/W2039984401},
+  note={Source: OpenAlex}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Dark Patterns, Enforcement, and the emerging Digital Design Acquis: Manipulation beneath the Interface
+----------------------------------------------------------------------------------------------------
+
+Authors: Mark Leiser, Cristiana Santos
+Publication Date: 2023
+Journal/Venue: N/A
+DOI: 10.31235/osf.io/rf3ja
+URL: https://openalex.org/W4367557263
+
+BibTeX Citation:
+@article{leiser2023dark,
+  title={Dark Patterns, Enforcement, and the emerging Digital Design Acquis: Manipulation beneath the Interface},
+  author={Mark Leiser, Cristiana Santos},
+  year={2023},
+  doi={10.31235/osf.io/rf3ja},
+  url={https://openalex.org/W4367557263},
+  note={Source: OpenAlex}
+}

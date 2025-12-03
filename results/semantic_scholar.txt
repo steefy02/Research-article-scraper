@@ -1,0 +1,1761 @@
+====================================================================================================
+SEMANTIC SCHOLAR - RESEARCH ARTICLES
+====================================================================================================
+
+Total unique articles: 79
+Search keywords: 7
+
+
+====================================================================================================
+KEYWORD: DARK PATTERNS
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] What Makes XR Dark? Examining Emerging Dark Patterns in Augmented and Virtual Reality through Expert Co-Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Veronika Krauss, Pejman Saeghe, Alexander Boden, Mohamed Khamis, Mark Mcgill, Jan Gugenheimer, Michael Nebeling
+Publication Date: 2024
+Journal/Venue: ACM Trans. Comput. Hum. Interact.
+DOI: 10.1145/3660340
+URL: https://www.semanticscholar.org/paper/bf75995d697a0dfc2344c8886f880f7b42b9d558
+
+BibTeX Citation:
+@article{krauss2024what,
+  title={What Makes XR Dark? Examining Emerging Dark Patterns in Augmented and Virtual Reality through Expert Co-Design},
+  author={Veronika Krauss, Pejman Saeghe, Alexander Boden, Mohamed Khamis, Mark Mcgill, Jan Gugenheimer, Michael Nebeling},
+  year={2024},
+  journal={ACM Trans. Comput. Hum. Interact.},
+  doi={10.1145/3660340},
+  url={https://www.semanticscholar.org/paper/bf75995d697a0dfc2344c8886f880f7b42b9d558},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Navigating the Gray: Design Practitioners' Perceptions Toward the Implementation of Privacy Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Leah Zhang-Kennedy, Maxwell Keleher, Michaela Valiquette
+Publication Date: 2024
+Journal/Venue: Proc. ACM Hum. Comput. Interact.
+DOI: 10.1145/3637374
+URL: https://www.semanticscholar.org/paper/4d28445d04abc9858e365aeef66a80006bed7c39
+
+BibTeX Citation:
+@article{zhang-kennedy2024navigating,
+  title={Navigating the Gray: Design Practitioners' Perceptions Toward the Implementation of Privacy Dark Patterns},
+  author={Leah Zhang-Kennedy, Maxwell Keleher, Michaela Valiquette},
+  year={2024},
+  journal={Proc. ACM Hum. Comput. Interact.},
+  doi={10.1145/3637374},
+  url={https://www.semanticscholar.org/paper/4d28445d04abc9858e365aeef66a80006bed7c39},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Mobilizing Research and Regulatory Action on Dark Patterns and Deceptive Design Practices
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, Johanna T. Gunawan, René Schäfer, Nataliia Bielova, Lorena Sánchez Chamorro, Katie Seaborn, Thomas Mildner
+Publication Date: 2024
+Journal/Venue: CHI Extended Abstracts
+DOI: 10.1145/3613905.3636310
+URL: https://www.semanticscholar.org/paper/037d9d10e90139fb44dff51ccacf0b97890f37dd
+
+BibTeX Citation:
+@article{gray2024mobilizing,
+  title={Mobilizing Research and Regulatory Action on Dark Patterns and Deceptive Design Practices},
+  author={Colin M. Gray, Johanna T. Gunawan, René Schäfer, Nataliia Bielova, Lorena Sánchez Chamorro, Katie Seaborn, Thomas Mildner},
+  year={2024},
+  journal={CHI Extended Abstracts},
+  doi={10.1145/3613905.3636310},
+  url={https://www.semanticscholar.org/paper/037d9d10e90139fb44dff51ccacf0b97890f37dd},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] The Dark (Patterns) Side of UX Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, Yubo Kou, Bryan Battles, Joseph Hoggatt, Austin Toombs
+Publication Date: 2018
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3173574.3174108
+URL: https://www.semanticscholar.org/paper/ddb4a6538bbbb7468ff949621d2185693e5ebae5
+
+BibTeX Citation:
+@article{gray2018the,
+  title={The Dark (Patterns) Side of UX Design},
+  author={Colin M. Gray, Yubo Kou, Bryan Battles, Joseph Hoggatt, Austin Toombs},
+  year={2018},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3173574.3174108},
+  url={https://www.semanticscholar.org/paper/ddb4a6538bbbb7468ff949621d2185693e5ebae5},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Unveiling Digital Manipulation and Persuasion in e-Commerce: A Systematic Literature Review of Dark Patterns and Digital Nudging
+----------------------------------------------------------------------------------------------------
+
+Authors: Vibhav Singh, N. Vishvakarma, Vinod Kumar
+Publication Date: 2024
+Journal/Venue: Journal of Internet Commerce
+DOI: 10.1080/15332861.2024.2330813
+URL: https://www.semanticscholar.org/paper/51ed4a8b5044a7c05571463d91ea65ecaaf8e22d
+
+BibTeX Citation:
+@article{singh2024unveiling,
+  title={Unveiling Digital Manipulation and Persuasion in e-Commerce: A Systematic Literature Review of Dark Patterns and Digital Nudging},
+  author={Vibhav Singh, N. Vishvakarma, Vinod Kumar},
+  year={2024},
+  journal={Journal of Internet Commerce},
+  doi={10.1080/15332861.2024.2330813},
+  url={https://www.semanticscholar.org/paper/51ed4a8b5044a7c05571463d91ea65ecaaf8e22d},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Theorizing Deception: A Scoping Review of Theory in Research on Dark Patterns and Deceptive Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Weichen Joe Chang, Katie Seaborn, Andrew A. Adams
+Publication Date: 2024
+Journal/Venue: CHI Extended Abstracts
+DOI: 10.1145/3613905.3650997
+URL: https://www.semanticscholar.org/paper/94b725cc1dd7d09b4e159d8a6da95c32f9b5530a
+
+BibTeX Citation:
+@article{chang2024theorizing,
+  title={Theorizing Deception: A Scoping Review of Theory in Research on Dark Patterns and Deceptive Design},
+  author={Weichen Joe Chang, Katie Seaborn, Andrew A. Adams},
+  year={2024},
+  journal={CHI Extended Abstracts},
+  doi={10.1145/3613905.3650997},
+  url={https://www.semanticscholar.org/paper/94b725cc1dd7d09b4e159d8a6da95c32f9b5530a},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Fighting Malicious Designs: Towards Visual Countermeasures Against Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: René Schäfer, P. Preuschoff, Rene Roepke, Sarah Sahabi, Jan O. Borchers
+Publication Date: 2024
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3613904.3642661
+URL: https://www.semanticscholar.org/paper/aae7877c24b326c38a346131121ea881c513a5dd
+
+BibTeX Citation:
+@article{schäfer2024fighting,
+  title={Fighting Malicious Designs: Towards Visual Countermeasures Against Dark Patterns},
+  author={René Schäfer, P. Preuschoff, Rene Roepke, Sarah Sahabi, Jan O. Borchers},
+  year={2024},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3613904.3642661},
+  url={https://www.semanticscholar.org/paper/aae7877c24b326c38a346131121ea881c513a5dd},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] An Ontology of Dark Patterns Knowledge: Foundations, Definitions, and a Pathway for Shared Knowledge-Building
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, C. Santos, Nataliia Bielova, Thomas Mildner
+Publication Date: 2023
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3613904.3642436
+URL: https://www.semanticscholar.org/paper/0b7942129e39059f5964877e28c19c497d3724c3
+
+BibTeX Citation:
+@article{gray2023an,
+  title={An Ontology of Dark Patterns Knowledge: Foundations, Definitions, and a Pathway for Shared Knowledge-Building},
+  author={Colin M. Gray, C. Santos, Nataliia Bielova, Thomas Mildner},
+  year={2023},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3613904.3642436},
+  url={https://www.semanticscholar.org/paper/0b7942129e39059f5964877e28c19c497d3724c3},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence
+----------------------------------------------------------------------------------------------------
+
+Authors: Midas Nouwens, Ilaria Liccardi, Michael Veale, David R Karger, Lalana Kagal
+Publication Date: 2020
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3313831.3376321
+URL: https://www.semanticscholar.org/paper/7c85836df9e2f97ba3bff43317a09471b1fef3f3
+
+BibTeX Citation:
+@article{nouwens2020dark,
+  title={Dark Patterns after the GDPR: Scraping Consent Pop-ups and Demonstrating their Influence},
+  author={Midas Nouwens, Ilaria Liccardi, Michael Veale, David R Karger, Lalana Kagal},
+  year={2020},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3313831.3376321},
+  url={https://www.semanticscholar.org/paper/7c85836df9e2f97ba3bff43317a09471b1fef3f3},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Shadows in the Interface: A Comprehensive Study on Dark Patterns
+----------------------------------------------------------------------------------------------------
+
+Authors: Liming Nie, Yangyang Zhao, Chenglin Li, Xuqiong Luo, Yang Liu
+Publication Date: 2024
+Journal/Venue: Proc. ACM Softw. Eng.
+DOI: 10.1145/3643736
+URL: https://www.semanticscholar.org/paper/80cc77268370a2d9c6e1d9edc98c37ef289ba3ac
+
+BibTeX Citation:
+@article{nie2024shadows,
+  title={Shadows in the Interface: A Comprehensive Study on Dark Patterns},
+  author={Liming Nie, Yangyang Zhao, Chenglin Li, Xuqiong Luo, Yang Liu},
+  year={2024},
+  journal={Proc. ACM Softw. Eng.},
+  doi={10.1145/3643736},
+  url={https://www.semanticscholar.org/paper/80cc77268370a2d9c6e1d9edc98c37ef289ba3ac},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Towards a Preliminary Ontology of Dark Patterns Knowledge
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, C. Santos, Nataliia Bielova
+Publication Date: 2023
+Journal/Venue: CHI Extended Abstracts
+DOI: 10.1145/3544549.3585676
+URL: https://www.semanticscholar.org/paper/4d5426e12675dca95fab6ed2dd233766e748529e
+
+BibTeX Citation:
+@article{gray2023towards,
+  title={Towards a Preliminary Ontology of Dark Patterns Knowledge},
+  author={Colin M. Gray, C. Santos, Nataliia Bielova},
+  year={2023},
+  journal={CHI Extended Abstracts},
+  doi={10.1145/3544549.3585676},
+  url={https://www.semanticscholar.org/paper/4d5426e12675dca95fab6ed2dd233766e748529e},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications
+----------------------------------------------------------------------------------------------------
+
+Authors: Jieshan Chen, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu, Xiwei Xu, Chunyang Chen
+Publication Date: 2023
+Journal/Venue: ACM Symposium on User Interface Software and Technology
+DOI: 10.1145/3586183.3606783
+URL: https://www.semanticscholar.org/paper/907e1d88ed99a9e47cc5b33071c0103c137a9cdc
+
+BibTeX Citation:
+@article{chen2023unveiling,
+  title={Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications},
+  author={Jieshan Chen, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu, Xiwei Xu, Chunyang Chen},
+  year={2023},
+  journal={ACM Symposium on User Interface Software and Technology},
+  doi={10.1145/3586183.3606783},
+  url={https://www.semanticscholar.org/paper/907e1d88ed99a9e47cc5b33071c0103c137a9cdc},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: S M Hasan Mansur, Sabiha Salma, Damilola Awofisayo, Kevin Moran
+Publication Date: 2023
+Journal/Venue: International Conference on Software Engineering
+DOI: 10.1109/ICSE48619.2023.00166
+URL: https://www.semanticscholar.org/paper/3ec2286eb8ff9983042c69dba57b814649f03025
+
+BibTeX Citation:
+@article{mansur2023aidui:,
+  title={AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces},
+  author={S M Hasan Mansur, Sabiha Salma, Damilola Awofisayo, Kevin Moran},
+  year={2023},
+  journal={International Conference on Software Engineering},
+  doi={10.1109/ICSE48619.2023.00166},
+  url={https://www.semanticscholar.org/paper/3ec2286eb8ff9983042c69dba57b814649f03025},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Prioritizing dark patterns in the e-commerce industry – an empirical investigation using analytic hierarchy process
+----------------------------------------------------------------------------------------------------
+
+Authors: Vibhav Singh, N. Vishvakarma, Hoshiar Mal, Vinod Kumar
+Publication Date: 2024
+Journal/Venue: Measuring Business Excellence
+DOI: 10.1108/mbe-08-2023-0114
+URL: https://www.semanticscholar.org/paper/34dcb38b18d88b61dd711a92d84da5b90c527430
+
+BibTeX Citation:
+@article{singh2024prioritizing,
+  title={Prioritizing dark patterns in the e-commerce industry – an empirical investigation using analytic hierarchy process},
+  author={Vibhav Singh, N. Vishvakarma, Hoshiar Mal, Vinod Kumar},
+  year={2024},
+  journal={Measuring Business Excellence},
+  doi={10.1108/mbe-08-2023-0114},
+  url={https://www.semanticscholar.org/paper/34dcb38b18d88b61dd711a92d84da5b90c527430},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Growing Up With Dark Patterns: How Children Perceive Malicious User Interface Designs
+----------------------------------------------------------------------------------------------------
+
+Authors: René Schäfer, Sarah Sahabi, Annabell Brocker, Jan O. Borchers
+Publication Date: 2024
+Journal/Venue: Nordic Conference on Human-Computer Interaction
+DOI: 10.1145/3679318.3685358
+URL: https://www.semanticscholar.org/paper/c03bb0944f5139b7f8921d88f0011eef0b7b4a2f
+
+BibTeX Citation:
+@article{schäfer2024growing,
+  title={Growing Up With Dark Patterns: How Children Perceive Malicious User Interface Designs},
+  author={René Schäfer, Sarah Sahabi, Annabell Brocker, Jan O. Borchers},
+  year={2024},
+  journal={Nordic Conference on Human-Computer Interaction},
+  doi={10.1145/3679318.3685358},
+  url={https://www.semanticscholar.org/paper/c03bb0944f5139b7f8921d88f0011eef0b7b4a2f},
+  note={Source: Semantic Scholar}
+}
+
+====================================================================================================
+KEYWORD: DECEPTIVE DESIGN
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Deceived by Immersion: A Systematic Analysis of Deceptive Design in Extended Reality
+----------------------------------------------------------------------------------------------------
+
+Authors: Hilda Hadan, Lydia Choong, Leah Zhang-Kennedy, Lennart E. Nacke
+Publication Date: 2024
+Journal/Venue: ACM Computing Surveys
+DOI: 10.1145/3659945
+URL: https://www.semanticscholar.org/paper/263bb36e35deb6d5ad42c42dd3bf61a1bb1f5dd2
+
+BibTeX Citation:
+@article{hadan2024deceived,
+  title={Deceived by Immersion: A Systematic Analysis of Deceptive Design in Extended Reality},
+  author={Hilda Hadan, Lydia Choong, Leah Zhang-Kennedy, Lennart E. Nacke},
+  year={2024},
+  journal={ACM Computing Surveys},
+  doi={10.1145/3659945},
+  url={https://www.semanticscholar.org/paper/263bb36e35deb6d5ad42c42dd3bf61a1bb1f5dd2},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Mobilizing Research and Regulatory Action on Dark Patterns and Deceptive Design Practices
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, Johanna T. Gunawan, René Schäfer, Nataliia Bielova, Lorena Sánchez Chamorro, Katie Seaborn, Thomas Mildner
+Publication Date: 2024
+Journal/Venue: CHI Extended Abstracts
+DOI: 10.1145/3613905.3636310
+URL: https://www.semanticscholar.org/paper/037d9d10e90139fb44dff51ccacf0b97890f37dd
+
+BibTeX Citation:
+@article{gray2024mobilizing,
+  title={Mobilizing Research and Regulatory Action on Dark Patterns and Deceptive Design Practices},
+  author={Colin M. Gray, Johanna T. Gunawan, René Schäfer, Nataliia Bielova, Lorena Sánchez Chamorro, Katie Seaborn, Thomas Mildner},
+  year={2024},
+  journal={CHI Extended Abstracts},
+  doi={10.1145/3613905.3636310},
+  url={https://www.semanticscholar.org/paper/037d9d10e90139fb44dff51ccacf0b97890f37dd},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Theorizing Deception: A Scoping Review of Theory in Research on Dark Patterns and Deceptive Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Weichen Joe Chang, Katie Seaborn, Andrew A. Adams
+Publication Date: 2024
+Journal/Venue: CHI Extended Abstracts
+DOI: 10.1145/3613905.3650997
+URL: https://www.semanticscholar.org/paper/94b725cc1dd7d09b4e159d8a6da95c32f9b5530a
+
+BibTeX Citation:
+@article{chang2024theorizing,
+  title={Theorizing Deception: A Scoping Review of Theory in Research on Dark Patterns and Deceptive Design},
+  author={Weichen Joe Chang, Katie Seaborn, Andrew A. Adams},
+  year={2024},
+  journal={CHI Extended Abstracts},
+  doi={10.1145/3613905.3650997},
+  url={https://www.semanticscholar.org/paper/94b725cc1dd7d09b4e159d8a6da95c32f9b5530a},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] From Motivating to Manipulative: The Use of Deceptive Design in a Game's Free-to-Play Transition
+----------------------------------------------------------------------------------------------------
+
+Authors: Hilda Hadan, Sabrina A. Sgandurra, Leah Zhang-Kennedy, Lennart E. Nacke
+Publication Date: 2024
+Journal/Venue: Proc. ACM Hum. Comput. Interact.
+DOI: 10.1145/3677074
+URL: https://www.semanticscholar.org/paper/1344f4b16a10d7a18a4513d59d040929cd229b2e
+
+BibTeX Citation:
+@article{hadan2024from,
+  title={From Motivating to Manipulative: The Use of Deceptive Design in a Game's Free-to-Play Transition},
+  author={Hilda Hadan, Sabrina A. Sgandurra, Leah Zhang-Kennedy, Lennart E. Nacke},
+  year={2024},
+  journal={Proc. ACM Hum. Comput. Interact.},
+  doi={10.1145/3677074},
+  url={https://www.semanticscholar.org/paper/1344f4b16a10d7a18a4513d59d040929cd229b2e},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Deceptive Design Patterns in Safety Technologies: A Case Study of the Citizen App
+----------------------------------------------------------------------------------------------------
+
+Authors: Ishita Chordia, Lena-Phuong Tran, Tala June Tayebi, Emily Parrish, S. Erete, Jason C. Yip, Alexis Hiniker
+Publication Date: 2023
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3544548.3581258
+URL: https://www.semanticscholar.org/paper/e74cfdfde15ffac0b07e3ecb78b6051c840ea488
+
+BibTeX Citation:
+@article{chordia2023deceptive,
+  title={Deceptive Design Patterns in Safety Technologies: A Case Study of the Citizen App},
+  author={Ishita Chordia, Lena-Phuong Tran, Tala June Tayebi, Emily Parrish, S. Erete, Jason C. Yip, Alexis Hiniker},
+  year={2023},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3544548.3581258},
+  url={https://www.semanticscholar.org/paper/e74cfdfde15ffac0b07e3ecb78b6051c840ea488},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] A Systematic Approach for A Reliable Detection of Deceptive Design Patterns Through Measurable HCI Features
+----------------------------------------------------------------------------------------------------
+
+Authors: Emre Kocyigit, Arianna Rossi, Gabriele Lenzini
+Publication Date: 2024
+Journal/Venue: European Symposium on Usable Security
+DOI: 10.1145/3688459.3688475
+URL: https://www.semanticscholar.org/paper/0dccaf65a9f15d91f1d122a2c12b2e467d6ba40e
+
+BibTeX Citation:
+@article{kocyigit2024a,
+  title={A Systematic Approach for A Reliable Detection of Deceptive Design Patterns Through Measurable HCI Features},
+  author={Emre Kocyigit, Arianna Rossi, Gabriele Lenzini},
+  year={2024},
+  journal={European Symposium on Usable Security},
+  doi={10.1145/3688459.3688475},
+  url={https://www.semanticscholar.org/paper/0dccaf65a9f15d91f1d122a2c12b2e467d6ba40e},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Culture Clash: When Deceptive Design Meets Diverse Player Expectations
+----------------------------------------------------------------------------------------------------
+
+Authors: Hilda Hadan, Sabrina A. Sgandurra, Leah Zhang-Kennedy, Lennart E. Nacke
+Publication Date: 2024
+Journal/Venue: ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play
+DOI: 10.1145/3665463.3678866
+URL: https://www.semanticscholar.org/paper/7df1de0e889abde82c07a679efd8a2711a3dd268
+
+BibTeX Citation:
+@article{hadan2024culture,
+  title={Culture Clash: When Deceptive Design Meets Diverse Player Expectations},
+  author={Hilda Hadan, Sabrina A. Sgandurra, Leah Zhang-Kennedy, Lennart E. Nacke},
+  year={2024},
+  journal={ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play},
+  doi={10.1145/3665463.3678866},
+  url={https://www.semanticscholar.org/paper/7df1de0e889abde82c07a679efd8a2711a3dd268},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] CREATIVE MANIPULATION: A CASE STUDY OF CONFIRMSHAMING AS A DECEPTIVE DESIGN PATTERN
+----------------------------------------------------------------------------------------------------
+
+Authors: Milvydas Knyzelis
+Publication Date: 2024
+Journal/Venue: Creativity Studies
+DOI: 10.3846/cs.2024.21308
+URL: https://www.semanticscholar.org/paper/1266afe43d589a670e6f22cebc2505bf7ccf0a40
+
+BibTeX Citation:
+@article{knyzelis2024creative,
+  title={CREATIVE MANIPULATION: A CASE STUDY OF CONFIRMSHAMING AS A DECEPTIVE DESIGN PATTERN},
+  author={Milvydas Knyzelis},
+  year={2024},
+  journal={Creativity Studies},
+  doi={10.3846/cs.2024.21308},
+  url={https://www.semanticscholar.org/paper/1266afe43d589a670e6f22cebc2505bf7ccf0a40},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Who is vulnerable to deceptive design patterns? A transdisciplinary perspective on the multi-dimensional nature of digital vulnerability
+----------------------------------------------------------------------------------------------------
+
+Authors: Arianna Rossi, Rachel Carli, Marietjie Botes, Angelica Fernandez, Anastasia Sergeeva, Lorena Sánchez Chamorro
+Publication Date: 2024
+Journal/Venue: Computer Law and Security Review
+DOI: 10.1016/j.clsr.2024.106031
+URL: https://www.semanticscholar.org/paper/3a34d1b6ceb9c86e886733f2496a244931b688e2
+
+BibTeX Citation:
+@article{rossi2024who,
+  title={Who is vulnerable to deceptive design patterns? A transdisciplinary perspective on the multi-dimensional nature of digital vulnerability},
+  author={Arianna Rossi, Rachel Carli, Marietjie Botes, Angelica Fernandez, Anastasia Sergeeva, Lorena Sánchez Chamorro},
+  year={2024},
+  journal={Computer Law and Security Review},
+  doi={10.1016/j.clsr.2024.106031},
+  url={https://www.semanticscholar.org/paper/3a34d1b6ceb9c86e886733f2496a244931b688e2},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Investigating Deceptive Design in GDPR’s Legitimate Interest
+----------------------------------------------------------------------------------------------------
+
+Authors: Lin Kyi, Sushil Ammanaghatta Shivakumar, C. Santos, Franziska Roesner, Frederike Zufall, Asia J. Biega
+Publication Date: 2023
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3544548.3580637
+URL: https://www.semanticscholar.org/paper/a4e6152f4ee3106edd38ad9e7b5a725f69b168c3
+
+BibTeX Citation:
+@article{kyi2023investigating,
+  title={Investigating Deceptive Design in GDPR’s Legitimate Interest},
+  author={Lin Kyi, Sushil Ammanaghatta Shivakumar, C. Santos, Franziska Roesner, Frederike Zufall, Asia J. Biega},
+  year={2023},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3544548.3580637},
+  url={https://www.semanticscholar.org/paper/a4e6152f4ee3106edd38ad9e7b5a725f69b168c3},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Expertise Fog on the GPT Store: Deceptive Design Patterns in User-Facing Generative AI
+----------------------------------------------------------------------------------------------------
+
+Authors: Robert Wolfe, Alexis Hiniker
+Publication Date: 2024
+Journal/Venue: DDPCHI@CHI
+DOI: N/A
+URL: https://www.semanticscholar.org/paper/fc60b7f4c4b314cb523210a6f2f19cdf60865341
+
+BibTeX Citation:
+@article{wolfe2024expertise,
+  title={Expertise Fog on the GPT Store: Deceptive Design Patterns in User-Facing Generative AI},
+  author={Robert Wolfe, Alexis Hiniker},
+  year={2024},
+  journal={DDPCHI@CHI},
+  url={https://www.semanticscholar.org/paper/fc60b7f4c4b314cb523210a6f2f19cdf60865341},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Investigating Players’ Perceptions of Deceptive Design Practices within a 3D Gameplay Context
+----------------------------------------------------------------------------------------------------
+
+Authors: John King, Dan Fitton, Brendan Cassidy
+Publication Date: 2023
+Journal/Venue: Proc. ACM Hum. Comput. Interact.
+DOI: 10.1145/3611053
+URL: https://www.semanticscholar.org/paper/305ca95ef9c7a2e6462745ee2366a60eecb3e889
+
+BibTeX Citation:
+@article{king2023investigating,
+  title={Investigating Players’ Perceptions of Deceptive Design Practices within a 3D Gameplay Context},
+  author={John King, Dan Fitton, Brendan Cassidy},
+  year={2023},
+  journal={Proc. ACM Hum. Comput. Interact.},
+  doi={10.1145/3611053},
+  url={https://www.semanticscholar.org/paper/305ca95ef9c7a2e6462745ee2366a60eecb3e889},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] Dark Patterns and the Emerging Threats of Deceptive Design Practices
+----------------------------------------------------------------------------------------------------
+
+Authors: Colin M. Gray, C. Santos, Nicole Tong, Thomas Mildner, Arianna Rossi, Johanna T. Gunawan, Caroline Sinders
+Publication Date: 2023
+Journal/Venue: CHI Extended Abstracts
+DOI: 10.1145/3544549.3583173
+URL: https://www.semanticscholar.org/paper/6872c768fc55ced026a7daaaf68d7099e8a4d0ef
+
+BibTeX Citation:
+@article{gray2023dark,
+  title={Dark Patterns and the Emerging Threats of Deceptive Design Practices},
+  author={Colin M. Gray, C. Santos, Nicole Tong, Thomas Mildner, Arianna Rossi, Johanna T. Gunawan, Caroline Sinders},
+  year={2023},
+  journal={CHI Extended Abstracts},
+  doi={10.1145/3544549.3583173},
+  url={https://www.semanticscholar.org/paper/6872c768fc55ced026a7daaaf68d7099e8a4d0ef},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] How Social Media Platforms Manipulate Kidinfluencers? Analysing the Adoption of Deceptive Design Patterns by Big Techs
+----------------------------------------------------------------------------------------------------
+
+Authors: N. Albuquerque, George Valença, Taciana Pontual Falcão
+Publication Date: 2023
+Journal/Venue: Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais
+DOI: 10.1145/3638067.3638123
+URL: https://www.semanticscholar.org/paper/fdeff172acb7c577622258592095df0a2a7b131d
+
+BibTeX Citation:
+@article{albuquerque2023how,
+  title={How Social Media Platforms Manipulate Kidinfluencers? Analysing the Adoption of Deceptive Design Patterns by Big Techs},
+  author={N. Albuquerque, George Valença, Taciana Pontual Falcão},
+  year={2023},
+  journal={Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais},
+  doi={10.1145/3638067.3638123},
+  url={https://www.semanticscholar.org/paper/fdeff172acb7c577622258592095df0a2a7b131d},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Dark Patterns and User Mental Health: Identifying Theoretical Impacts of Deceptive Design on Vulnerable Demographics
+----------------------------------------------------------------------------------------------------
+
+Authors: Morgan Hilton
+Publication Date: 2023
+Journal/Venue: Proceedings of the Human Factors and Ergonomics Society Annual Meeting
+DOI: 10.1177/21695067231199684
+URL: https://www.semanticscholar.org/paper/0e5b8ea1a8715e687d6be3fa4f26653b24a2f456
+
+BibTeX Citation:
+@article{hilton2023dark,
+  title={Dark Patterns and User Mental Health: Identifying Theoretical Impacts of Deceptive Design on Vulnerable Demographics},
+  author={Morgan Hilton},
+  year={2023},
+  journal={Proceedings of the Human Factors and Ergonomics Society Annual Meeting},
+  doi={10.1177/21695067231199684},
+  url={https://www.semanticscholar.org/paper/0e5b8ea1a8715e687d6be3fa4f26653b24a2f456},
+  note={Source: Semantic Scholar}
+}
+
+====================================================================================================
+KEYWORD: USER INTERFACE MANIPULATION
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Using handheld user interface and direct manipulation for architectural modeling in immersive virtual reality: An exploratory study
+----------------------------------------------------------------------------------------------------
+
+Authors: H. Tastan, Cetin Tuker, Togan Tong
+Publication Date: 2021
+Journal/Venue: Computer Applications in Engineering Education
+DOI: 10.1002/cae.22463
+URL: https://www.semanticscholar.org/paper/011d2263d6cfae19b6810593e8c49a9fb1c96965
+
+BibTeX Citation:
+@article{tastan2021using,
+  title={Using handheld user interface and direct manipulation for architectural modeling in immersive virtual reality: An exploratory study},
+  author={H. Tastan, Cetin Tuker, Togan Tong},
+  year={2021},
+  journal={Computer Applications in Engineering Education},
+  doi={10.1002/cae.22463},
+  url={https://www.semanticscholar.org/paper/011d2263d6cfae19b6810593e8c49a9fb1c96965},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Molcontroller: A VMD Graphical User Interface Featuring Molecule Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Chenchen Wu, Shengtang Liu, Shitong Zhang, Zaixing Yang
+Publication Date: 2020
+Journal/Venue: Journal of Chemical Information and Modeling
+DOI: 10.1021/acs.jcim.0c00754
+URL: https://www.semanticscholar.org/paper/477518812a45801a7a4c1360ee784f45eced93b7
+
+BibTeX Citation:
+@article{wu2020molcontroller:,
+  title={Molcontroller: A VMD Graphical User Interface Featuring Molecule Manipulation},
+  author={Chenchen Wu, Shengtang Liu, Shitong Zhang, Zaixing Yang},
+  year={2020},
+  journal={Journal of Chemical Information and Modeling},
+  doi={10.1021/acs.jcim.0c00754},
+  url={https://www.semanticscholar.org/paper/477518812a45801a7a4c1360ee784f45eced93b7},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Design and Evaluation of a Handheld-based 3D User Interface for Collaborative Object Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: J. Grandi, H. Debarba, L. Nedel, Anderson Maciel
+Publication Date: 2017
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3025453.3025935
+URL: https://www.semanticscholar.org/paper/9c13f667fbdc2bbe19cdffab17e0ba66fde6e5f2
+
+BibTeX Citation:
+@article{grandi2017design,
+  title={Design and Evaluation of a Handheld-based 3D User Interface for Collaborative Object Manipulation},
+  author={J. Grandi, H. Debarba, L. Nedel, Anderson Maciel},
+  year={2017},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3025453.3025935},
+  url={https://www.semanticscholar.org/paper/9c13f667fbdc2bbe19cdffab17e0ba66fde6e5f2},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] CHARMM‐GUI: A web‐based graphical user interface for CHARMM
+----------------------------------------------------------------------------------------------------
+
+Authors: Sunhwan Jo, Taehoon Kim, Vidyashankara G. Iyer, W. Im
+Publication Date: 2008
+Journal/Venue: Journal of Computational Chemistry
+DOI: 10.1002/jcc.20945
+URL: https://www.semanticscholar.org/paper/3606a711c414b3058344e344a68675d08d4da354
+
+BibTeX Citation:
+@article{jo2008charmm‐gui:,
+  title={CHARMM‐GUI: A web‐based graphical user interface for CHARMM},
+  author={Sunhwan Jo, Taehoon Kim, Vidyashankara G. Iyer, W. Im},
+  year={2008},
+  journal={Journal of Computational Chemistry},
+  doi={10.1002/jcc.20945},
+  url={https://www.semanticscholar.org/paper/3606a711c414b3058344e344a68675d08d4da354},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models
+----------------------------------------------------------------------------------------------------
+
+Authors: Damien Masson, Sylvain Malacria, Géry Casiez, Daniel Vogel
+Publication Date: 2023
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3613904.3642462
+URL: https://www.semanticscholar.org/paper/7fe374818f47962d003aa077950d9af62c0a6928
+
+BibTeX Citation:
+@article{masson2023directgpt:,
+  title={DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models},
+  author={Damien Masson, Sylvain Malacria, Géry Casiez, Daniel Vogel},
+  year={2023},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3613904.3642462},
+  url={https://www.semanticscholar.org/paper/7fe374818f47962d003aa077950d9af62c0a6928},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] SIXPACK: a graphical user interface for XAS analysis
+----------------------------------------------------------------------------------------------------
+
+Authors: Samuel M. Webb
+Publication Date: 2020
+Journal/Venue: International Tables for Crystallography
+DOI: 10.1107/s1574870720003456
+URL: https://www.semanticscholar.org/paper/76894dafe08010996fe025f83e30431dee9698d7
+
+BibTeX Citation:
+@article{webb2020sixpack:,
+  title={SIXPACK: a graphical user interface for XAS analysis},
+  author={Samuel M. Webb},
+  year={2020},
+  journal={International Tables for Crystallography},
+  doi={10.1107/s1574870720003456},
+  url={https://www.semanticscholar.org/paper/76894dafe08010996fe025f83e30431dee9698d7},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Semi-Autonomous Domestic Service Robots: Evaluation of a User Interface for Remote Manipulation and Navigation With Focus on Effects of Stereoscopic Display
+----------------------------------------------------------------------------------------------------
+
+Authors: Marcus Mast, Zdeněk Materna, M. Spanel, Florian Weisshardt, Georg Arbeiter, M. Burmester, P. Smrz, B. Graf
+Publication Date: 2014
+Journal/Venue: International Journal of Social Robotics
+DOI: 10.1007/s12369-014-0266-7
+URL: https://www.semanticscholar.org/paper/fffea404de3b99a2c601f2139c88524e43a5213e
+
+BibTeX Citation:
+@article{mast2014semi-autonomous,
+  title={Semi-Autonomous Domestic Service Robots: Evaluation of a User Interface for Remote Manipulation and Navigation With Focus on Effects of Stereoscopic Display},
+  author={Marcus Mast, Zdeněk Materna, M. Spanel, Florian Weisshardt, Georg Arbeiter, M. Burmester, P. Smrz, B. Graf},
+  year={2014},
+  journal={International Journal of Social Robotics},
+  doi={10.1007/s12369-014-0266-7},
+  url={https://www.semanticscholar.org/paper/fffea404de3b99a2c601f2139c88524e43a5213e},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] PDB‐tools web: A user‐friendly interface for the manipulation of PDB files
+----------------------------------------------------------------------------------------------------
+
+Authors: Brian Jiménez-García, João M. C. Teixeira, M. Trellet, J. Rodrigues, A. Bonvin
+Publication Date: 2020
+Journal/Venue: Proteins: Structure, Function, and Bioinformatics
+DOI: 10.1002/prot.26018
+URL: https://www.semanticscholar.org/paper/2b1dcbf13ba3070c573b4171772bd832c3b76da0
+
+BibTeX Citation:
+@article{jiménez-garcía2020pdb‐tools,
+  title={PDB‐tools web: A user‐friendly interface for the manipulation of PDB files},
+  author={Brian Jiménez-García, João M. C. Teixeira, M. Trellet, J. Rodrigues, A. Bonvin},
+  year={2020},
+  journal={Proteins: Structure, Function, and Bioinformatics},
+  doi={10.1002/prot.26018},
+  url={https://www.semanticscholar.org/paper/2b1dcbf13ba3070c573b4171772bd832c3b76da0},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis
+----------------------------------------------------------------------------------------------------
+
+Authors: Tianbao Xie, Jiaqi Deng, Xiaochuan Li, Junlin Yang, Haoyuan Wu, Jixuan Chen, Wenjing Hu, Xinyuan Wang, Yuhui Xu, Zekun Wang, Yiheng Xu, Junli Wang, Doyen Sahoo, Tao Yu, Caiming Xiong
+Publication Date: 2025
+Journal/Venue: arXiv.org
+DOI: 10.48550/arXiv.2505.13227
+URL: https://www.semanticscholar.org/paper/a1c9066aab4c408db49982f0975c2ec7c0be47dd
+
+BibTeX Citation:
+@article{xie2025scaling,
+  title={Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis},
+  author={Tianbao Xie, Jiaqi Deng, Xiaochuan Li, Junlin Yang, Haoyuan Wu, Jixuan Chen, Wenjing Hu, Xinyuan Wang, Yuhui Xu, Zekun Wang, Yiheng Xu, Junli Wang, Doyen Sahoo, Tao Yu, Caiming Xiong},
+  year={2025},
+  journal={arXiv.org},
+  doi={10.48550/arXiv.2505.13227},
+  url={https://www.semanticscholar.org/paper/a1c9066aab4c408db49982f0975c2ec7c0be47dd},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Aadhithya Iyer, Zhuoran Peng, Yinlong Dai, Irmak Güzey, Siddhant Haldar, Soumith Chintala, Lerrel Pinto
+Publication Date: 2024
+Journal/Venue: Conference on Robot Learning
+DOI: 10.48550/arXiv.2403.07870
+URL: https://www.semanticscholar.org/paper/a0344f32a72e27252c93a28f485d39df000a4186
+
+BibTeX Citation:
+@article{iyer2024open,
+  title={OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation},
+  author={Aadhithya Iyer, Zhuoran Peng, Yinlong Dai, Irmak Güzey, Siddhant Haldar, Soumith Chintala, Lerrel Pinto},
+  year={2024},
+  journal={Conference on Robot Learning},
+  doi={10.48550/arXiv.2403.07870},
+  url={https://www.semanticscholar.org/paper/a0344f32a72e27252c93a28f485d39df000a4186},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: Susan Lin, Jeremy Warner, J.D. Zamfirescu-Pereira, Matthew G. Lee, Sauhard Jain, Michael Xuelin Huang, Piyawat Lertvittayakumjorn, Shanqing Cai, Shumin Zhai, Bjorn Hartmann, Can Liu
+Publication Date: 2024
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3613904.3642217
+URL: https://www.semanticscholar.org/paper/a4f77708af344817471ded85fcfee5f50841f470
+
+BibTeX Citation:
+@article{lin2024rambler:,
+  title={Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation},
+  author={Susan Lin, Jeremy Warner, J.D. Zamfirescu-Pereira, Matthew G. Lee, Sauhard Jain, Michael Xuelin Huang, Piyawat Lertvittayakumjorn, Shanqing Cai, Shumin Zhai, Bjorn Hartmann, Can Liu},
+  year={2024},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3613904.3642217},
+  url={https://www.semanticscholar.org/paper/a4f77708af344817471ded85fcfee5f50841f470},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] 3D User Interface Design and Usability for Immersive VR
+----------------------------------------------------------------------------------------------------
+
+Authors: H. Kharoub, M. Lataifeh, Naveed Ahmed
+Publication Date: 2019
+Journal/Venue: Applied Sciences
+DOI: 10.3390/app9224861
+URL: https://www.semanticscholar.org/paper/57f1ee8473f8d9ba8d9d0c744aa50371efafa2d1
+
+BibTeX Citation:
+@article{kharoub20193d,
+  title={3D User Interface Design and Usability for Immersive VR},
+  author={H. Kharoub, M. Lataifeh, Naveed Ahmed},
+  year={2019},
+  journal={Applied Sciences},
+  doi={10.3390/app9224861},
+  url={https://www.semanticscholar.org/paper/57f1ee8473f8d9ba8d9d0c744aa50371efafa2d1},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] LexOPS: An R package and user interface for the controlled generation of word stimuli
+----------------------------------------------------------------------------------------------------
+
+Authors: J. E. Taylor, Alistair Beith, S. Sereno
+Publication Date: 2019
+Journal/Venue: Behavior Research Methods
+DOI: 10.3758/s13428-020-01389-1
+URL: https://www.semanticscholar.org/paper/18529acbf26dcddc4f64a179904dde3e35a258f3
+
+BibTeX Citation:
+@article{taylor2019lexops:,
+  title={LexOPS: An R package and user interface for the controlled generation of word stimuli},
+  author={J. E. Taylor, Alistair Beith, S. Sereno},
+  year={2019},
+  journal={Behavior Research Methods},
+  doi={10.3758/s13428-020-01389-1},
+  url={https://www.semanticscholar.org/paper/18529acbf26dcddc4f64a179904dde3e35a258f3},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Virtual exertions: A user interface combining visual information, kinesthetics and biofeedback for virtual object manipulation
+----------------------------------------------------------------------------------------------------
+
+Authors: K. Ponto, Ryan A. Kimmel, Joe Kohlmann, Aaron Bartholomew, R. Radwin
+Publication Date: 2012
+Journal/Venue: IEEE Symposium on 3D User Interfaces
+DOI: 10.1109/3DUI.2012.6184189
+URL: https://www.semanticscholar.org/paper/47792276fea59c1af052e0276866a800d29521bf
+
+BibTeX Citation:
+@article{ponto2012virtual,
+  title={Virtual exertions: A user interface combining visual information, kinesthetics and biofeedback for virtual object manipulation},
+  author={K. Ponto, Ryan A. Kimmel, Joe Kohlmann, Aaron Bartholomew, R. Radwin},
+  year={2012},
+  journal={IEEE Symposium on 3D User Interfaces},
+  doi={10.1109/3DUI.2012.6184189},
+  url={https://www.semanticscholar.org/paper/47792276fea59c1af052e0276866a800d29521bf},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] A Tangible User Interface to Facilitate Learning of Trigonometry
+----------------------------------------------------------------------------------------------------
+
+Authors: F. Urrutia, Catalina Cortés Loyola, M. Marín
+Publication Date: 2019
+Journal/Venue: International Journal of Emerging Technologies in Learning (iJET)
+DOI: 10.3991/ijet.v14i23.11433
+URL: https://www.semanticscholar.org/paper/a21efa677f4ebfc1257f6ebc812ea9d65bd11cad
+
+BibTeX Citation:
+@article{urrutia2019a,
+  title={A Tangible User Interface to Facilitate Learning of Trigonometry},
+  author={F. Urrutia, Catalina Cortés Loyola, M. Marín},
+  year={2019},
+  journal={International Journal of Emerging Technologies in Learning (iJET)},
+  doi={10.3991/ijet.v14i23.11433},
+  url={https://www.semanticscholar.org/paper/a21efa677f4ebfc1257f6ebc812ea9d65bd11cad},
+  note={Source: Semantic Scholar}
+}
+
+====================================================================================================
+KEYWORD: PERSUASIVE DESIGN ETHICS
+====================================================================================================
+Articles found: 4
+
+
+----------------------------------------------------------------------------------------------------
+[1] The Ethics of Persuasive Design in Technology Used by Children and Adolescents
+----------------------------------------------------------------------------------------------------
+
+Authors: Meghan B. Owenz, Richard Freed
+Publication Date: 2021
+Journal/Venue: Ethical Human Psychology and Psychiatry
+DOI: 10.1891/EHPP-D-20-00023
+URL: https://www.semanticscholar.org/paper/1770987267a34d65c4901b7f3d03f02f587781ec
+
+BibTeX Citation:
+@article{owenz2021the,
+  title={The Ethics of Persuasive Design in Technology Used by Children and Adolescents},
+  author={Meghan B. Owenz, Richard Freed},
+  year={2021},
+  journal={Ethical Human Psychology and Psychiatry},
+  doi={10.1891/EHPP-D-20-00023},
+  url={https://www.semanticscholar.org/paper/1770987267a34d65c4901b7f3d03f02f587781ec},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Digital Persuasive Design(DPT) and the Ethics of Autonomy : Slot-Machine Metaphor, Nudge, and Digital Habitus
+----------------------------------------------------------------------------------------------------
+
+Authors: Jinn-young Oh, MYUNG-JU Chun
+Publication Date: 2025
+Journal/Venue: Journal of Human Studies
+DOI: 10.33638/jhs.67.12
+URL: https://www.semanticscholar.org/paper/1c39b86240085b0d0bb1bc2dc492a7a0f6698d3f
+
+BibTeX Citation:
+@article{oh2025digital,
+  title={Digital Persuasive Design(DPT) and the Ethics of Autonomy : Slot-Machine Metaphor, Nudge, and Digital Habitus},
+  author={Jinn-young Oh, MYUNG-JU Chun},
+  year={2025},
+  journal={Journal of Human Studies},
+  doi={10.33638/jhs.67.12},
+  url={https://www.semanticscholar.org/paper/1c39b86240085b0d0bb1bc2dc492a7a0f6698d3f},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] How Ethical Are Persuasive Design Practices? A Proposal for Assessment of Ethics in HCI Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Sanju Ahuja, Jyotish Kumar
+Publication Date: 2021
+Journal/Venue: N/A
+DOI: 10.1007/978-981-16-0041-8_40
+URL: https://www.semanticscholar.org/paper/3a2cd7680f14a8012d2905f5a51c973866db233a
+
+BibTeX Citation:
+@article{ahuja2021how,
+  title={How Ethical Are Persuasive Design Practices? A Proposal for Assessment of Ethics in HCI Design},
+  author={Sanju Ahuja, Jyotish Kumar},
+  year={2021},
+  doi={10.1007/978-981-16-0041-8_40},
+  url={https://www.semanticscholar.org/paper/3a2cd7680f14a8012d2905f5a51c973866db233a},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Ethics in Persuasive Technologies: A Systematic Literature Review
+----------------------------------------------------------------------------------------------------
+
+Authors: Parinda Rahman, I. Adaji
+Publication Date: 2024
+Journal/Venue: International Conference on Mobile and Ubiquitous Multimedia
+DOI: 10.1145/3701571.3701572
+URL: https://www.semanticscholar.org/paper/0b18721a9a0b93d33f29edcc4ee20ed5cf9fa079
+
+BibTeX Citation:
+@article{rahman2024ethics,
+  title={Ethics in Persuasive Technologies: A Systematic Literature Review},
+  author={Parinda Rahman, I. Adaji},
+  year={2024},
+  journal={International Conference on Mobile and Ubiquitous Multimedia},
+  doi={10.1145/3701571.3701572},
+  url={https://www.semanticscholar.org/paper/0b18721a9a0b93d33f29edcc4ee20ed5cf9fa079},
+  note={Source: Semantic Scholar}
+}
+
+====================================================================================================
+KEYWORD: MALICIOUS INTERFACE DESIGN
+====================================================================================================
+Articles found: 3
+
+
+----------------------------------------------------------------------------------------------------
+[1] Malicious interface design: exploiting the user
+----------------------------------------------------------------------------------------------------
+
+Authors: Gregory J. Conti, E. Sobiesk
+Publication Date: 2010
+Journal/Venue: The Web Conference
+DOI: 10.1145/1772690.1772719
+URL: https://www.semanticscholar.org/paper/0ddbb628095bf642f872a498a56d5637b4e6a298
+
+BibTeX Citation:
+@article{conti2010malicious,
+  title={Malicious interface design: exploiting the user},
+  author={Gregory J. Conti, E. Sobiesk},
+  year={2010},
+  journal={The Web Conference},
+  doi={10.1145/1772690.1772719},
+  url={https://www.semanticscholar.org/paper/0ddbb628095bf642f872a498a56d5637b4e6a298},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Growing Up With Dark Patterns: How Children Perceive Malicious User Interface Designs
+----------------------------------------------------------------------------------------------------
+
+Authors: René Schäfer, Sarah Sahabi, Annabell Brocker, Jan O. Borchers
+Publication Date: 2024
+Journal/Venue: Nordic Conference on Human-Computer Interaction
+DOI: 10.1145/3679318.3685358
+URL: https://www.semanticscholar.org/paper/c03bb0944f5139b7f8921d88f0011eef0b7b4a2f
+
+BibTeX Citation:
+@article{schäfer2024growing,
+  title={Growing Up With Dark Patterns: How Children Perceive Malicious User Interface Designs},
+  author={René Schäfer, Sarah Sahabi, Annabell Brocker, Jan O. Borchers},
+  year={2024},
+  journal={Nordic Conference on Human-Computer Interaction},
+  doi={10.1145/3679318.3685358},
+  url={https://www.semanticscholar.org/paper/c03bb0944f5139b7f8921d88f0011eef0b7b4a2f},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] User And Task Analysis For Interface Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Tom Gaertner
+Publication Date: 2016
+Journal/Venue: N/A
+DOI: N/A
+URL: https://www.semanticscholar.org/paper/5ee96f8ac4c9da4657ed7017173c622bb547fa8b
+
+BibTeX Citation:
+@article{gaertner2016user,
+  title={User And Task Analysis For Interface Design},
+  author={Tom Gaertner},
+  year={2016},
+  url={https://www.semanticscholar.org/paper/5ee96f8ac4c9da4657ed7017173c622bb547fa8b},
+  note={Source: Semantic Scholar}
+}
+
+====================================================================================================
+KEYWORD: COOKIE CONSENT MANIPULATION
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] Dark and Bright Patterns in Cookie Consent Requests
+----------------------------------------------------------------------------------------------------
+
+Authors: P. Graßl, H. Schraffenberger, Frederik J. Zuiderveen Borgesius, M. Buijzen
+Publication Date: 2020
+Journal/Venue: Journal of Digital Social Research
+DOI: 10.33621/jdsr.v3i1.54
+URL: https://www.semanticscholar.org/paper/c8a4244bd99f18b3e94a72e42f04946f6ac2b571
+
+BibTeX Citation:
+@article{graßl2020dark,
+  title={Dark and Bright Patterns in Cookie Consent Requests},
+  author={P. Graßl, H. Schraffenberger, Frederik J. Zuiderveen Borgesius, M. Buijzen},
+  year={2020},
+  journal={Journal of Digital Social Research},
+  doi={10.33621/jdsr.v3i1.54},
+  url={https://www.semanticscholar.org/paper/c8a4244bd99f18b3e94a72e42f04946f6ac2b571},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] The Effect of Design Patterns on (Present and Future) Cookie Consent Decisions
+----------------------------------------------------------------------------------------------------
+
+Authors: Nataliia Bielova, Laura Litvine, Anysia Nguyen, Mariam Chammat, Vincent Toubiana, Estelle Hary
+Publication Date: 2024
+Journal/Venue: USENIX Security Symposium
+DOI: N/A
+URL: https://www.semanticscholar.org/paper/310aee576174e275c26aceef3e4207c7d96629f5
+
+BibTeX Citation:
+@article{bielova2024the,
+  title={The Effect of Design Patterns on (Present and Future) Cookie Consent Decisions},
+  author={Nataliia Bielova, Laura Litvine, Anysia Nguyen, Mariam Chammat, Vincent Toubiana, Estelle Hary},
+  year={2024},
+  journal={USENIX Security Symposium},
+  url={https://www.semanticscholar.org/paper/310aee576174e275c26aceef3e4207c7d96629f5},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] My Eyes Don't Consent! Exploring Visual Attention in Cookie Consent Interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: Yavuz Inal, F. Volden, Camilla Carlsen, Sarah Hjelmtveit
+Publication Date: 2024
+Journal/Venue: Eye Tracking Research & Application
+DOI: 10.1145/3649902.3653352
+URL: https://www.semanticscholar.org/paper/08911e4ab9f550652d3f830277535ba8e3402a93
+
+BibTeX Citation:
+@article{inal2024my,
+  title={My Eyes Don't Consent! Exploring Visual Attention in Cookie Consent Interfaces},
+  author={Yavuz Inal, F. Volden, Camilla Carlsen, Sarah Hjelmtveit},
+  year={2024},
+  journal={Eye Tracking Research & Application},
+  doi={10.1145/3649902.3653352},
+  url={https://www.semanticscholar.org/paper/08911e4ab9f550652d3f830277535ba8e3402a93},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Standardised cookie banner: a solution to the cookie consent problem
+----------------------------------------------------------------------------------------------------
+
+Authors: Paarth Naithani
+Publication Date: 2024
+Journal/Venue: International Review of Law, Computers &amp; Technology
+DOI: 10.1080/13600869.2024.2364995
+URL: https://www.semanticscholar.org/paper/10cfd2db4c008626e0e46631542c2edc63c39183
+
+BibTeX Citation:
+@article{naithani2024standardised,
+  title={Standardised cookie banner: a solution to the cookie consent problem},
+  author={Paarth Naithani},
+  year={2024},
+  journal={International Review of Law, Computers &amp; Technology},
+  doi={10.1080/13600869.2024.2364995},
+  url={https://www.semanticscholar.org/paper/10cfd2db4c008626e0e46631542c2edc63c39183},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] A US-UK Usability Evaluation of Consent Management Platform Cookie Consent Interface Design on Desktop and Mobile
+----------------------------------------------------------------------------------------------------
+
+Authors: E. Bouma-Sims, Megan Li, Yanzi Lin, Adia Sakura-Lemessy, Alexandra Nisenoff, Ellie Young, Eleanor Birrell, L. Cranor, Hana Habib
+Publication Date: 2023
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3544548.3580725
+URL: https://www.semanticscholar.org/paper/8b5e28a660ec57c6949bd6d0ec51b7ee284f07a5
+
+BibTeX Citation:
+@article{bouma-sims2023a,
+  title={A US-UK Usability Evaluation of Consent Management Platform Cookie Consent Interface Design on Desktop and Mobile},
+  author={E. Bouma-Sims, Megan Li, Yanzi Lin, Adia Sakura-Lemessy, Alexandra Nisenoff, Ellie Young, Eleanor Birrell, L. Cranor, Hana Habib},
+  year={2023},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3544548.3580725},
+  url={https://www.semanticscholar.org/paper/8b5e28a660ec57c6949bd6d0ec51b7ee284f07a5},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] Cookies and Trust: Trust in organizations and the design of cookie consent prompts
+----------------------------------------------------------------------------------------------------
+
+Authors: Thomas Mejtoft, Nike Vejbrink Starbrink, Carla Roos Morales, Ole Norberg, Mattias Andersson, Ulrik Söderström
+Publication Date: 2023
+Journal/Venue: European Conference on Cognitive Ergonomics
+DOI: 10.1145/3605655.3605668
+URL: https://www.semanticscholar.org/paper/6ccb0e0d12d00c904c2f13af1b950e0a4ee07f11
+
+BibTeX Citation:
+@article{mejtoft2023cookies,
+  title={Cookies and Trust: Trust in organizations and the design of cookie consent prompts},
+  author={Thomas Mejtoft, Nike Vejbrink Starbrink, Carla Roos Morales, Ole Norberg, Mattias Andersson, Ulrik Söderström},
+  year={2023},
+  journal={European Conference on Cognitive Ergonomics},
+  doi={10.1145/3605655.3605668},
+  url={https://www.semanticscholar.org/paper/6ccb0e0d12d00c904c2f13af1b950e0a4ee07f11},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Are Current CCPA Compliant Banners Conveying User's Desired Opt-Out Decisions? An Empirical Study of Cookie Consent Banners
+----------------------------------------------------------------------------------------------------
+
+Authors: Torsha Mazumdar, Daniel Timko, Muhammad Lutfor Rahman
+Publication Date: 2023
+Journal/Venue: Cryptology and Network Security
+DOI: 10.48550/arXiv.2309.00776
+URL: https://www.semanticscholar.org/paper/1454f90e4137e1056c5d7b3fea1f517c47c3ca13
+
+BibTeX Citation:
+@article{mazumdar2023are,
+  title={Are Current CCPA Compliant Banners Conveying User's Desired Opt-Out Decisions? An Empirical Study of Cookie Consent Banners},
+  author={Torsha Mazumdar, Daniel Timko, Muhammad Lutfor Rahman},
+  year={2023},
+  journal={Cryptology and Network Security},
+  doi={10.48550/arXiv.2309.00776},
+  url={https://www.semanticscholar.org/paper/1454f90e4137e1056c5d7b3fea1f517c47c3ca13},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Cookie Consent Has Disparate Impact on Estimation Accuracy
+----------------------------------------------------------------------------------------------------
+
+Authors: Erik Miehling, Rahul Nair, Elizabeth M. Daly, K. Ramamurthy, Robert Redmond
+Publication Date: 2023
+Journal/Venue: Neural Information Processing Systems
+DOI: N/A
+URL: https://www.semanticscholar.org/paper/19650e5574016e69105d08e213fb45c3e3a3be8c
+
+BibTeX Citation:
+@article{miehling2023cookie,
+  title={Cookie Consent Has Disparate Impact on Estimation Accuracy},
+  author={Erik Miehling, Rahul Nair, Elizabeth M. Daly, K. Ramamurthy, Robert Redmond},
+  year={2023},
+  journal={Neural Information Processing Systems},
+  url={https://www.semanticscholar.org/paper/19650e5574016e69105d08e213fb45c3e3a3be8c},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] “Okay, whatever”: An Evaluation of Cookie Consent Interfaces
+----------------------------------------------------------------------------------------------------
+
+Authors: Hana Habib, Megan Li, Ellie Young, L. Cranor
+Publication Date: 2022
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3491102.3501985
+URL: https://www.semanticscholar.org/paper/5211f6ffb9ec50ee8fb2ff2543b8c4be8f7fbebc
+
+BibTeX Citation:
+@article{habib2022“okay,,
+  title={“Okay, whatever”: An Evaluation of Cookie Consent Interfaces},
+  author={Hana Habib, Megan Li, Ellie Young, L. Cranor},
+  year={2022},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3491102.3501985},
+  url={https://www.semanticscholar.org/paper/5211f6ffb9ec50ee8fb2ff2543b8c4be8f7fbebc},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Automating Cookie Consent and GDPR Violation Detection
+----------------------------------------------------------------------------------------------------
+
+Authors: Dino Bollinger, Karel Kubicek, C. C. Jiménez, D. Basin
+Publication Date: 2022
+Journal/Venue: USENIX Security Symposium
+DOI: N/A
+URL: https://www.semanticscholar.org/paper/687c0136bb54d5d9492e27298793e248d538ad19
+
+BibTeX Citation:
+@article{bollinger2022automating,
+  title={Automating Cookie Consent and GDPR Violation Detection},
+  author={Dino Bollinger, Karel Kubicek, C. C. Jiménez, D. Basin},
+  year={2022},
+  journal={USENIX Security Symposium},
+  url={https://www.semanticscholar.org/paper/687c0136bb54d5d9492e27298793e248d538ad19},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] A User-Centered Privacy Policy Management System for Automatic Consent on Cookie Banners
+----------------------------------------------------------------------------------------------------
+
+Authors: Lorenzo Porcelli, Michele Mastroianni, M. Ficco, F. Palmieri
+Publication Date: 2024
+Journal/Venue: De Computis
+DOI: 10.3390/computers13020043
+URL: https://www.semanticscholar.org/paper/37327cbe847226f1519dbd255341989a328844da
+
+BibTeX Citation:
+@article{porcelli2024a,
+  title={A User-Centered Privacy Policy Management System for Automatic Consent on Cookie Banners},
+  author={Lorenzo Porcelli, Michele Mastroianni, M. Ficco, F. Palmieri},
+  year={2024},
+  journal={De Computis},
+  doi={10.3390/computers13020043},
+  url={https://www.semanticscholar.org/paper/37327cbe847226f1519dbd255341989a328844da},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Do you agree? Contrasting Google’s Core Web Vitals and the impact of cookie consent banners with actual web QoE
+----------------------------------------------------------------------------------------------------
+
+Authors: Nikolas Wehner, Michael Seufert, R. Schatz, T. Hossfeld
+Publication Date: 2023
+Journal/Venue: Quality and User Experience
+DOI: 10.1007/s41233-023-00058-3
+URL: https://www.semanticscholar.org/paper/75bcceb8e92a6bc3530f94f497bdf080d9e044ae
+
+BibTeX Citation:
+@article{wehner2023do,
+  title={Do you agree? Contrasting Google’s Core Web Vitals and the impact of cookie consent banners with actual web QoE},
+  author={Nikolas Wehner, Michael Seufert, R. Schatz, T. Hossfeld},
+  year={2023},
+  journal={Quality and User Experience},
+  doi={10.1007/s41233-023-00058-3},
+  url={https://www.semanticscholar.org/paper/75bcceb8e92a6bc3530f94f497bdf080d9e044ae},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] "Stay Out of My Way!": The Impact of Cookie Consent Notice Design on Young Users' Decision
+----------------------------------------------------------------------------------------------------
+
+Authors: Aysun Ogut
+Publication Date: 2023
+Journal/Venue: Interacción
+DOI: 10.1007/978-3-031-35822-7_34
+URL: https://www.semanticscholar.org/paper/35490e0b62516c8e9b4493e47a19fd0242f6feff
+
+BibTeX Citation:
+@article{ogut2023"stay,
+  title={"Stay Out of My Way!": The Impact of Cookie Consent Notice Design on Young Users' Decision},
+  author={Aysun Ogut},
+  year={2023},
+  journal={Interacción},
+  doi={10.1007/978-3-031-35822-7_34},
+  url={https://www.semanticscholar.org/paper/35490e0b62516c8e9b4493e47a19fd0242f6feff},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Prospective Consent: The Effect of Framing on Cookie Consent Decisions
+----------------------------------------------------------------------------------------------------
+
+Authors: Eryn Ma, Eleanor Birrell
+Publication Date: 2022
+Journal/Venue: CHI Extended Abstracts
+DOI: 10.1145/3491101.3519687
+URL: https://www.semanticscholar.org/paper/be380366e36293e562a4697f546f97b14e5e6f25
+
+BibTeX Citation:
+@article{ma2022prospective,
+  title={Prospective Consent: The Effect of Framing on Cookie Consent Decisions},
+  author={Eryn Ma, Eleanor Birrell},
+  year={2022},
+  journal={CHI Extended Abstracts},
+  doi={10.1145/3491101.3519687},
+  url={https://www.semanticscholar.org/paper/be380366e36293e562a4697f546f97b14e5e6f25},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] What Cookie Consent Notices Do Users Prefer: A Study In The Wild
+----------------------------------------------------------------------------------------------------
+
+Authors: Ashutosh Kumar Singh, Nisarg Upadhyaya, Arka Seth, Xuehui Hu, Nishanth R. Sastry, Mainack Mondal
+Publication Date: 2022
+Journal/Venue: European Symposium on Usable Security
+DOI: 10.1145/3549015.3555675
+URL: https://www.semanticscholar.org/paper/38326f322369db3ace3408b3796b01ace1d20758
+
+BibTeX Citation:
+@article{singh2022what,
+  title={What Cookie Consent Notices Do Users Prefer: A Study In The Wild},
+  author={Ashutosh Kumar Singh, Nisarg Upadhyaya, Arka Seth, Xuehui Hu, Nishanth R. Sastry, Mainack Mondal},
+  year={2022},
+  journal={European Symposium on Usable Security},
+  doi={10.1145/3549015.3555675},
+  url={https://www.semanticscholar.org/paper/38326f322369db3ace3408b3796b01ace1d20758},
+  note={Source: Semantic Scholar}
+}
+
+====================================================================================================
+KEYWORD: SUBSCRIPTION CANCELLATION UX
+====================================================================================================
+Articles found: 15
+
+
+----------------------------------------------------------------------------------------------------
+[1] User Experience Based on Complexity of the Subscription Cancellation Process: Perceiving Dark Pattern Design
+----------------------------------------------------------------------------------------------------
+
+Authors: Bomin Cho, S. Oh, Ji Yeong Lee, EunJee Kim, J. Yun
+Publication Date: 2023
+Journal/Venue: Archives of Design Research
+DOI: 10.15187/adr.2023.05.36.2.247
+URL: https://www.semanticscholar.org/paper/e2bfa8bd7d19ee4324964912576b9fdeb6303e9a
+
+BibTeX Citation:
+@article{cho2023user,
+  title={User Experience Based on Complexity of the Subscription Cancellation Process: Perceiving Dark Pattern Design},
+  author={Bomin Cho, S. Oh, Ji Yeong Lee, EunJee Kim, J. Yun},
+  year={2023},
+  journal={Archives of Design Research},
+  doi={10.15187/adr.2023.05.36.2.247},
+  url={https://www.semanticscholar.org/paper/e2bfa8bd7d19ee4324964912576b9fdeb6303e9a},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[2] Staying at the Roach Motel: Cross-Country Analysis of Manipulative Subscription and Cancellation Flows
+----------------------------------------------------------------------------------------------------
+
+Authors: Ashley Sheil, Gunes Acar, Hanna Schraffenberger, Raphael Gellert, David Malone
+Publication Date: 2023
+Journal/Venue: International Conference on Human Factors in Computing Systems
+DOI: 10.1145/3613904.3642881
+URL: https://www.semanticscholar.org/paper/75f7d85a225ccd9cec104e9e26716c80ec5fd1e5
+
+BibTeX Citation:
+@article{sheil2023staying,
+  title={Staying at the Roach Motel: Cross-Country Analysis of Manipulative Subscription and Cancellation Flows},
+  author={Ashley Sheil, Gunes Acar, Hanna Schraffenberger, Raphael Gellert, David Malone},
+  year={2023},
+  journal={International Conference on Human Factors in Computing Systems},
+  doi={10.1145/3613904.3642881},
+  url={https://www.semanticscholar.org/paper/75f7d85a225ccd9cec104e9e26716c80ec5fd1e5},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[3] Do satisfaction and satiation both drive immediate and delayed subscription cancellation? Implications for subscription video-on-demand services
+----------------------------------------------------------------------------------------------------
+
+Authors: Ismael Becerril-Castrillejo, Marta Nieto-García, P. Muñoz-Gallego
+Publication Date: 2026
+Journal/Venue: Journal of Retailing and Consumer Services
+DOI: 10.1016/j.jretconser.2025.104624
+URL: https://www.semanticscholar.org/paper/99186dc0334ef4d3237b84c80fbb3621a73262c8
+
+BibTeX Citation:
+@article{becerril-castrillejo2026do,
+  title={Do satisfaction and satiation both drive immediate and delayed subscription cancellation? Implications for subscription video-on-demand services},
+  author={Ismael Becerril-Castrillejo, Marta Nieto-García, P. Muñoz-Gallego},
+  year={2026},
+  journal={Journal of Retailing and Consumer Services},
+  doi={10.1016/j.jretconser.2025.104624},
+  url={https://www.semanticscholar.org/paper/99186dc0334ef4d3237b84c80fbb3621a73262c8},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[4] Dark patterns in subscription service cancellation processes
+----------------------------------------------------------------------------------------------------
+
+Authors: Fadzai Emmah Nembaware, Sonia Sousa
+Publication Date: 2025
+Journal/Venue: European Conference on Cognitive Ergonomics
+DOI: 10.1145/3746175.3746211
+URL: https://www.semanticscholar.org/paper/e1f19975a4a31d8c1f55e93f378867404beeba64
+
+BibTeX Citation:
+@article{nembaware2025dark,
+  title={Dark patterns in subscription service cancellation processes},
+  author={Fadzai Emmah Nembaware, Sonia Sousa},
+  year={2025},
+  journal={European Conference on Cognitive Ergonomics},
+  doi={10.1145/3746175.3746211},
+  url={https://www.semanticscholar.org/paper/e1f19975a4a31d8c1f55e93f378867404beeba64},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[5] Subscription Cancellation Projects: How to Quiet Some of the Roar
+----------------------------------------------------------------------------------------------------
+
+Authors: Clint Chamberlain, Beatrice Caraway, Susan P. Andrews
+Publication Date: 2021
+Journal/Venue: ROARING INTO OUR 20's: NASIG 2005
+DOI: 10.4324/9781315864389-33
+URL: https://www.semanticscholar.org/paper/02eae8114aa0b0b81af0be9b6aab651996d692fb
+
+BibTeX Citation:
+@article{chamberlain2021subscription,
+  title={Subscription Cancellation Projects: How to Quiet Some of the Roar},
+  author={Clint Chamberlain, Beatrice Caraway, Susan P. Andrews},
+  year={2021},
+  journal={ROARING INTO OUR 20's: NASIG 2005},
+  doi={10.4324/9781315864389-33},
+  url={https://www.semanticscholar.org/paper/02eae8114aa0b0b81af0be9b6aab651996d692fb},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[6] The Effect of Subscription Type, Subscription Period, and Payment Mode on Subscription Cancellation Intention
+----------------------------------------------------------------------------------------------------
+
+Authors: S. Kang, Se-Bum Park, Nan-hee Jeong
+Publication Date: 2021
+Journal/Venue: Journal of Consumer Studies
+DOI: 10.35736/jcs.32.3.1
+URL: https://www.semanticscholar.org/paper/0c1b0ab61a8aa68bcb9326510fe3d8bac6219d19
+
+BibTeX Citation:
+@article{kang2021the,
+  title={The Effect of Subscription Type, Subscription Period, and Payment Mode on Subscription Cancellation Intention},
+  author={S. Kang, Se-Bum Park, Nan-hee Jeong},
+  year={2021},
+  journal={Journal of Consumer Studies},
+  doi={10.35736/jcs.32.3.1},
+  url={https://www.semanticscholar.org/paper/0c1b0ab61a8aa68bcb9326510fe3d8bac6219d19},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[7] Armacost Library: Subscription Cancellation Project 2017: Home
+----------------------------------------------------------------------------------------------------
+
+Authors: S. Higgins
+Publication Date: 2017
+Journal/Venue: N/A
+DOI: N/A
+URL: https://www.semanticscholar.org/paper/d16e0bea5fb418e451d4fdfadb5751de3c11db0a
+
+BibTeX Citation:
+@article{higgins2017armacost,
+  title={Armacost Library: Subscription Cancellation Project 2017: Home},
+  author={S. Higgins},
+  year={2017},
+  url={https://www.semanticscholar.org/paper/d16e0bea5fb418e451d4fdfadb5751de3c11db0a},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[8] Evaluating Netflix’s User Experience (UX) Through The Lens Of The HEART Metrics Method
+----------------------------------------------------------------------------------------------------
+
+Authors: Yulia Astriani, Dwi Rosa Indah, Meylani Utari, M. H. Syahbani
+Publication Date: 2024
+Journal/Venue: JOURNAL OF APPLIED INFORMATICS AND COMPUTING
+DOI: 10.30871/jaic.v8i2.8727
+URL: https://www.semanticscholar.org/paper/bce64ac6f12cb2bde6e3b54134677ec91109a537
+
+BibTeX Citation:
+@article{astriani2024evaluating,
+  title={Evaluating Netflix’s User Experience (UX) Through The Lens Of The HEART Metrics Method},
+  author={Yulia Astriani, Dwi Rosa Indah, Meylani Utari, M. H. Syahbani},
+  year={2024},
+  journal={JOURNAL OF APPLIED INFORMATICS AND COMPUTING},
+  doi={10.30871/jaic.v8i2.8727},
+  url={https://www.semanticscholar.org/paper/bce64ac6f12cb2bde6e3b54134677ec91109a537},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[9] Indicators that influence decisions on subscription cancellation/renewal of scientific journals on paper medium in Slovene
+----------------------------------------------------------------------------------------------------
+
+Authors: Matjaž Musek
+Publication Date: 2014
+Journal/Venue: Knjižnica
+DOI: 10.55741/knj.46.4.14033
+URL: https://www.semanticscholar.org/paper/bb87c7d81a4e448a965d84a89a1a765936eec6cb
+
+BibTeX Citation:
+@article{musek2014indicators,
+  title={Indicators that influence decisions on subscription cancellation/renewal of scientific journals on paper medium in Slovene},
+  author={Matjaž Musek},
+  year={2014},
+  journal={Knjižnica},
+  doi={10.55741/knj.46.4.14033},
+  url={https://www.semanticscholar.org/paper/bb87c7d81a4e448a965d84a89a1a765936eec6cb},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[10] Recording and Maintaining Post-Cancellation Access
+----------------------------------------------------------------------------------------------------
+
+Authors: Jia Mi, Karen Brunsting
+Publication Date: 2024
+Journal/Venue: NASIG Proceedings
+DOI: 10.3998/nasig.6727
+URL: https://www.semanticscholar.org/paper/4b308ca3509923e0d456f6ec2483f46bace6fa1e
+
+BibTeX Citation:
+@article{mi2024recording,
+  title={Recording and Maintaining Post-Cancellation Access},
+  author={Jia Mi, Karen Brunsting},
+  year={2024},
+  journal={NASIG Proceedings},
+  doi={10.3998/nasig.6727},
+  url={https://www.semanticscholar.org/paper/4b308ca3509923e0d456f6ec2483f46bace6fa1e},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[11] Attitudes of Soviet Citizens towards State Loans 1946-1957 after their Cancellation (Based on Personal Source Materials)
+----------------------------------------------------------------------------------------------------
+
+Authors: M. D. Novikov
+Publication Date: 2024
+Journal/Venue: Nauchnyi Dialog
+DOI: 10.24224/2227-1295-2024-13-4-483-505
+URL: https://www.semanticscholar.org/paper/d82057cacfadda648a5c19e665e52aace028cf8c
+
+BibTeX Citation:
+@article{novikov2024attitudes,
+  title={Attitudes of Soviet Citizens towards State Loans 1946-1957 after their Cancellation (Based on Personal Source Materials)},
+  author={M. D. Novikov},
+  year={2024},
+  journal={Nauchnyi Dialog},
+  doi={10.24224/2227-1295-2024-13-4-483-505},
+  url={https://www.semanticscholar.org/paper/d82057cacfadda648a5c19e665e52aace028cf8c},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[12] Inventory and supply chain management with auto‐delivery subscription
+----------------------------------------------------------------------------------------------------
+
+Authors: Shi Chen, Junfei Lei, K. Moinzadeh
+Publication Date: 2023
+Journal/Venue: Social Science Research Network
+DOI: 10.1111/poms.14078
+URL: https://www.semanticscholar.org/paper/8f0e0098759193162f5ad6918da2c1bd08a2c331
+
+BibTeX Citation:
+@article{chen2023inventory,
+  title={Inventory and supply chain management with auto‐delivery subscription},
+  author={Shi Chen, Junfei Lei, K. Moinzadeh},
+  year={2023},
+  journal={Social Science Research Network},
+  doi={10.1111/poms.14078},
+  url={https://www.semanticscholar.org/paper/8f0e0098759193162f5ad6918da2c1bd08a2c331},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[13] The issues related to agreement of software usage rules and its solution by UX approach
+----------------------------------------------------------------------------------------------------
+
+Authors: Shinichi Fukuzumi
+Publication Date: 2025
+Journal/Venue: AHFE International
+DOI: 10.54941/ahfe1007032
+URL: https://www.semanticscholar.org/paper/7841a00f3239356e856765d8a76b5ece90683655
+
+BibTeX Citation:
+@article{fukuzumi2025the,
+  title={The issues related to agreement of software usage rules and its solution by UX approach},
+  author={Shinichi Fukuzumi},
+  year={2025},
+  journal={AHFE International},
+  doi={10.54941/ahfe1007032},
+  url={https://www.semanticscholar.org/paper/7841a00f3239356e856765d8a76b5ece90683655},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[14] Indispensable or unnecessary?: a data-driven appraisal of post-cancellation access rights
+----------------------------------------------------------------------------------------------------
+
+Authors: Peter Mccracken, Michael Levine-Clark, John Mcdonald, Jason S. Price
+Publication Date: 2023
+Journal/Venue: Insights: The UKSG Journal
+DOI: 10.1629/uksg.601
+URL: https://www.semanticscholar.org/paper/96edcc57deb5d9134e4b4b85e5867e1d52ae1779
+
+BibTeX Citation:
+@article{mccracken2023indispensable,
+  title={Indispensable or unnecessary?: a data-driven appraisal of post-cancellation access rights},
+  author={Peter Mccracken, Michael Levine-Clark, John Mcdonald, Jason S. Price},
+  year={2023},
+  journal={Insights: The UKSG Journal},
+  doi={10.1629/uksg.601},
+  url={https://www.semanticscholar.org/paper/96edcc57deb5d9134e4b4b85e5867e1d52ae1779},
+  note={Source: Semantic Scholar}
+}
+
+----------------------------------------------------------------------------------------------------
+[15] Subscription Cancellation Projects
+----------------------------------------------------------------------------------------------------
+
+Authors: Clint Chamberlain, Beatrice Caraway, S. Andrews
+Publication Date: 2006
+Journal/Venue: N/A
+DOI: 10.1300/J123V50N03_11
+URL: https://www.semanticscholar.org/paper/69f692aa6997e6e6e51d6de35b81630f2932708a
+
+BibTeX Citation:
+@article{chamberlain2006subscription,
+  title={Subscription Cancellation Projects},
+  author={Clint Chamberlain, Beatrice Caraway, S. Andrews},
+  year={2006},
+  doi={10.1300/J123V50N03_11},
+  url={https://www.semanticscholar.org/paper/69f692aa6997e6e6e51d6de35b81630f2932708a},
+  note={Source: Semantic Scholar}
+}
