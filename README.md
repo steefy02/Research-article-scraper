@@ -2,8 +2,6 @@
 
 This system scrapes research papers from multiple academic platforms, organizing results by platform and keyword, with automatic deduplication.
 
-⚠️ **Important**: This scraper requires internet access to academic APIs. It will work on your local machine but cannot run in restricted environments like Claude's sandbox.
-
 ## Files Overview
 
 1. **scraper.py** - Core scraper module (can be used for any keywords/topics)
